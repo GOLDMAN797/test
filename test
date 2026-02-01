@@ -1,0 +1,16 @@
+#EXTM3U x-tvg-url="http://www.teleguide.info/download/newjsc.xml.gz"
+
+#EXTINF:-1 tvg-id="dw-news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Deutsche_Welle_logo.svg" group-title="News", DW News (English)
+https://dwamdstream102.akamaized.net/hls/live/2015430/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/France_24_logo.svg" group-title="News", France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-id="nasa-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science", NASA TV
+https://ntvpublic.akamaized.net/hls/live/2025332/ntvap/index.m3u8
+
+#EXTINF:-1 tvg-id="redbull-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/Red_Bull_TV_logo.svg" group-title="Sports", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/flrb/master.m3u8
+
+#EXTINF:-1 tvg-id="skynews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/i/i9/Sky_News_2023.svg" group-title="News", Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002340/skynewsau/master.m3u8
