@@ -1,16 +1,13 @@
-#EXTM3U x-tvg-url="http://www.teleguide.info/download/newjsc.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
 
-#EXTINF:-1 tvg-id="dw_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Deutsche_Welle_logo.svg/200px-Deutsche_Welle_logo.svg.png" group-title="News", DW News (English)
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Deutsche_Welle_logo.svg/256px-Deutsche_Welle_logo.svg.png" group-title="News", DW News
 https://dwamdstream102.akamaized.net/hls/live/2015430/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="france24_en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/France_24_logo.svg/200px-France_24_logo.svg.png" group-title="News", France 24 English
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/France_24_logo.svg/256px-France_24_logo.svg.png" group-title="News", France 24
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="nasa_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" group-title="Science", NASA TV
+#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/256px-NASA_logo.svg.png" group-title="Science", NASA TV
 https://ntvpublic.akamaized.net/hls/live/2025332/ntvap/index.m3u8
 
-#EXTINF:-1 tvg-id="redbull_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Red_Bull_TV_logo.svg/200px-Red_Bull_TV_logo.svg.png" group-title="Sports", Red Bull TV
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Red_Bull_TV_logo.svg/256px-Red_Bull_TV_logo.svg.png" group-title="Sports", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/flrb/master.m3u8
-
-#EXTINF:-1 tvg-id="sky_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/i/i9/Sky_News_2023.svg/200px-Sky_News_2023.svg.png" group-title="News", Sky News
-https://skynewsau-live.akamaized.net/hls/live/2002340/skynewsau/master.m3u8
