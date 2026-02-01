@@ -1,13 +1,16 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/guide.xml"
 
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Deutsche_Welle_logo.svg/256px-Deutsche_Welle_logo.svg.png" group-title="News", DW News
+#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/DWNews.png" group-title="News", DW News (English)
 https://dwamdstream102.akamaized.net/hls/live/2015430/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/France_24_logo.svg/256px-France_24_logo.svg.png" group-title="News", France 24
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/France24English.png" group-title="News", France 24 English
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/256px-NASA_logo.svg.png" group-title="Science", NASA TV
+#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/NASATV.png" group-title="Science", NASA TV Public
 https://ntvpublic.akamaized.net/hls/live/2025332/ntvap/index.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Red_Bull_TV_logo.svg/256px-Red_Bull_TV_logo.svg.png" group-title="Sports", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/flrb/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/RedBullTV.png" group-title="Sports", Red Bull TV
+https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/SkyNews.png" group-title="News", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
