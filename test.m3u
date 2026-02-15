@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/guide.xml"
 
 #EXTINF:-1 tvg-id="dw-news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Deutsche_Welle_logo.svg" group-title="News", DW News (English)
-https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_144256_p_0.m3u8
 
 #EXTINF:-1 tvg-id="france24-en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/France_24_logo.svg" group-title="News", France 24 English
 https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
