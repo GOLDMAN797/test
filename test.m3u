@@ -1,16 +1,19 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/guide.xml"
 
-#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/DWNews.png" group-title="News", DW News (English)
-https://dwamdstream102.akamaized.net/hls/live/2015430/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="dw-news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Deutsche_Welle_logo.svg" group-title="News", DW News (English)
+https://rpn1.bozztv.com/inim03/live1/modelinc/chunks.m3u8
 
-#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/France24English.png" group-title="News", France 24 English
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/France_24_logo.svg" group-title="News", France 24 English
+https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/NASATV.png" group-title="Science", NASA TV Public
-https://ntvpublic.akamaized.net/hls/live/2025332/ntvap/index.m3u8
+#EXTINF:-1 tvg-id="nasa-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science", NASA TV
+https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/RedBullTV.png" group-title="Sports", Red Bull TV
-https://shls-live-enc.edgenextcdn.net/out/v1/ad35123d4ad041068bce26ae67ee3180/index.m3u8
+#EXTINF:-1 tvg-id="redbull-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/Red_Bull_TV_logo.svg" group-title="Sports", Red Bull TV
+https://fl1004.bozztv.com/ushba-m3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/en/SkyNews.png" group-title="News", Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-id="skynews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/i/i9/Sky_News_2023.svg" group-title="News", Sky News
+https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="skynews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/i/i9/Sky_News_2023.svg" group-title="News", Sky News
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_480854_p_0.m3u8
