@@ -15,16 +15,16 @@ https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video
 #EXTINF:-1 tvg-id="skynews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/i/i9/Sky_News_2023.svg" group-title="News", Sky News
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="skynews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/i/i9/Sky_News_2023.svg" group-title="News", Sky News
+#EXTINF:-1, Sky News-0
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_480854_p_0.m3u8
 
-#EXTINF:-1 tvg-id="skynews" group-title="News", Sky News
+#EXTINF:-1  group-title="News", Sky News 0
 https://limehd.cdnvideo.ru/streaming/tnt4ott/324/5/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="skynews" group-title="News", Sky News 2
+#EXTINF:-1  group-title="News", Sky News 2
 https://mhd128.iptv2022.com/x/qZrTyH7SjrR9apTbWpD64Q,1771257825/streaming/fashion/324/5/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="skynews" group-title="News", Sky News 3
+#EXTINF:-1  group-title="News", Sky News 3
 https://mhd158.iptv2022.com/x/uBmZJYiv_GLpP3Bzz9dF_Q,1771257955/streaming/tv_xxi/324/5/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="skynews" group-title="News", Sky News 4
+#EXTINF:-1  group-title="News", Sky News 4
 https://mhd158.iptv2022.com/x/oaVd7W6W8EBDHesEx6RLDA,1771257776/streaming/moscow24/324/5/tracks-v5a1/mono.ts.m3u8
