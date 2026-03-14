@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Belarus 24 HD BY" tvg-logo="" group-title="Russian",Belarus 24 HD BY
 http://fastopen.live:8080/FcSgD9oNqT/6M4xot9jad/104413
 #EXTINF:-1 tvg-id="" tvg-name="BCU Ultra 4K BY" tvg-logo="" group-title="Russian",BCU Ultra 4K BY
