@@ -137,6 +137,13 @@ https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Fellowship_Of_The_
 https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Two_Towers_2002.m3u8
 #EXTINF:-1 group-title="Movie", Властелин колец: Возвращение Короля (2003)
 https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Return_Of_The_King_2003.m3u8
+#EXTINF:-1 group-title="Movie", Хоббит: Нежданное путешествие (2012)
+https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_An_Unexpected_Journey_2012.m3u8
+#EXTINF:-1 group-title="Movie", Хоббит: Пустошь Смауга (2013)
+https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_The_Desolation_of_Smaug_2013.m3u8
+#EXTINF:-1 group-title="Movie", Хоббит: Битва пяти воинств (2014)
+https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_The_Battle_of_the_Five_Armies_2014.m3u8
+
 #EXTINF:-1 group-title="Movie", Матрица (1999)
 https://m.cdntv.online/f/v6rf4syijn/The_Matrix_1999.m3u8
 #EXTINF:-1 group-title="Movie", Матрица: Революция (2003)
@@ -285,7 +292,7 @@ https://m.cdntv.online/f/v6rf4syijn/The_Departed_2006.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Officery_1971.m3u8
 #EXTINF:-1 group-title="Movie", Пианист (2002)
 https://m.cdntv.online/f/v6rf4syijn/The_Pianist_2002.m3u8
-#EXTINF:-1 group-title="Movie", Se7en (1995)
+#EXTINF:-1 group-title="Movie", Семь (1995)
 https://m.cdntv.online/f/v6rf4syijn/Se7en_1995.m3u8
 #EXTINF:-1 group-title="Movie", Семь жизней (2008)
 https://m.cdntv.online/f/v6rf4syijn/Seven_Pounds_2008.m3u8
@@ -423,12 +430,7 @@ https://m.cdntv.online/f/v6rf4syijn/Men_in_Black_International_2019.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Only_the_Brave_2017.m3u8
 #EXTINF:-1 group-title="Movie", Жизнь других (2006)
 https://m.cdntv.online/f/v6rf4syijn/The_Lives_of_Others_2006.m3u8
-#EXTINF:-1 group-title="Movie", Хоббит: Нежданное путешествие (2012)
-https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_An_Unexpected_Journey_2012.m3u8
-#EXTINF:-1 group-title="Movie", Хоббит: Пустошь Смауга (2013)
-https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_The_Desolation_of_Smaug_2013.m3u8
-#EXTINF:-1 group-title="Movie", Хоббит: Битва пяти воинств (2014)
-https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_The_Battle_of_the_Five_Armies_2014.m3u8
+
 #EXTINF:-1 group-title="Movie", Мимино (1977)
 https://m.cdntv.online/f/v6rf4syijn/Mimino_1977.m3u8
 #EXTINF:-1 group-title="Movie", 12 Стульев (1971)
