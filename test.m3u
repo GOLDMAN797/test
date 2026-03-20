@@ -1,52 +1,38 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Movie", На Западном фронте без перемен (2022)
-https://m.cdntv.online/f/v6rf4syijn/Im_Westen_nichts_Neues_2022.m3u8
-#EXTINF:-1 group-title="Movie", Гордость и предубеждение (2005)
-https://m.cdntv.online/f/v6rf4syijn/Pride_Prejudice_2005.m3u8
-#EXTINF:-1 group-title="Movie", Джуманджи: Новый уровень (2019)
-https://m.cdntv.online/f/v6rf4syijn/Jumanji_The_Next_Level_2019.m3u8
-#EXTINF:-1 group-title="Movie", Великий Гэтсби (2013)
-https://m.cdntv.online/f/v6rf4syijn/The_Great_Gatsby_2013.m3u8
-#EXTINF:-1 group-title="Movie", Криминальное чтиво (1994)
-https://m.cdntv.online/f/v6rf4syijn/Pulp_Fiction_1994.m3u8
-#EXTINF:-1 group-title="Movie", Искупление (2007)
-https://m.cdntv.online/f/v6rf4syijn/Atonement_2007.m3u8
+#EXTINF:-1 group-title="Movie", Матрица (1999)
+https://m.cdntv.online/f/v6rf4syijn/The_Matrix_1999.m3u8
+#EXTINF:-1 group-title="Movie", Матрица: Революция (2003)
+https://m.cdntv.online/f/v6rf4syijn/The_Matrix_Revolutions_2003.m3u8
+#EXTINF:-1 group-title="Movie", Матрица: Перезагрузка (2003)
+https://m.cdntv.online/f/v6rf4syijn/The_Matrix_Reloaded_2003.m3u8
+#EXTINF:-1 group-title="Movie", Матрица: Воскрешение (2021)
+https://m.cdntv.online/f/v6rf4syijn/The_Matrix_Resurrections_2021.m3u8
 #EXTINF:-1 group-title="Movie", Бэтмен: Начало (2005)
 https://m.cdntv.online/f/v6rf4syijn/Batman_Begins_2005.m3u8
-#EXTINF:-1 group-title="Movie", Индиана Джонс: В поисках утраченного ковчега (1981)
-https://m.cdntv.online/f/v6rf4syijn/Indiana_Dzhons_v_Poiskah_Utrachennogo_Kovchega_1981.m3u8
-#EXTINF:-1 group-title="Movie", Индиана Джонс и Храм судьбы (1984)
-https://m.cdntv.online/f/v6rf4syijn/Indiana_Jones_and_the_Temple_of_Doom_1984.m3u8
-#EXTINF:-1 group-title="Movie", Индиана Джонс и последний крестовый поход (1989)
-https://m.cdntv.online/f/v6rf4syijn/Indiana_Jones_And_The_Last_Crusade_1989.m3u8
-#EXTINF:-1 group-title="Movie", Индиана Джонс и Королевство хрустального черепа (2008)
-https://m.cdntv.online/f/v6rf4syijn/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull_2008.m3u8
-#EXTINF:-1 group-title="Movie", Железный человек (2008)
-https://m.cdntv.online/f/v6rf4syijn/Iron_Man_2008.m3u8
-#EXTINF:-1 group-title="Movie", Железный человек 2 (2010)
-https://m.cdntv.online/f/v6rf4syijn/Iron_Man_2_2010.m3u8
-#EXTINF:-1 group-title="Movie", Железный человек 3 (2013)
-https://m.cdntv.online/f/v6rf4syijn/Iron_Man_3_2013.m3u8
-#EXTINF:-1 group-title="Movie", Знакомьтесь. Джо Блэк (1998)
-https://m.cdntv.online/f/v6rf4syijn/Meet_Joe_Black_1998.m3u8
-#EXTINF:-1 group-title="Movie", Планета Ка-Пэкс (2001)
-https://m.cdntv.online/f/v6rf4syijn/K-PAX_2001.m3u8
-#EXTINF:-1 group-title="Movie", Малышка на миллион (2004)
-https://m.cdntv.online/f/v6rf4syijn/Million_Dollar_Baby_2004.m3u8
-#EXTINF:-1 group-title="Movie", Пленницы (2013)
-https://m.cdntv.online/f/v6rf4syijn/Prisoners_2013.m3u8
-#EXTINF:-1 group-title="Movie", Психо (1998)
-https://m.cdntv.online/f/v6rf4syijn/Psycho_1998.m3u8
-#EXTINF:-1 group-title="Movie", Пока не сыграл в ящик (2007)
-https://m.cdntv.online/f/v6rf4syijn/The_Bucket_List_2007.m3u8
-#EXTINF:-1 group-title="Movie", Король говорит! (2010)
-https://m.cdntv.online/f/v6rf4syijn/The_Kings_Speech_2010.m3u8
-#EXTINF:-1 group-title="Movie", Выживший (2015)
-https://m.cdntv.online/f/v6rf4syijn/The_Revenant_2015.m3u8
-#EXTINF:-1 group-title="Movie", Мы купили зоопарк (2011)
-https://m.cdntv.online/f/v6rf4syijn/We_Bought_Zoo_2011.m3u8
-#EXTINF:-1 group-title="Movie", Курьер (1986)
-https://m.cdntv.online/f/v6rf4syijn/Kurjer_1986.m3u8
+#EXTINF:-1 group-title="Movie", Тёмный рыцарь (2008)
+https://m.cdntv.online/f/v6rf4syijn/Tjemnyi_Rycvarj_2008.m3u8
+#EXTINF:-1 group-title="Movie", Тёмный рыцарь: Возрождение легенды (2012)
+https://m.cdntv.online/f/v6rf4syijn/The_Dark_Knight_Rises_2012.m3u8
+
+#EXTINF:-1 group-title="Movie", Крёстный отец (1972)
+https://m.cdntv.online/f/v6rf4syijn/The_Godfather_1972.m3u8
+#EXTINF:-1 group-title="Movie", Крёстный отец 2 (1974)
+https://m.cdntv.online/f/v6rf4syijn/The_Godfather_Part_II_1974.m3u8
+#EXTINF:-1 group-title="Movie", Крёстный отец 3 (1990)
+https://m.cdntv.online/f/v6rf4syijn/The_Godfather_Part_III_1990.m3u8
+#EXTINF:-1 group-title="Movie", Властелин колец: Братство кольца (2001)
+https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Fellowship_Of_The_Ring_2001.m3u8
+#EXTINF:-1 group-title="Movie", Властелин колец: Две крепости (2002)
+https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Two_Towers_2002.m3u8
+#EXTINF:-1 group-title="Movie", Властелин колец: Возвращение Короля (2003)
+https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Return_Of_The_King_2003.m3u8
+#EXTINF:-1 group-title="Movie", Хоббит: Нежданное путешествие (2012)
+https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_An_Unexpected_Journey_2012.m3u8
+#EXTINF:-1 group-title="Movie", Хоббит: Пустошь Смауга (2013)
+https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_The_Desolation_of_Smaug_2013.m3u8
+#EXTINF:-1 group-title="Movie", Хоббит: Битва пяти воинств (2014)
+https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_The_Battle_of_the_Five_Armies_2014.m3u8
+
 #EXTINF:-1 group-title="Movie", Гарри Поттер и философский камень (2001)
 https://m.cdntv.online/f/v6rf4syijn/Harry_Potter_and_the_Sorcerers_Stone_2001.m3u8
 #EXTINF:-1 group-title="Movie", Гарри Поттер и тайная комната (2002)
@@ -63,6 +49,124 @@ https://m.cdntv.online/f/v6rf4syijn/Harry_Potter_and_the_Half_Blood_Prince_2009.
 https://m.cdntv.online/f/v6rf4syijn/Harry_Potter_and_the_Deathly_Hallows_Part_1_2010.m3u8
 #EXTINF:-1 group-title="Movie", Гарри Поттер и Дары Смерти: Часть II (2011)
 https://m.cdntv.online/f/v6rf4syijn/Harry_Potter_and_the_Deathly_Hallows_Part_2_2011.m3u8
+#EXTINF:-1 group-title="Movie", Пираты Карибского моря: Проклятие Чёрной жемчужины (2003)
+https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_2003.m3u8
+#EXTINF:-1 group-title="Movie", Пираты Карибского моря: Сундук мертвеца (2006)
+https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_Dead_Mans_Chest_2006.m3u8
+#EXTINF:-1 group-title="Movie", Пираты Карибского моря: На краю света (2007)
+https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_AtWorlds_End_2007.m3u8
+#EXTINF:-1 group-title="Movie", Пираты Карибского моря: На странных берегах (2011)
+https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_On_Stranger_Tides_2011.m3u8
+#EXTINF:-1 group-title="Movie", Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
+https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales_2017.m3u8
+#EXTINF:-1 group-title="Movie", Великий Гэтсби (2013)
+https://m.cdntv.online/f/v6rf4syijn/The_Great_Gatsby_2013.m3u8
+#EXTINF:-1 group-title="Movie", Криминальное чтиво (1994)
+https://m.cdntv.online/f/v6rf4syijn/Pulp_Fiction_1994.m3u8
+#EXTINF:-1 group-title="Movie", Начало (2010)
+https://m.cdntv.online/f/v6rf4syijn/Inception_2010.m3u8
+#EXTINF:-1 group-title="Movie", Лига справедливости Зака Снайдера (2021)
+https://m.cdntv.online/f/v6rf4syijn/Zack_Snyders_Justice_League_2021.m3u8
+#EXTINF:-1 group-title="Movie", Зелёная миля (1999)
+https://m.cdntv.online/f/v6rf4syijn/The_Green_Mile_1999.m3u8
+#EXTINF:-1 group-title="Movie", Побег из Шоушенка (1994)
+https://m.cdntv.online/f/v6rf4syijn/The_Shawshank_Redemption_1994.m3u8
+#EXTINF:-1 group-title="Movie", Игры разума (2001)
+https://m.cdntv.online/f/v6rf4syijn/Igry_Razuma_2001.m3u8
+#EXTINF:-1 group-title="Movie", Интерстеллар (2014)
+https://m.cdntv.online/f/v6rf4syijn/Interstellar_2014.m3u8
+#EXTINF:-1 group-title="Movie", 1 + 1 (2011)
+https://m.cdntv.online/f/v6rf4syijn/Intouchables_2011.m3u8
+#EXTINF:-1 group-title="Movie", Гаттака (1997)
+https://m.cdntv.online/f/v6rf4syijn/Gattaca_1997.m3u8
+#EXTINF:-1 group-title="Movie", Один дома (1990)
+https://m.cdntv.online/f/v6rf4syijn/Home_Alone_1990.m3u8
+#EXTINF:-1 group-title="Movie", Один дома 2: Затерянный в Нью-Йорке (1992)
+https://m.cdntv.online/f/v6rf4syijn/Home_Alone_2_Lost_in_New_York_1992.m3u8
+#EXTINF:-1 group-title="Movie", Выживший (2015)
+https://m.cdntv.online/f/v6rf4syijn/The_Revenant_2015.m3u8
+#EXTINF:-1 group-title="Movie", Джанго освобождённый (2012)
+https://m.cdntv.online/f/v6rf4syijn/Django_Unchained_2012.m3u8
+#EXTINF:-1 group-title="Movie", Форрест Гамп (1994)
+https://m.cdntv.online/f/v6rf4syijn/Forrest_Gump_1994.m3u8
+#EXTINF:-1 group-title="Movie", Области тьмы (2011)
+https://m.cdntv.online/f/v6rf4syijn/Limitless_2011.m3u8
+#EXTINF:-1 group-title="Movie", Отступники (2006)
+https://m.cdntv.online/f/v6rf4syijn/The_Departed_2006.m3u8
+#EXTINF:-1 group-title="Movie", Зелёная книга (2018)
+https://m.cdntv.online/f/v6rf4syijn/Green_Book_2018.m3u8
+#EXTINF:-1 group-title="Movie", Джентльмены (2020)
+https://m.cdntv.online/f/v6rf4syijn/The_Gentlemen_2020.m3u8
+#EXTINF:-1 group-title="Movie", Бойцовский клуб (1999)
+https://m.cdntv.online/f/v6rf4syijn/Fight_Club_1999.m3u8
+#EXTINF:-1 group-title="Movie", Достучаться до небес (1997)
+https://m.cdntv.online/f/v6rf4syijn/Knockin_On_Heavens_Door_1997.m3u8
+#EXTINF:-1 group-title="Movie", Леон (1994)
+https://m.cdntv.online/f/v6rf4syijn/Leon_1994.m3u8
+#EXTINF:-1 group-title="Movie", Семь (1995)
+https://m.cdntv.online/f/v6rf4syijn/Se7en_1995.m3u8
+#EXTINF:-1 group-title="Movie", Семь жизней (2008)
+https://m.cdntv.online/f/v6rf4syijn/Seven_Pounds_2008.m3u8
+#EXTINF:-1 group-title="Movie", Остров проклятых (2010)
+https://m.cdntv.online/f/v6rf4syijn/Shutter_Island_2010.m3u8
+#EXTINF:-1 group-title="Movie", Знакомьтесь. Джо Блэк (1998)
+https://m.cdntv.online/f/v6rf4syijn/Meet_Joe_Black_1998.m3u8
+#EXTINF:-1 group-title="Movie", Малышка на миллион (2004)
+https://m.cdntv.online/f/v6rf4syijn/Million_Dollar_Baby_2004.m3u8
+#EXTINF:-1 group-title="Movie", Пленницы (2013)
+https://m.cdntv.online/f/v6rf4syijn/Prisoners_2013.m3u8
+#EXTINF:-1 group-title="Movie", Планета Ка-Пэкс (2001)
+https://m.cdntv.online/f/v6rf4syijn/K-PAX_2001.m3u8
+#EXTINF:-1 group-title="Movie", Назад в будущее (1985)
+https://m.cdntv.online/f/v6rf4syijn/Back_to_the_Future_1985.m3u8
+#EXTINF:-1 group-title="Movie", Назад в будущее 2 (1989)
+https://m.cdntv.online/f/v6rf4syijn/Back_to_the_Future_Part_II_1989.m3u8
+#EXTINF:-1 group-title="Movie", Назад в будущее 3 (1990)
+https://m.cdntv.online/f/v6rf4syijn/Back_To_The_Future_Part_III_1990.m3u8
+#EXTINF:-1 group-title="Movie", Поймай меня, если сможешь (2002)
+https://m.cdntv.online/f/v6rf4syijn/Catch_Me_If_You_Can_2002.m3u8
+
+
+#EXTINF:-1 group-title="Movie", На Западном фронте без перемен (2022)
+https://m.cdntv.online/f/v6rf4syijn/Im_Westen_nichts_Neues_2022.m3u8
+#EXTINF:-1 group-title="Movie", Гордость и предубеждение (2005)
+https://m.cdntv.online/f/v6rf4syijn/Pride_Prejudice_2005.m3u8
+#EXTINF:-1 group-title="Movie", Джуманджи: Новый уровень (2019)
+https://m.cdntv.online/f/v6rf4syijn/Jumanji_The_Next_Level_2019.m3u8
+
+#EXTINF:-1 group-title="Movie", Искупление (2007)
+https://m.cdntv.online/f/v6rf4syijn/Atonement_2007.m3u8
+
+
+#EXTINF:-1 group-title="Movie", Индиана Джонс: В поисках утраченного ковчега (1981)
+https://m.cdntv.online/f/v6rf4syijn/Indiana_Dzhons_v_Poiskah_Utrachennogo_Kovchega_1981.m3u8
+#EXTINF:-1 group-title="Movie", Индиана Джонс и Храм судьбы (1984)
+https://m.cdntv.online/f/v6rf4syijn/Indiana_Jones_and_the_Temple_of_Doom_1984.m3u8
+#EXTINF:-1 group-title="Movie", Индиана Джонс и последний крестовый поход (1989)
+https://m.cdntv.online/f/v6rf4syijn/Indiana_Jones_And_The_Last_Crusade_1989.m3u8
+#EXTINF:-1 group-title="Movie", Индиана Джонс и Королевство хрустального черепа (2008)
+https://m.cdntv.online/f/v6rf4syijn/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull_2008.m3u8
+#EXTINF:-1 group-title="Movie", Железный человек (2008)
+https://m.cdntv.online/f/v6rf4syijn/Iron_Man_2008.m3u8
+#EXTINF:-1 group-title="Movie", Железный человек 2 (2010)
+https://m.cdntv.online/f/v6rf4syijn/Iron_Man_2_2010.m3u8
+#EXTINF:-1 group-title="Movie", Железный человек 3 (2013)
+https://m.cdntv.online/f/v6rf4syijn/Iron_Man_3_2013.m3u8
+
+
+
+#EXTINF:-1 group-title="Movie", Психо (1998)
+https://m.cdntv.online/f/v6rf4syijn/Psycho_1998.m3u8
+#EXTINF:-1 group-title="Movie", Пока не сыграл в ящик (2007)
+https://m.cdntv.online/f/v6rf4syijn/The_Bucket_List_2007.m3u8
+#EXTINF:-1 group-title="Movie", Король говорит! (2010)
+https://m.cdntv.online/f/v6rf4syijn/The_Kings_Speech_2010.m3u8
+
+#EXTINF:-1 group-title="Movie", Мы купили зоопарк (2011)
+https://m.cdntv.online/f/v6rf4syijn/We_Bought_Zoo_2011.m3u8
+#EXTINF:-1 group-title="Movie", Курьер (1986)
+https://m.cdntv.online/f/v6rf4syijn/Kurjer_1986.m3u8
+
 #EXTINF:-1 group-title="Movie", Форсаж (2001)
 https://m.cdntv.online/f/v6rf4syijn/The_Fast_And_The_Furious_2001.m3u8
 #EXTINF:-1 group-title="Movie", Форсаж 2 (2003)
@@ -105,16 +209,13 @@ https://m.cdntv.online/f/v6rf4syijn/Apocalypto_2006.m3u8
 https://m.cdntv.online/f/v6rf4syijn/A_Dogs_Purpose_2017.m3u8
 #EXTINF:-1 group-title="Movie", Собачья жизнь 2 (2019)
 https://m.cdntv.online/f/v6rf4syijn/A_Dogs_Journey_2019.m3u8
-#EXTINF:-1 group-title="Movie", Гаттака (1997)
-https://m.cdntv.online/f/v6rf4syijn/Gattaca_1997.m3u8
-#EXTINF:-1 group-title="Movie", Зелёная книга (2018)
-https://m.cdntv.online/f/v6rf4syijn/Green_Book_2018.m3u8
+
+
 #EXTINF:-1 group-title="Movie", Скрытые фигуры (2016)
 https://m.cdntv.online/f/v6rf4syijn/Hidden_Figures_2016.m3u8
 #EXTINF:-1 group-title="Movie", Джуманджи (1995)
 https://m.cdntv.online/f/v6rf4syijn/Jumanji_1995.m3u8
-#EXTINF:-1 group-title="Movie", Области тьмы (2011)
-https://m.cdntv.online/f/v6rf4syijn/Limitless_2011.m3u8
+
 #EXTINF:-1 group-title="Movie", Марли и я (2008)
 https://m.cdntv.online/f/v6rf4syijn/Marley_and_Me_2008.m3u8
 #EXTINF:-1 group-title="Movie", Марсианин (2015)
@@ -125,73 +226,29 @@ https://m.cdntv.online/f/v6rf4syijn/Nokdaun_2005.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Oktyabrjskoe_nebo_1999.m3u8
 #EXTINF:-1 group-title="Movie", Восточный ветер (2013)
 https://m.cdntv.online/f/v6rf4syijn/Ostwind_2013.m3u8
-#EXTINF:-1 group-title="Movie", Крёстный отец (1972)
-https://m.cdntv.online/f/v6rf4syijn/The_Godfather_1972.m3u8
-#EXTINF:-1 group-title="Movie", Крёстный отец 2 (1974)
-https://m.cdntv.online/f/v6rf4syijn/The_Godfather_Part_II_1974.m3u8
-#EXTINF:-1 group-title="Movie", Крёстный отец 3 (1990)
-https://m.cdntv.online/f/v6rf4syijn/The_Godfather_Part_III_1990.m3u8
-#EXTINF:-1 group-title="Movie", Властелин колец: Братство кольца (2001)
-https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Fellowship_Of_The_Ring_2001.m3u8
-#EXTINF:-1 group-title="Movie", Властелин колец: Две крепости (2002)
-https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Two_Towers_2002.m3u8
-#EXTINF:-1 group-title="Movie", Властелин колец: Возвращение Короля (2003)
-https://m.cdntv.online/f/v6rf4syijn/The_Lord_Of_The_Rings_The_Return_Of_The_King_2003.m3u8
-#EXTINF:-1 group-title="Movie", Хоббит: Нежданное путешествие (2012)
-https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_An_Unexpected_Journey_2012.m3u8
-#EXTINF:-1 group-title="Movie", Хоббит: Пустошь Смауга (2013)
-https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_The_Desolation_of_Smaug_2013.m3u8
-#EXTINF:-1 group-title="Movie", Хоббит: Битва пяти воинств (2014)
-https://m.cdntv.online/f/v6rf4syijn/The_Hobbit_The_Battle_of_the_Five_Armies_2014.m3u8
 
-#EXTINF:-1 group-title="Movie", Матрица (1999)
-https://m.cdntv.online/f/v6rf4syijn/The_Matrix_1999.m3u8
-#EXTINF:-1 group-title="Movie", Матрица: Революция (2003)
-https://m.cdntv.online/f/v6rf4syijn/The_Matrix_Revolutions_2003.m3u8
-#EXTINF:-1 group-title="Movie", Матрица: перезагрузка (2003)
-https://m.cdntv.online/f/v6rf4syijn/The_Matrix_Reloaded_2003.m3u8
-#EXTINF:-1 group-title="Movie", Матрица: Воскрешение (2021)
-https://m.cdntv.online/f/v6rf4syijn/The_Matrix_Resurrections_2021.m3u8
-#EXTINF:-1 group-title="Movie", Побег из Шоушенка (1994)
-https://m.cdntv.online/f/v6rf4syijn/The_Shawshank_Redemption_1994.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Movie", Вселенная Стивена Хокинга (2014)
 https://m.cdntv.online/f/v6rf4syijn/The_Theory_of_Everything_2014.m3u8
 #EXTINF:-1 group-title="Movie", Того (2019)
 https://m.cdntv.online/f/v6rf4syijn/Togo_2019.m3u8
-#EXTINF:-1 group-title="Movie", Тёмный рыцарь (2008)
-https://m.cdntv.online/f/v6rf4syijn/Tjemnyi_Rycvarj_2008.m3u8
-#EXTINF:-1 group-title="Movie", Тёмный рыцарь: Возрождение легенды (2012)
-https://m.cdntv.online/f/v6rf4syijn/The_Dark_Knight_Rises_2012.m3u8
-#EXTINF:-1 group-title="Movie", Назад в будущее (1985)
-https://m.cdntv.online/f/v6rf4syijn/Back_to_the_Future_1985.m3u8
-#EXTINF:-1 group-title="Movie", Назад в будущее 2 (1989)
-https://m.cdntv.online/f/v6rf4syijn/Back_to_the_Future_Part_II_1989.m3u8
-#EXTINF:-1 group-title="Movie", Назад в будущее 3 (1990)
-https://m.cdntv.online/f/v6rf4syijn/Back_To_The_Future_Part_III_1990.m3u8
+
+
 #EXTINF:-1 group-title="Movie", Брат (1997)
 https://m.cdntv.online/f/v6rf4syijn/Brat_1997.m3u8
 #EXTINF:-1 group-title="Movie", Брат 2 (2000)
 https://m.cdntv.online/f/v6rf4syijn/Brat_2_2000.m3u8
-#EXTINF:-1 group-title="Movie", Поймай меня, если сможешь (2002)
-https://m.cdntv.online/f/v6rf4syijn/Catch_Me_If_You_Can_2002.m3u8
-#EXTINF:-1 group-title="Movie", Джанго освобождённый (2012)
-https://m.cdntv.online/f/v6rf4syijn/Django_Unchained_2012.m3u8
-#EXTINF:-1 group-title="Movie", Форрест Гамп (1994)
-https://m.cdntv.online/f/v6rf4syijn/Forrest_Gump_1994.m3u8
+
+
 #EXTINF:-1 group-title="Movie", Стражи Галактики (2014)
 https://m.cdntv.online/f/v6rf4syijn/Guardians_of_the_Galaxy_2014.m3u8
 #EXTINF:-1 group-title="Movie", Стражи Галактики Часть 2 (2017)
 https://m.cdntv.online/f/v6rf4syijn/Guardians_of_the_Galaxy_Vol2_2017.m3u8
-#EXTINF:-1 group-title="Movie", Один дома (1990)
-https://m.cdntv.online/f/v6rf4syijn/Home_Alone_1990.m3u8
-#EXTINF:-1 group-title="Movie", Один дома 2: Затерянный в Нью-Йорке (1992)
-https://m.cdntv.online/f/v6rf4syijn/Home_Alone_2_Lost_in_New_York_1992.m3u8
-#EXTINF:-1 group-title="Movie", Игры разума (2001)
-https://m.cdntv.online/f/v6rf4syijn/Igry_Razuma_2001.m3u8
-#EXTINF:-1 group-title="Movie", Интерстеллар (2014)
-https://m.cdntv.online/f/v6rf4syijn/Interstellar_2014.m3u8
-#EXTINF:-1 group-title="Movie", 1 + 1 (2011)
-https://m.cdntv.online/f/v6rf4syijn/Intouchables_2011.m3u8
+
+
 #EXTINF:-1 group-title="Movie", Иван Васильевич меняет профессию (1973)
 https://m.cdntv.online/f/v6rf4syijn/Ivan_Vasilievich_Memjaet_Professiju_1973.m3u8
 #EXTINF:-1 group-title="Movie", Джентельмены удачи (1971)
@@ -222,34 +279,18 @@ https://m.cdntv.online/f/v6rf4syijn/The_Terminator_1984.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Terminator_2_Judgment_Day_1991.m3u8
 #EXTINF:-1 group-title="Movie", Мстители (2012)
 https://m.cdntv.online/f/v6rf4syijn/The_Avengers_2012.m3u8
-#EXTINF:-1 group-title="Movie", Зелёная миля (1999)
-https://m.cdntv.online/f/v6rf4syijn/The_Green_Mile_1999.m3u8
+
 #EXTINF:-1 group-title="Movie", Профессионал (1981)
 https://m.cdntv.online/f/v6rf4syijn/The_Professional_1981.m3u8
-#EXTINF:-1 group-title="Movie", Джентльмены (2019)
-https://m.cdntv.online/f/v6rf4syijn/The_Gentlemen_2020.m3u8
+
 #EXTINF:-1 group-title="Movie", В бой идут одни «старики» (1973)
 https://m.cdntv.online/f/v6rf4syijn/V_Boy_Idut_Odni_Stariki_1973.m3u8
 #EXTINF:-1 group-title="Movie", Одержимость (2013)
 https://m.cdntv.online/f/v6rf4syijn/Whiplash_2013.m3u8
-#EXTINF:-1 group-title="Movie", Бойцовский клуб (1999)
-https://m.cdntv.online/f/v6rf4syijn/Fight_Club_1999.m3u8
-#EXTINF:-1 group-title="Movie", Достучаться до небес (1997)
-https://m.cdntv.online/f/v6rf4syijn/Knockin_On_Heavens_Door_1997.m3u8
-#EXTINF:-1 group-title="Movie", Леон (1994)
-https://m.cdntv.online/f/v6rf4syijn/Leon_1994.m3u8
+
 #EXTINF:-1 group-title="Movie", Аватар (2009)
 https://m.cdntv.online/f/v6rf4syijn/Avatar_2009.m3u8
-#EXTINF:-1 group-title="Movie", Пираты Карибского моря: Проклятие Чёрной жемчужины (2003)
-https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_2003.m3u8
-#EXTINF:-1 group-title="Movie", Пираты Карибского моря: Сундук мертвеца (2006)
-https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_Dead_Mans_Chest_2006.m3u8
-#EXTINF:-1 group-title="Movie", Пираты Карибского моря: На краю света (2007)
-https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_AtWorlds_End_2007.m3u8
-#EXTINF:-1 group-title="Movie", Пираты Карибского моря: На странных берегах (2011)
-https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_On_Stranger_Tides_2011.m3u8
-#EXTINF:-1 group-title="Movie", Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
-https://m.cdntv.online/f/v6rf4syijn/Pirates_of_the_Caribbean_Dead_Men_Tell_No_Tales_2017.m3u8
+
 #EXTINF:-1 group-title="Movie", 12 разгневанных мужчин (1957)
 https://m.cdntv.online/f/v6rf4syijn/12_Razgnevannyh_Muzhchin_1957.m3u8
 #EXTINF:-1 group-title="Movie", Заплати другому (2000)
@@ -286,18 +327,12 @@ https://m.cdntv.online/f/v6rf4syijn/Prikljuchenijz_Shurika_1967.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Ljubovj_i_Golubi_1984.m3u8
 #EXTINF:-1 group-title="Movie", Омерзительная восьмёрка (2015)
 https://m.cdntv.online/f/v6rf4syijn/The_Hateful_Eight_2015.m3u8
-#EXTINF:-1 group-title="Movie", Отступники (2006)
-https://m.cdntv.online/f/v6rf4syijn/The_Departed_2006.m3u8
+
 #EXTINF:-1 group-title="Movie", Офицеры (1971)
 https://m.cdntv.online/f/v6rf4syijn/Officery_1971.m3u8
 #EXTINF:-1 group-title="Movie", Пианист (2002)
 https://m.cdntv.online/f/v6rf4syijn/The_Pianist_2002.m3u8
-#EXTINF:-1 group-title="Movie", Семь (1995)
-https://m.cdntv.online/f/v6rf4syijn/Se7en_1995.m3u8
-#EXTINF:-1 group-title="Movie", Семь жизней (2008)
-https://m.cdntv.online/f/v6rf4syijn/Seven_Pounds_2008.m3u8
-#EXTINF:-1 group-title="Movie", Остров проклятых (2010)
-https://m.cdntv.online/f/v6rf4syijn/Shutter_Island_2010.m3u8
+
 #EXTINF:-1 group-title="Movie", Служебный роман (1977)
 https://m.cdntv.online/f/v6rf4syijn/Sluzhebnyj_Roman_1977.m3u8
 #EXTINF:-1 group-title="Movie", Титаник (1997)
@@ -370,8 +405,7 @@ https://m.cdntv.online/f/v6rf4syijn/The_Curious_Case_Of_Benjamin_Button_2008.m3u
 https://m.cdntv.online/f/v6rf4syijn/Scent_Of_A_Woman_1992.m3u8
 #EXTINF:-1 group-title="Movie", Летят журавли (1957)
 https://m.cdntv.online/f/v6rf4syijn/Letjat_Zhuravli_1957.m3u8
-#EXTINF:-1 group-title="Movie", Лига справедливости Зака Снайдера (2021)
-https://m.cdntv.online/f/v6rf4syijn/Zack_Snyders_Justice_League_2021.m3u8
+
 #EXTINF:-1 group-title="Movie", Невидимая сторона (2009)
 https://m.cdntv.online/f/v6rf4syijn/The_Blind_Side_2009.m3u8
 #EXTINF:-1 group-title="Movie", Однажды в Америке (1984)
@@ -523,8 +557,7 @@ https://m.cdntv.online/f/v6rf4syijn/Pele_Rozhdenie_Legendy_2016.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Formula_Lubvi_1984.m3u8
 #EXTINF:-1 group-title="Movie", Доктор Лиза (2020)
 https://m.cdntv.online/f/v6rf4syijn/Doctor_Liza_2020.m3u8
-#EXTINF:-1 group-title="Movie", Начало (2010)
-https://m.cdntv.online/f/v6rf4syijn/Inception_2010.m3u8
+
 #EXTINF:-1 group-title="Movie", Мачеха (1998)
 https://m.cdntv.online/f/v6rf4syijn/Macheha_1998.m3u8
 #EXTINF:-1 group-title="Movie", Мужики!.. (1981)
@@ -1747,83 +1780,83 @@ https://m.cdntv.online/f/v6rf4syijn/Anniversary.m3u8
 https://m.cdntv.online/f/v6rf4syijn/AftertheHunt.m3u8
 #EXTINF:-1 group-title="Movie", Игра Дедала (2025)
 https://m.cdntv.online/f/v6rf4syijn/Dedalus.m3u8
-#EXTINF:-1 group-title="история vod", Новая волна (2025)
+#EXTINF:-1 group-title="История vod", Новая волна (2025)
 https://m.cdntv.online/f/v6rf4syijn/NouvelleVague.m3u8
 #EXTINF:-1 group-title="История vod", Хамнет: история вдохновившая «Гамлета» (2025)
 https://m.cdntv.online/f/v6rf4syijn/Hamnet_2025.m3u8
-#EXTINF:-1 group-title="история vod", Брюссель (2024)
+#EXTINF:-1 group-title="История vod", Брюссель (2024)
 https://m.cdntv.online/f/v6rf4syijn/BXL.m3u8
-#EXTINF:-1 group-title="история vod", Спрингстин. Избавь меня от небытия (2025)
+#EXTINF:-1 group-title="История vod", Спрингстин. Избавь меня от небытия (2025)
 https://m.cdntv.online/f/v6rf4syijn/SpringsteenDeliverMefromNowhere.m3u8
-#EXTINF:-1 group-title="история vod", Мы едем едем едем (2025)
+#EXTINF:-1 group-title="История vod", Мы едем едем едем (2025)
 https://m.cdntv.online/f/v6rf4syijn/MerrilyWeRollAlong.m3u8
-#EXTINF:-1 group-title="история vod", Мелодия их мечты (2025)
+#EXTINF:-1 group-title="История vod", Мелодия их мечты (2025)
 https://m.cdntv.online/f/v6rf4syijn/SongSungBlue.m3u8
-#EXTINF:-1 group-title="история vod", Хорошие новости (2025)
+#EXTINF:-1 group-title="История vod", Хорошие новости (2025)
 https://m.cdntv.online/f/v6rf4syijn/GoodNews.m3u8
-#EXTINF:-1 group-title="история vod", Я ругаюсь (2025)
+#EXTINF:-1 group-title="История vod", Я ругаюсь (2025)
 https://m.cdntv.online/f/v6rf4syijn/ISwear.m3u8
-#EXTINF:-1 group-title="история vod", День Питера Худжара (2025)
+#EXTINF:-1 group-title="История vod", День Питера Худжара (2025)
 https://m.cdntv.online/f/v6rf4syijn/PeterHujarsDay.m3u8
-#EXTINF:-1 group-title="история vod", Кристи (2025)
+#EXTINF:-1 group-title="История vod", Кристи (2025)
 https://m.cdntv.online/f/v6rf4syijn/Christy.m3u8
-#EXTINF:-1 group-title="история vod", Франц Фанон (2024)
+#EXTINF:-1 group-title="История vod", Франц Фанон (2024)
 https://m.cdntv.online/f/v6rf4syijn/Fanon.m3u8
-#EXTINF:-1 group-title="история vod", Крушиткль (2025)
+#EXTINF:-1 group-title="История vod", Крушиткль (2025)
 https://m.cdntv.online/f/v6rf4syijn/TheSmashingMachine.m3u8
-#EXTINF:-1 group-title="история vod", Вальсируя с Брандо (2024)
+#EXTINF:-1 group-title="История vod", Вальсируя с Брандо (2024)
 https://m.cdntv.online/f/v6rf4syijn/WaltzingwithBrando.m3u8
-#EXTINF:-1 group-title="история vod", Моди: Три дня на крыльях безумия (2024)
+#EXTINF:-1 group-title="История vod", Моди: Три дня на крыльях безумия (2024)
 https://m.cdntv.online/f/v6rf4syijn/Modìgliani.m3u8
-#EXTINF:-1 group-title="история vod", Падение короны (2024)
+#EXTINF:-1 group-title="История vod", Падение короны (2024)
 https://m.cdntv.online/f/v6rf4syijn/TheFlood2025.m3u8
-#EXTINF:-1 group-title="история vod", Игра королевы (2023)
+#EXTINF:-1 group-title="История vod", Игра королевы (2023)
 https://m.cdntv.online/f/v6rf4syijn/Firebrand.m3u8
-#EXTINF:-1 group-title="история vod", Земмельвейс (2025)
+#EXTINF:-1 group-title="История vod", Земмельвейс (2025)
 https://m.cdntv.online/f/v6rf4syijn/Semmelweis.m3u8
-#EXTINF:-1 group-title="история vod", Свайпнуть (2025)
+#EXTINF:-1 group-title="История vod", Свайпнуть (2025)
 https://m.cdntv.online/f/v6rf4syijn/Swiped.m3u8
-#EXTINF:-1 group-title="история vod", 11 мятежников (2024)
+#EXTINF:-1 group-title="История vod", 11 мятежников (2024)
 https://m.cdntv.online/f/v6rf4syijn/11Rebels.m3u8
-#EXTINF:-1 group-title="история vod", Самия (2024)
+#EXTINF:-1 group-title="История vod", Самия (2024)
 https://m.cdntv.online/f/v6rf4syijn/Samia.m3u8
-#EXTINF:-1 group-title="история vod", Великая Лилиан Холл (2024)
+#EXTINF:-1 group-title="История vod", Великая Лилиан Холл (2024)
 https://m.cdntv.online/f/v6rf4syijn/TheGreatLillianHall.m3u8
-#EXTINF:-1 group-title="история vod", Bono: История примирения (2025)
+#EXTINF:-1 group-title="История vod", Bono: История примирения (2025)
 https://m.cdntv.online/f/v6rf4syijn/BonoStoriesofSurrender.m3u8
-#EXTINF:-1 group-title="история vod", Самурайский марафон (2019)
+#EXTINF:-1 group-title="История vod", Самурайский марафон (2019)
 https://m.cdntv.online/f/v6rf4syijn/SamuraiMarathon.m3u8
-#EXTINF:-1 group-title="история vod", Гранд тур (2024)
+#EXTINF:-1 group-title="История vod", Гранд тур (2024)
 https://m.cdntv.online/f/v6rf4syijn/GrandTour.m3u8
-#EXTINF:-1 group-title="история vod", Брюс Ли: Выход клонов (2023)
+#EXTINF:-1 group-title="История vod", Брюс Ли: Выход клонов (2023)
 https://m.cdntv.online/f/v6rf4syijn/EntertheClonesofBruce.m3u8
-#EXTINF:-1 group-title="история vod", Американский гром: NASCAR в Ле-Мане (2025)
+#EXTINF:-1 group-title="История vod", Американский гром: NASCAR в Ле-Мане (2025)
 https://m.cdntv.online/f/v6rf4syijn/AmericanThunderNASCARtoLeMans.m3u8
-#EXTINF:-1 group-title="история vod", Уик - это боль (2025)
+#EXTINF:-1 group-title="История vod", Уик - это боль (2025)
 https://m.cdntv.online/f/v6rf4syijn/WickisPain.m3u8
-#EXTINF:-1 group-title="история vod", «Титан»: Трагичная судьба OceanGate (2025)
+#EXTINF:-1 group-title="История vod", «Титан»: Трагичная судьба OceanGate (2025)
 https://m.cdntv.online/f/v6rf4syijn/TitanTheOceanGateDisaster.m3u8
-#EXTINF:-1 group-title="история vod", Эмир Самарканда (2024)
+#EXTINF:-1 group-title="История vod", Эмир Самарканда (2024)
 https://m.cdntv.online/f/v6rf4syijn/BahodirYalangtosh.m3u8
-#EXTINF:-1 group-title="история vod", Королева ринга (2024)
+#EXTINF:-1 group-title="История vod", Королева ринга (2024)
 https://m.cdntv.online/f/v6rf4syijn/QueenoftheRing.m3u8
-#EXTINF:-1 group-title="история vod", Лимонов. Баллада (2024)
+#EXTINF:-1 group-title="История vod", Лимонов. Баллада (2024)
 https://m.cdntv.online/f/v6rf4syijn/LimonovTheBallad.m3u8
-#EXTINF:-1 group-title="история vod", Месье Азнавур (2024)
+#EXTINF:-1 group-title="История vod", Месье Азнавур (2024)
 https://m.cdntv.online/f/v6rf4syijn/MonsieurAznavour.m3u8
-#EXTINF:-1 group-title="история vod", В погоне за свободой (2024)
+#EXTINF:-1 group-title="История vod", В погоне за свободой (2024)
 https://m.cdntv.online/f/v6rf4syijn/NoChainsNoMasters.m3u8
-#EXTINF:-1 group-title="история vod", Сент-Экзюпери (2024)
+#EXTINF:-1 group-title="История vod", Сент-Экзюпери (2024)
 https://m.cdntv.online/f/v6rf4syijn/SaintExupery.m3u8
-#EXTINF:-1 group-title="история vod", Железная леди (2011)
+#EXTINF:-1 group-title="История vod", Железная леди (2011)
 https://m.cdntv.online/f/v6rf4syijn/TheIronLady.m3u8
-#EXTINF:-1 group-title="история vod", Андердог (2015)
+#EXTINF:-1 group-title="История vod", Андердог (2015)
 https://m.cdntv.online/f/v6rf4syijn/Sommeren92.m3u8
-#EXTINF:-1 group-title="история vod", Гонка века (2018)
+#EXTINF:-1 group-title="История vod", Гонка века (2018)
 https://m.cdntv.online/f/v6rf4syijn/TheMercy.m3u8
-#EXTINF:-1 group-title="история vod", Я всё ещё здесь (2024)
+#EXTINF:-1 group-title="История vod", Я всё ещё здесь (2024)
 https://m.cdntv.online/f/v6rf4syijn/ImStillHere.m3u8
-#EXTINF:-1 group-title="история vod", Боб Дилан: Никому не известный (2024)
+#EXTINF:-1 group-title="История vod", Боб Дилан: Никому не известный (2024)
 https://m.cdntv.online/f/v6rf4syijn/ACompleteUnknown.m3u8
 #EXTINF:-1 group-title="История vod", Быть лучше: история Робби Уильямса (2024)
 https://m.cdntv.online/f/v6rf4syijn/BetterMan.m3u8
@@ -1841,11 +1874,11 @@ https://m.cdntv.online/f/v6rf4syijn/Woodwalkers.m3u8
 https://m.cdntv.online/f/v6rf4syijn/TheWitcherSirensoftheDeep.m3u8
 #EXTINF:-1 group-title="Movie", Ведьмак: Кошмар волка (2021)
 https://m.cdntv.online/f/v6rf4syijn/TheWitcherNightmareoftheWolf.m3u8
-#EXTINF:-1 group-title="история vod", Электронные деньги: Тайна биткоина (2024)
+#EXTINF:-1 group-title="История vod", Электронные деньги: Тайна биткоина (2024)
 https://m.cdntv.online/f/v6rf4syijn/MoneyElectricTheBitcoinMystery.m3u8
-#EXTINF:-1 group-title="история vod", Переворот 12.12 (2023)
+#EXTINF:-1 group-title="История vod", Переворот 12.12 (2023)
 https://m.cdntv.online/f/v6rf4syijn/Seouluibom.m3u8
-#EXTINF:-1 group-title="история vod", Как кремень (2024)
+#EXTINF:-1 group-title="История vod", Как кремень (2024)
 https://m.cdntv.online/f/v6rf4syijn/TheFireInside.m3u8
 #EXTINF:-1 group-title="Movie", Гладиатор 2 (2024)
 https://m.cdntv.online/f/v6rf4syijn/Gladiator2.m3u8
@@ -1875,7 +1908,7 @@ https://m.cdntv.online/f/v6rf4syijn/VenomTheLastDance.m3u8
 https://m.cdntv.online/f/v6rf4syijn/TheAdventuresofJurassicPetReturntotheWild.m3u8
 #EXTINF:-1 group-title="Movie", Последнее замыкание. Конец света (2023)
 https://m.cdntv.online/f/v6rf4syijn/TheLastSparkofHope.m3u8
-#EXTINF:-1 group-title="история vod", Титаник. Непотопляемая мечта (2024)
+#EXTINF:-1 group-title="История vod", Титаник. Непотопляемая мечта (2024)
 https://m.cdntv.online/f/v6rf4syijn/Unsinkable.m3u8
 #EXTINF:-1 group-title="Movie", Завещание Анны Ли (2025)
 https://m.cdntv.online/f/v6rf4syijn/TheTestamentofAnnLee.m3u8
@@ -2075,13 +2108,13 @@ https://m.cdntv.online/f/v6rf4syijn/Dominique.m3u8
 https://m.cdntv.online/f/v6rf4syijn/MafiaWars.m3u8
 #EXTINF:-1 group-title="Movie", Месть (2023)
 https://m.cdntv.online/f/v6rf4syijn/TheOath.m3u8
-#EXTINF:-1 group-title="история vod", Главная гонка (2024)
+#EXTINF:-1 group-title="История vod", Главная гонка (2024)
 https://m.cdntv.online/f/v6rf4syijn/HardMiles.m3u8
-#EXTINF:-1 group-title="история vod", Мелочи жизни (2024)
+#EXTINF:-1 group-title="История vod", Мелочи жизни (2024)
 https://m.cdntv.online/f/v6rf4syijn/SmallThingsLikeThese.m3u8
-#EXTINF:-1 group-title="история vod", Пятый битл (2024)
+#EXTINF:-1 group-title="История vod", Пятый битл (2024)
 https://m.cdntv.online/f/v6rf4syijn/MidasMan.m3u8
-#EXTINF:-1 group-title="история vod", Мария (2024)
+#EXTINF:-1 group-title="История vod", Мария (2024)
 https://m.cdntv.online/f/v6rf4syijn/Maria.m3u8
 #EXTINF:-1 group-title="Movie", Город киллеров (2023)
 https://m.cdntv.online/f/v6rf4syijn/MurderCity.m3u8
@@ -2103,7 +2136,7 @@ https://m.cdntv.online/f/v6rf4syijn/Repeater.m3u8
 https://m.cdntv.online/f/v6rf4syijn/CustomsFrontline.m3u8
 #EXTINF:-1 group-title="Movie", Команданте (2023)
 https://m.cdntv.online/f/v6rf4syijn/Comandante.m3u8
-#EXTINF:-1 group-title="история vod", Божественный богемец (2023)
+#EXTINF:-1 group-title="История vod", Божественный богемец (2023)
 https://m.cdntv.online/f/v6rf4syijn/TheBohemian.m3u8
 #EXTINF:-1 group-title="Movie", Горная невеста (2024)
 https://m.cdntv.online/f/v6rf4syijn/Vermiglio.m3u8
@@ -2111,7 +2144,7 @@ https://m.cdntv.online/f/v6rf4syijn/Vermiglio.m3u8
 https://m.cdntv.online/f/v6rf4syijn/WeWereDangerous.m3u8
 #EXTINF:-1 group-title="Movie", Опасные тайны горничной (2023)
 https://m.cdntv.online/f/v6rf4syijn/TheQuietMaid.m3u8
-#EXTINF:-1 group-title="история vod", Девушка с иглой (2024)
+#EXTINF:-1 group-title="История vod", Девушка с иглой (2024)
 https://m.cdntv.online/f/v6rf4syijn/TheGirlwiththeNeedle.m3u8
 #EXTINF:-1 group-title="Movie", Игра вслепую (2023)
 https://m.cdntv.online/f/v6rf4syijn/VoyVoyVoy.m3u8
@@ -2179,7 +2212,7 @@ https://m.cdntv.online/f/v6rf4syijn/Elyas.m3u8
 https://m.cdntv.online/f/v6rf4syijn/DevaraPart1.m3u8
 #EXTINF:-1 group-title="Movie", Легенда (2024)
 https://m.cdntv.online/f/v6rf4syijn/Chuanshuo.m3u8
-#EXTINF:-1 group-title="история vod", Милли Ванилли: Девочка, ты знаешь, что это правда (2024)
+#EXTINF:-1 group-title="История vod", Милли Ванилли: Девочка, ты знаешь, что это правда (2024)
 https://m.cdntv.online/f/v6rf4syijn/GirlYouKnowItsTrue.m3u8
 #EXTINF:-1 group-title="Movie", Планета Джанет (2023)
 https://m.cdntv.online/f/v6rf4syijn/JanetPlanet.m3u8
@@ -2205,7 +2238,7 @@ https://m.cdntv.online/f/v6rf4syijn/TheStolenValley.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Unstoppable.m3u8
 #EXTINF:-1 group-title="Movie", Война и восстание (2024)
 https://m.cdntv.online/f/v6rf4syijn/Uprising.m3u8
-#EXTINF:-1 group-title="история vod", Ученик. Восхождение Трампа (2024)
+#EXTINF:-1 group-title="История vod", Ученик. Восхождение Трампа (2024)
 https://m.cdntv.online/f/v6rf4syijn/TheApprentice.m3u8
 #EXTINF:-1 group-title="Movie", Холли (2023)
 https://m.cdntv.online/f/v6rf4syijn/Holly2023.m3u8
@@ -2920,13 +2953,13 @@ https://m.cdntv.online/f/v6rf4syijn/BraveCitizen.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Brothers2024.m3u8
 #EXTINF:-1 group-title="Movie", Возвращение домой (2022)
 https://m.cdntv.online/f/v6rf4syijn/HomeComing.m3u8
-#EXTINF:-1 group-title="история vod", Учитель обещавший море (2023)
+#EXTINF:-1 group-title="История vod", Учитель обещавший море (2023)
 https://m.cdntv.online/f/v6rf4syijn/TheTeacherWhoPromisedtheSea.m3u8
-#EXTINF:-1 group-title="история vod", Мальчик который прятался в лесу (2023)
+#EXTINF:-1 group-title="История vod", Мальчик который прятался в лесу (2023)
 https://m.cdntv.online/f/v6rf4syijn/TheBoyintheWoods.m3u8
-#EXTINF:-1 group-title="история vod", Великая / Ли (2023)
+#EXTINF:-1 group-title="История vod", Великая / Ли (2023)
 https://m.cdntv.online/f/v6rf4syijn/Lee2023.m3u8
-#EXTINF:-1 group-title="история vod", Рейган (2022)
+#EXTINF:-1 group-title="История vod", Рейган (2022)
 https://m.cdntv.online/f/v6rf4syijn/Reagan.m3u8
 #EXTINF:-1 group-title="Movie", Теория простых чисел (2023)
 https://m.cdntv.online/f/v6rf4syijn/LetheoremedeMarguerite.m3u8
@@ -3557,11 +3590,11 @@ https://m.cdntv.online/f/v6rf4syijn/TheKingTide.m3u8
 https://m.cdntv.online/f/v6rf4syijn/Kuldi.m3u8
 #EXTINF:-1 group-title="Movie", Роб Пис (2024)
 https://m.cdntv.online/f/v6rf4syijn/RobPeace.m3u8
-#EXTINF:-1 group-title="история vod", Игра на понижение (2015)
+#EXTINF:-1 group-title="История vod", Игра на понижение (2015)
 https://m.cdntv.online/f/v6rf4syijn/TheBigShort.m3u8
-#EXTINF:-1 group-title="история vod", Перед рассветом (2024)
+#EXTINF:-1 group-title="История vod", Перед рассветом (2024)
 https://m.cdntv.online/f/v6rf4syijn/BeforeDawn.m3u8
-#EXTINF:-1 group-title="история vod", Первая дуэль (2023)
+#EXTINF:-1 group-title="История vod", Первая дуэль (2023)
 https://m.cdntv.online/f/v6rf4syijn/Uneaffairedhonneur.m3u8
 #EXTINF:-1 group-title="Movie", Петля времени (2023)
 https://m.cdntv.online/f/v6rf4syijn/OmniLoop.m3u8
@@ -3671,7 +3704,7 @@ https://m.cdntv.online/f/v6rf4syijn/OnFire.m3u8
 https://m.cdntv.online/f/v6rf4syijn/TrustinLove.m3u8
 #EXTINF:-1 group-title="Movie", Революция Иисуса (2023)
 https://m.cdntv.online/f/v6rf4syijn/JesusRevolution.m3u8
-#EXTINF:-1 group-title="история vod", Немая жизнь (2023)
+#EXTINF:-1 group-title="История vod", Немая жизнь (2023)
 https://m.cdntv.online/f/v6rf4syijn/SilentLifeTheStoryoftheLadyinBlack.m3u8
 #EXTINF:-1 group-title="История vod", Проклятые (2024)
 https://m.cdntv.online/f/v6rf4syijn/TheDamned.m3u8
@@ -6061,13 +6094,13 @@ https://m.cdntv.online/f/v6rf4syijn/Unnovioparamimujer.m3u8
 https://m.cdntv.online/f/v6rf4syijn/TheOrdinaries.m3u8
 #EXTINF:-1 group-title="Movie", Семейный обмен (2023)
 https://m.cdntv.online/f/v6rf4syijn/FamilySwitch.m3u8
-#EXTINF:-1 group-title="Marvel", Громовержцы* (2025)
+#EXTINF:-1 group-title="Movie", Громовержцы (2025)
 https://m.cdntv.online/f/v6rf4syijn/Thunderbolts2025.m3u8
-#EXTINF:-1 group-title="Marvel", Капитан Америка: Новый мир (2025)
+#EXTINF:-1 group-title="Movie", Капитан Америка: Новый мир (2025)
 https://m.cdntv.online/f/v6rf4syijn/CaptainAmericaBraveNewWorld.m3u8
-#EXTINF:-1 group-title="Marvel", Дэдпул и Росомаха (2024)
+#EXTINF:-1 group-title="Movie", Дэдпул и Росомаха (2024)
 https://m.cdntv.online/f/v6rf4syijn/DeadpoolWolverine.m3u8
-#EXTINF:-1 group-title="Marvel", Капитан Марвел 2 (2023)
+#EXTINF:-1 group-title="Movie", Капитан Марвел 2 (2023)
 https://m.cdntv.online/f/v6rf4syijn/TheMarvels.m3u8
 #EXTINF:-1 group-title="Movie", Король улиц (2023)
 https://m.cdntv.online/f/v6rf4syijn/Omarlafraise.m3u8
@@ -8379,7 +8412,7 @@ https://m.cdntv.online/f/v6rf4syijn/The_Illusionist_2006.m3u8
 https://m.cdntv.online/f/v6rf4syijn/The_Collector_2009.m3u8
 #EXTINF:-1 group-title="Movie", Коллекционер 2 (2012)
 https://m.cdntv.online/f/v6rf4syijn/The_Collection_2_2012.m3u8
-#EXTINF:-1 group-title="Marvel", Человек-паук: Паутина вселенных (2023)
+#EXTINF:-1 group-title="Movie", Человек-паук: Паутина вселенных (2023)
 https://m.cdntv.online/f/v6rf4syijn/Spider-ManAcrosstheSpider-Verse.m3u8
 #EXTINF:-1 group-title="Movie", Капитан Марвел (2019)
 https://m.cdntv.online/f/v6rf4syijn/Captain_Marvel_2019.m3u8
@@ -9011,7 +9044,7 @@ https://m.cdntv.online/f/v6rf4syijn/Rampage_2018.m3u8
 https://m.cdntv.online/f/v6rf4syijn/The_Sorcerers_Apprentice_2010.m3u8
 #EXTINF:-1 group-title="Movie", Отель Мумбаи: Противостояние (2018)
 https://m.cdntv.online/f/v6rf4syijn/Hotel_Mumbai_2018.m3u8
-#EXTINF:-1 group-title="Marvel", Чёрная Пантера: Ваканда навеки (2022)
+#EXTINF:-1 group-title="Movie", Чёрная Пантера: Ваканда навеки (2022)
 https://m.cdntv.online/f/v6rf4syijn/Chyernaya_Pantera_2022.m3u8
 #EXTINF:-1 group-title="Movie", Трансформеры (2007)
 https://m.cdntv.online/f/v6rf4syijn/Transformers_2007.m3u8
