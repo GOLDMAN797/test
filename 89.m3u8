@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://s.topiptv.ink/download/topiptv.xml.gz" cache=1000 deinterlace=1 aspect-ratio=16:9 x-tvg-url="http://s.topiptv.ink/download/jtv.zip"
+#EXTM3U url-tvg="http://s.topiptv.ink/download/topiptv.xml.gz"
 #EXTINF:-1   tvg-id="" tvg-name="Sony Turbo" tvg-logo="http://s.topiptv.ink/img/logos/black.png" group-title="Кино",.black
 http://cdn03.dyndns.tv:525/live/sonyturbo?token=44f2faa26fd3d852936b79ad36fb9e19
 #EXTINF:-1   tvg-id="" tvg-name="Sony ТВ HD" tvg-logo="http://s.topiptv.ink/img/logos/red.png" group-title="Кино",.red HD
