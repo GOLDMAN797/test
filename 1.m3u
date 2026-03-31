@@ -1,0 +1,949 @@
+#EXTM3U url-tvg="http://s.topiptv.ink/download/topiptv.xml.gz"
+#EXTINF:-1   tvg-id="" tvg-name="Sony Turbo" tvg-logo="http://s.topiptv.ink/img/logos/black.png" group-title="Кино",.black
+http://cdn03.dyndns.tv:525/live/sonyturbo?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sony ТВ HD" tvg-logo="http://s.topiptv.ink/img/logos/red.png" group-title="Кино",.red HD
+http://cdn03.dyndns.tv:525/live/sonyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sony SciFi" tvg-logo="http://s.topiptv.ink/img/logos/scifi.png" group-title="Кино",.sci-fi
+http://cdn03.dyndns.tv:525/live/sonyscifi?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="1HD" tvg-logo="http://s.topiptv.ink/img/logos/1hd.png" group-title="Музыкальные",1HD
+http://cdn03.dyndns.tv:625/live/1hd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="360 Новости HD" tvg-logo="http://s.topiptv.ink/img/logos/360news.png" group-title="Общие",360 Новости HD
+http://cdn03.dyndns.tv:525/live/360news?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="360 Канал" tvg-logo="http://s.topiptv.ink/img/logos/360.png" group-title="Общие",360 Канал
+http://cdn03.dyndns.tv:525/live/360?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="4Ever Music HD" tvg-logo="http://s.topiptv.ink/img/logos/4evermusichd.png" group-title="Музыкальные",4Ever Music HD
+http://cdn03.dyndns.tv:525/live/4evermusichd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="AIVA HD" tvg-logo="http://s.topiptv.ink/img/logos/aivahd.png" group-title="Музыкальные",AIVA HD
+http://cdn03.dyndns.tv:525/live/aivahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="A1" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/a1/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/a1.png" group-title="Кино",A1
+http://cdn03.dyndns.tv:625/live/a1/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="A1 HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/a1/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/a1.png" group-title="Кино",A1 HD
+http://cdn03.dyndns.tv:525/live/a1hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="A2" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/a2/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/a2.png" group-title="Кино",A2
+http://cdn03.dyndns.tv:625/live/a2/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="A2 HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/a2/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/a2.png" group-title="Кино",A2 HD
+http://cdn03.dyndns.tv:525/live/a2hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Al Jazeera" tvg-logo="http://s.topiptv.ink/img/logos/aljazeera.png" group-title="Общие",Al Jazeera
+http://cdn03.dyndns.tv:525/live/aljazeera?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Amedia Hit" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/amediahit/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/amediahit.png" group-title="Кино",Amedia Hit
+http://cdn03.dyndns.tv:625/live/amediahit/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Amedia Hit HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/amediahit/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/amediahit.png" group-title="Кино",Amedia Hit HD
+http://cdn03.dyndns.tv:525/live/amediahithd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Amedia Premium" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/amediapremium/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/amediapremium.png" group-title="Кино",Amedia Premium
+http://cdn03.dyndns.tv:625/live/amediapremium/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Amedia Premium HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/amediapremium/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/amediapremium.png" group-title="Кино",Amedia Premium HD
+http://cdn03.dyndns.tv:525/live/amediapremiumhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://s.topiptv.ink/img/logos/animalplanethd.png" group-title="Познавательные",Animal Planet HD
+http://cdn03.dyndns.tv:525/live/animalplanethd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Baby time" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/disney?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/babytime.png" group-title="Детские",Baby time
+http://cdn03.dyndns.tv:525/live/babytime?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="BBC World News" tvg-logo="http://s.topiptv.ink/img/logos/bbcworld.png" group-title="Общие",BBC World News
+http://cdn03.dyndns.tv:525/live/bbcworld?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Bollywood HD" tvg-logo="http://s.topiptv.ink/img/logos/bollywood.png" group-title="Кино",Bollywood HD
+http://cdn03.dyndns.tv:525/live/bollywood?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Bolt" tvg-logo="http://s.topiptv.ink/img/logos/bolt.png" group-title="Кино",Bolt
+http://cdn03.dyndns.tv:625/live/bolt/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="BCU Media HD" tvg-logo="http://s.topiptv.ink/img/logos/bcumedia.png" group-title="Кино",BCU Media HD
+http://cdn03.dyndns.tv:625/live/bcumediahd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="BCU Cinema+ HD" tvg-logo="http://s.topiptv.ink/img/logos/bcucinemaplus.png" group-title="Кино",BCU Cinema+ HD
+http://cdn03.dyndns.tv:525/live/bcucinemaplus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="BCU Comedy HD" tvg-logo="http://s.topiptv.ink/img/logos/bcucomedy.png" group-title="Кино",BCU Comedy HD
+http://cdn03.dyndns.tv:625/live/bcucomedy/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="BCU Kinorating HD" tvg-logo="http://s.topiptv.ink/img/logos/bcukinorating.png" group-title="Кино",BCU Kinorating HD
+http://cdn03.dyndns.tv:625/live/bcukinoratinghd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="BCU Russian HD" tvg-logo="http://s.topiptv.ink/img/logos/bcurussianhd.png" group-title="Кино",BCU Russian HD
+http://cdn03.dyndns.tv:525/live/bcurussianhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Bridge Delux HD" tvg-logo="http://s.topiptv.ink/img/logos/bridgetvhd.png" group-title="Музыкальные",Bridge Delux HD
+http://cdn03.dyndns.tv:525/live/bridgetvhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Bridge TV Classic" tvg-logo="http://s.topiptv.ink/img/logos/bridgeclassic.png" group-title="Музыкальные",Bridge TV Classic
+http://cdn03.dyndns.tv:525/live/bridgeclassic?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Bridge TV Rock" tvg-logo="http://s.topiptv.ink/img/logos/bridgerock.png" group-title="Музыкальные",Bridge TV Rock
+http://cdn03.dyndns.tv:525/live/bridgerock?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Bridge Шлягер" tvg-logo="http://s.topiptv.ink/img/logos/bridgeshlyager.png" group-title="Музыкальные",Bridge Шлягер
+http://cdn03.dyndns.tv:525/live/bridgeshlyager?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Boomerang" tvg-logo="http://s.topiptv.ink/img/logos/boomerang.png" group-title="Детские",Cartoonito
+http://cdn03.dyndns.tv:525/live/boomerang?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Cartoon Classics HD" tvg-logo="http://s.topiptv.ink/img/logos/cartoonclassics.png" group-title="Детские",Cartoon Classics HD
+http://cdn03.dyndns.tv:525/live/cartoonclassicshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://s.topiptv.ink/img/logos/cartoonnetwork.png" group-title="Детские",Cartoon Network HD
+http://cdn03.dyndns.tv:525/live/cartoonnetworkhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Canal+ Sport HD" tvg-logo="http://s.topiptv.ink/img/logos/canal+sport.png" group-title="Спортивные",Canal+ Sport HD
+http://cdn03.dyndns.tv:525/live/canalplussporthd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Canal+ Sport 2 HD" tvg-logo="http://s.topiptv.ink/img/logos/canal+sport2.png" group-title="Спортивные",Canal+ Sport 2 HD
+http://cdn03.dyndns.tv:525/live/canalplussport2hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Canal+ Sport 3 HD" tvg-logo="http://s.topiptv.ink/img/logos/canal+sport3.png" group-title="Спортивные",Canal+ Sport 3 HD
+http://cdn03.dyndns.tv:525/live/canalplussport3hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Canal+ Sport 4 HD" tvg-logo="http://s.topiptv.ink/img/logos/canal+sport4.png" group-title="Спортивные",Canal+ Sport 4 HD
+http://cdn03.dyndns.tv:525/live/canalplussport4hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Cinema" tvg-logo="http://s.topiptv.ink/img/logos/cinema.png" group-title="Кино",Cinema
+http://cdn03.dyndns.tv:525/live/cinema?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan HD
+http://cdn03.dyndns.tv:525/live/cinemanhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan Comedy HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan Comedy HD
+http://cdn03.dyndns.tv:525/live/cinemancomedyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan Top HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan Top HD
+http://cdn03.dyndns.tv:525/live/cinemantophd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan Action HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan Action HD
+http://cdn03.dyndns.tv:525/live/cinemanactionhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan Melodrama HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan Melodrama HD
+http://cdn03.dyndns.tv:525/live/cinemanmelodramahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan RUkino HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan RUkino HD
+http://cdn03.dyndns.tv:525/live/cinemanrukinohd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan Marvel HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan Marvel HD
+http://cdn03.dyndns.tv:525/live/cinemanmarvelhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan Cartoons 90 HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan Cartoons 90 HD
+http://cdn03.dyndns.tv:525/live/cinemancartoons90hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CineMan Cartoons Big HD" tvg-logo="http://s.topiptv.ink/img/logos/cineman.png" group-title="Кино",CineMan Cartoons Big HD
+http://cdn03.dyndns.tv:525/live/cinemancartoonshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="CNN" tvg-logo="http://s.topiptv.ink/img/logos/cnn.png" group-title="Общие",CNN
+http://cdn03.dyndns.tv:525/live/cnn?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Da Vinci Learning" tvg-logo="http://s.topiptv.ink/img/logos/davinci.png" group-title="Познавательные",Da Vinci Learning
+http://cdn03.dyndns.tv:525/live/davinci?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Deutsche Welle" tvg-logo="http://s.topiptv.ink/img/logos/deutchewelle.png" group-title="Общие",Deutsche Welle
+http://cdn03.dyndns.tv:525/live/deutchewelle?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Digi Sport 1 HD" tvg-logo="http://s.topiptv.ink/img/logos/digisport1hd.png" group-title="Спортивные",Digi Sport 1 HD
+http://cdn03.dyndns.tv:525/live/digisport1hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Digi Sport 2 HD" tvg-logo="http://s.topiptv.ink/img/logos/digisport2hd.png" group-title="Спортивные",Digi Sport 2 HD
+http://cdn03.dyndns.tv:525/live/digisport2hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Digi Sport 3 HD" tvg-logo="http://s.topiptv.ink/img/logos/digisport3hd.png" group-title="Спортивные",Digi Sport 3 HD
+http://cdn03.dyndns.tv:525/live/digisport3hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Digi Sport 4 HD" tvg-logo="http://s.topiptv.ink/img/logos/digisport4hd.png" group-title="Спортивные",Digi Sport 4 HD
+http://cdn03.dyndns.tv:525/live/digisport4hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Discovery HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/discoveryhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/discovery.png" group-title="Познавательные",Discovery HD
+http://cdn03.dyndns.tv:625/live/discoveryhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Discovery Science HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/discoveryscience/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/discoveryscience.png" group-title="Познавательные",Discovery Science HD
+http://cdn03.dyndns.tv:525/live/discoveryscience?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Dizi" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/dizitimelesshd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/dizi.png" group-title="Кино",Dizi Timeless HD
+http://cdn03.dyndns.tv:525/live/dizitimelesshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Dizi" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/dizitimeless/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/dizi.png" group-title="Кино",Dizi Timeless
+http://cdn03.dyndns.tv:525/live/dizitimeless?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="DocuBox HD" tvg-logo="http://s.topiptv.ink/img/logos/docuboxhd.png" group-title="Познавательные",DocuBox HD
+http://cdn03.dyndns.tv:525/live/docuboxhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Epic Drama" tvg-logo="http://s.topiptv.ink/img/logos/epicdrama.png" group-title="Кино",Epic Drama
+http://cdn03.dyndns.tv:525/live/epicdrama?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="EuroNews" tvg-logo="http://s.topiptv.ink/img/logos/euronews.png" group-title="Общие",EuroNews
+http://cdn03.dyndns.tv:525/live/euronews?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="E! Entertainment (RO)" tvg-logo="http://s.topiptv.ink/img/logos/E!.png" group-title="Общие",E! Entertainment (RO)
+http://cdn03.dyndns.tv:525/live/E!?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="English Club HD" tvg-logo="http://s.topiptv.ink/img/logos/englishclubhd.png" group-title="Познавательные",English Club HD
+http://cdn03.dyndns.tv:525/live/englishclubhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Europa Plus TV" tvg-logo="http://s.topiptv.ink/img/logos/europaplus.png" group-title="Музыкальные",Europa Plus TV
+http://cdn03.dyndns.tv:525/live/europaplustv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Eleven Sports HD (PL)" tvg-logo="http://s.topiptv.ink/img/logos/elevensportshd.png" group-title="Спортивные",Eleven Sports HD (PL)
+http://cdn03.dyndns.tv:525/live/elevensportshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Eleven Sports 2 HD (PL)" tvg-logo="http://s.topiptv.ink/img/logos/elevensports2.png" group-title="Спортивные",Eleven Sports 2 HD (PL)
+http://cdn03.dyndns.tv:525/live/elevensports2hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Eleven Sports 3 HD (PL)" tvg-logo="http://s.topiptv.ink/img/logos/elevensports3.png" group-title="Спортивные",Eleven Sports 3 HD (PL)
+http://cdn03.dyndns.tv:525/live/elevensports3hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Eleven Sports 4 HD (PL)" tvg-logo="http://s.topiptv.ink/img/logos/elevensports4.png" group-title="Спортивные",Eleven Sports 4 HD (PL)
+http://cdn03.dyndns.tv:525/live/elevensports4hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="http://s.topiptv.ink/img/logos/eurosport1hd.png" group-title="Спортивные",Eurosport 1 HD
+http://cdn03.dyndns.tv:525/live/eurosporthd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="http://s.topiptv.ink/img/logos/eurosport2hd.png" group-title="Спортивные",Eurosport 2 HD
+http://cdn03.dyndns.tv:525/live/eurosport2hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://s.topiptv.ink/img/logos/eurosport2.png" group-title="Спортивные",Eurosport 2
+http://cdn03.dyndns.tv:525/live/eurosport2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Extreme Sports" tvg-logo="http://s.topiptv.ink/img/logos/extremesport.png" group-title="Спортивные",Extreme Sports
+http://cdn03.dyndns.tv:525/live/extremesports?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Fashion TV 4K" tvg-logo="http://s.topiptv.ink/img/logos/fashion4k.png" group-title="Общие",Fashion TV 4K
+http://cdn03.dyndns.tv:525/live/fashion4k?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Fast & FunBox" tvg-logo="http://s.topiptv.ink/img/logos/fastnfunboxsd.png" group-title="Спортивные",Fast & FunBox
+http://cdn03.dyndns.tv:525/live/fastnfunboxsd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Fightklub HD PL" tvg-logo="http://s.topiptv.ink/img/logos/fightclubhdpl.png" group-title="Спортивные",Fightklub HD PL
+http://cdn03.dyndns.tv:525/live/fightclubhdpl?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="FightBox HD" tvg-logo="http://s.topiptv.ink/img/logos/fightboxhd.png" group-title="Спортивные",FightBox HD
+http://cdn03.dyndns.tv:525/live/fightboxhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Filmbox" tvg-logo="http://s.topiptv.ink/img/logos/filmbox.png" group-title="Кино",Filmbox
+http://cdn03.dyndns.tv:525/live/filmbox?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Filmbox ArtHouse" tvg-logo="http://s.topiptv.ink/img/logos/filmboxarthouse.png" group-title="Кино",Filmbox ArtHouse
+http://cdn03.dyndns.tv:525/live/filmboxarthouse?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Filmzone+ HD LT" tvg-logo="http://s.topiptv.ink/img/logos/filmzoneplushd.png" group-title="Кино",Filmzone+ HD LT
+http://cdn03.dyndns.tv:525/live/filmzoneplushd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="FlixSnip" tvg-logo="http://s.topiptv.ink/img/logos/flixsnip.png" group-title="Кино",FlixSnip
+http://cdn03.dyndns.tv:525/live/flixsnip?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Food Network" tvg-logo="http://s.topiptv.ink/img/logos/foodnetwork.png" group-title="Общие",Food Network
+http://cdn03.dyndns.tv:525/live/foodnetwork?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТНТ Music" tvg-logo="http://s.topiptv.ink/img/logos/fonmusic.png" group-title="Музыкальные",FON Music
+http://cdn03.dyndns.tv:525/live/tntmusic?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Fox News US" tvg-logo="http://s.topiptv.ink/img/logos/foxnewsus.png" group-title="Общие",Fox News US
+http://cdn03.dyndns.tv:525/live/foxnewsus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Fox HD" tvg-logo="http://s.topiptv.ink/img/logos/fox.png" group-title="Кино",FX HD
+http://cdn03.dyndns.tv:525/live/fox?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Fox" tvg-logo="http://s.topiptv.ink/img/logos/fox.png" group-title="Кино",FX
+http://cdn03.dyndns.tv:525/live/foxsd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Fox Life" tvg-logo="http://s.topiptv.ink/img/logos/foxlife.png" group-title="Кино",FX Life
+http://cdn03.dyndns.tv:525/live/foxlife?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Galaxy" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/galaxy/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/galaxy.png" group-title="Познавательные",Galaxy
+http://cdn03.dyndns.tv:525/live/galaxy?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV3 Sport" tvg-logo="http://s.topiptv.ink/img/logos/tv3sport.png" group-title="Спортивные",Go3 Sport
+http://cdn03.dyndns.tv:525/live/tv3sportshdlv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="GOLF TV HD" tvg-logo="http://s.topiptv.ink/img/logos/golftvhd.png" group-title="Спортивные",GOLF TV HD
+http://cdn03.dyndns.tv:525/live/golftvhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Gulli Girl" tvg-logo="http://s.topiptv.ink/img/logos/gulligirl.png" group-title="Детские",Gulli Girl
+http://cdn03.dyndns.tv:525/live/gulligirl?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="HD REX" tvg-logo="http://s.topiptv.ink/img/logos/hdrex.png" group-title="Спортивные",HD REX
+http://cdn03.dyndns.tv:525/live/russianextreme?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="HDL" tvg-logo="http://s.topiptv.ink/img/logos/hdlife.png" group-title="Познавательные",HDL
+http://cdn03.dyndns.tv:525/live/hdlife?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="History" tvg-logo="http://s.topiptv.ink/img/logos/history.png" group-title="Познавательные",History
+http://cdn03.dyndns.tv:525/live/history?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="H2 HD" tvg-logo="http://s.topiptv.ink/img/logos/h2.png" group-title="Познавательные",H2 HD
+http://cdn03.dyndns.tv:525/live/h2hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="HOME 4K" tvg-logo="http://s.topiptv.ink/img/logos/home4k.png" group-title="Познавательные",HOME 4K
+http://cdn03.dyndns.tv:525/live/home4k?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Hollywood" tvg-logo="http://s.topiptv.ink/img/logos/hollywood.png" group-title="Кино",Hollywood
+http://cdn03.dyndns.tv:525/live/amc?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Hollywood HD" tvg-logo="http://s.topiptv.ink/img/logos/hollywoodhd.png" group-title="Кино",Hollywood HD
+http://cdn03.dyndns.tv:525/live/mgmhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ID Xtra" tvg-logo="http://s.topiptv.ink/img/logos/idxtra.png" group-title="Познавательные",ID Xtra
+http://cdn03.dyndns.tv:525/live/idxtra?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="JimJam" tvg-logo="http://s.topiptv.ink/img/logos/jimjam.png" group-title="Детские",JimJam
+http://cdn03.dyndns.tv:525/live/jimjam?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="КХЛ HD" tvg-logo="http://s.topiptv.ink/img/logos/khltvhd.png" group-title="Спортивные",KHL Prime
+http://cdn03.dyndns.tv:525/live/khlhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="КХЛ-ТВ" tvg-logo="http://s.topiptv.ink/img/logos/khl.png" group-title="Спортивные",KHL
+http://cdn03.dyndns.tv:525/live/khl?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Kiss TV" tvg-logo="http://s.topiptv.ink/img/logos/kisstv.png" group-title="Музыкальные",Kiss TV RO
+http://cdn03.dyndns.tv:525/live/kisstv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Love Nature 4K" tvg-logo="http://s.topiptv.ink/img/logos/lovenature.png" group-title="Познавательные",Love Nature 4K
+http://cdn03.dyndns.tv:525/live/lovenatureuhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Наша Сибирь 4K" tvg-logo="http://s.topiptv.ink/img/logos/nashasibir.png" group-title="Познавательные",Наша Сибирь 4K
+http://cdn03.dyndns.tv:525/live/nashasibiruhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="MMA-TV" tvg-logo="http://s.topiptv.ink/img/logos/mmatv.png" group-title="Спортивные",MMA-TV
+http://cdn03.dyndns.tv:525/live/mmatv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="MCM Top" tvg-logo="http://s.topiptv.ink/img/logos/mcmtop.png" group-title="Музыкальные",MCM Top
+http://cdn03.dyndns.tv:525/live/mcmtop?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="MTV Europe" tvg-logo="http://s.topiptv.ink/img/logos/mtv.png" group-title="Музыкальные",MTV Europe
+http://cdn03.dyndns.tv:525/live/mtveurope?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Music Box Dance HD" tvg-logo="http://s.topiptv.ink/img/logos/musicboxdance.png" group-title="Музыкальные",Music Box Dance HD
+http://cdn03.dyndns.tv:525/live/musicboxdance?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Music Box Hits HD" tvg-logo="http://s.topiptv.ink/img/logos/musicboxhits.png" group-title="Музыкальные",Music Box Hits HD
+http://cdn03.dyndns.tv:525/live/musicboxhitshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Music Box 80s HD" tvg-logo="http://s.topiptv.ink/img/logos/musicbox80s.png" group-title="Музыкальные",Music Box 80s HD
+http://cdn03.dyndns.tv:525/live/musicbox80hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Music Box 90s HD" tvg-logo="http://s.topiptv.ink/img/logos/musicbox90s.png" group-title="Музыкальные",Music Box 90s HD
+http://cdn03.dyndns.tv:525/live/musicbox90hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Deluxe Music HD" tvg-logo="http://s.topiptv.ink/img/logos/deluxemusichd.png" group-title="Музыкальные",Deluxe Music HD
+http://cdn03.dyndns.tv:525/live/deluxemusichd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Nat Geo Wild HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/natgeowildhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/natgeowildhd.png" group-title="Познавательные",Nat Geo Wild HD
+http://cdn03.dyndns.tv:625/live/natgeowildhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="National Geographic" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/nationalgeographic/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/nationalgeographic.png" group-title="Познавательные",National Geographic
+http://cdn03.dyndns.tv:625/live/nationalgeographic/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="National Geographic" tvg-logo="http://s.topiptv.ink/img/logos/nationalgeographic.png" group-title="Познавательные",National Geographic HD
+http://cdn03.dyndns.tv:525/live/nationalgeographichd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://s.topiptv.ink/img/logos/nickelodeonhd.png" group-title="Детские",Nickelodeon HD
+http://cdn03.dyndns.tv:525/live/nickelodeonhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Nick Jr" tvg-logo="http://s.topiptv.ink/img/logos/nickjr.png" group-title="Детские",Nick Jr
+http://cdn03.dyndns.tv:525/live/nickjr?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Nicktoons" tvg-logo="http://s.topiptv.ink/img/logos/nicktoons.png" group-title="Детские",Nicktoons
+http://cdn03.dyndns.tv:525/live/nicktoons?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Now 70s" tvg-logo="http://s.topiptv.ink/img/logos/now70s.png" group-title="Музыкальные",Now 70 UK
+http://cdn03.dyndns.tv:525/live/now70s?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Now 80s" tvg-logo="http://s.topiptv.ink/img/logos/now80s.png" group-title="Музыкальные",Now 80 UK
+http://cdn03.dyndns.tv:525/live/now80s?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Now Rock" tvg-logo="http://s.topiptv.ink/img/logos/nowrock.png" group-title="Музыкальные",Now Rock UK
+http://cdn03.dyndns.tv:525/live/nowrock?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="NRG91" tvg-logo="http://s.topiptv.ink/img/logos/nrg91.png" group-title="Музыкальные",NRG91 GR
+http://cdn03.dyndns.tv:525/live/nrg91?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="NFL HD US" tvg-logo="http://s.topiptv.ink/img/logos/nflhd.png" group-title="Спортивные",NFL HD US
+http://cdn03.dyndns.tv:525/live/nflhdus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="NBA HD US" tvg-logo="http://s.topiptv.ink/img/logos/nbahd.png" group-title="Спортивные",NBA HD US
+http://cdn03.dyndns.tv:525/live/nbahdus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="NHL HD US" tvg-logo="http://s.topiptv.ink/img/logos/nhlhd.png" group-title="Спортивные",NHL HD US
+http://cdn03.dyndns.tv:525/live/nhlhdus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Canal+ Sports" tvg-logo="http://s.topiptv.ink/img/logos/canalplussports.png" group-title="Спортивные",Canal+ Sports HD (PL)
+http://cdn03.dyndns.tv:525/live/nsportplushd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Okko Football HD" tvg-logo="http://s.topiptv.ink/img/logos/okkofootball.png" group-title="Спортивные",Okko Football HD
+http://cdn03.dyndns.tv:525/live/okkofootball?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Okko Prime HD" tvg-logo="http://s.topiptv.ink/img/logos/okkoprime.png" group-title="Спортивные",Okko Prime HD
+http://cdn03.dyndns.tv:525/live/okkoprime?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Okko Sport HD" tvg-logo="http://s.topiptv.ink/img/logos/okkosport.png" group-title="Спортивные",Okko Sport HD
+http://cdn03.dyndns.tv:525/live/okkosport?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Qsport HD" tvg-logo="http://s.topiptv.ink/img/logos/qsporthd.png" group-title="Спортивные",Qsport HD
+http://cdn03.dyndns.tv:525/live/qsporthd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="RETRO CZ" tvg-logo="http://s.topiptv.ink/img/logos/retrocz.png" group-title="Музыкальные",RETRO CZ
+http://cdn03.dyndns.tv:525/live/retrocz?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Rock TV" tvg-logo="http://s.topiptv.ink/img/logos/rocktv.png" group-title="Музыкальные",ROCK TV
+http://cdn03.dyndns.tv:525/live/rocktv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="RTVi" tvg-logo="http://s.topiptv.ink/img/logos/rtvi.png" group-title="Общие",RTVi
+http://cdn03.dyndns.tv:525/live/rtvi?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="RTG" tvg-logo="http://s.topiptv.ink/img/logos/rtg.png" group-title="Познавательные",RTG
+http://cdn03.dyndns.tv:525/live/rtg?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="RU.TV" tvg-logo="http://s.topiptv.ink/img/logos/rutv.png" group-title="Музыкальные",RU.TV
+http://cdn03.dyndns.tv:525/live/rutv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Setanta Sports 1" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/setantaplushd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/sentantasports.png" group-title="Спортивные",Setanta Sports 1
+http://cdn03.dyndns.tv:525/live/sentatasports?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Setanta Sports 1" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/setantaplushd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/sentantasports.png" group-title="Спортивные",Setanta Sports 1 HD
+http://cdn03.dyndns.tv:625/live/setantaplushd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Setanta_Sports_2_HD" tvg-logo="http://s.topiptv.ink/img/logos/sentantasports.png" group-title="Спортивные",Setanta Sports 2 HD
+http://cdn03.dyndns.tv:525/live/setantaplus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Setanta Sports HD UA" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/setantasportshdua/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/sentantasports.png" group-title="Спортивные",Setanta Sports HD UA
+http://cdn03.dyndns.tv:625/live/setantasportshdua/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Setanta Sports+ HD UA" tvg-logo="http://s.topiptv.ink/img/logos/setantaplushdua.png" group-title="Спортивные",Setanta Sports+ HD UA
+http://cdn03.dyndns.tv:625/live/setantaplushdua/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sky News" tvg-logo="http://s.topiptv.ink/img/logos/skynews.png" group-title="Общие",Sky News
+http://cdn03.dyndns.tv:525/live/skynews?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sky Sport F1 HD" tvg-logo="http://s.topiptv.ink/img/logos/skysportf1hd.png" group-title="Спортивные",Sky Sport F1 HD
+http://cdn03.dyndns.tv:525/live/skysportf1hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sky Sport Premiere League HD" tvg-logo="http://s.topiptv.ink/img/logos/skysportpremiereleaguehd.png" group-title="Спортивные",Sky Sport Premiere League HD
+http://cdn03.dyndns.tv:525/live/skysportpremiereleaguehd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sky Sport Top Event" tvg-logo="http://s.topiptv.ink/img/logos/skysporttopevent.png" group-title="Спортивные",Sky Sport Top Event HD DE
+http://cdn03.dyndns.tv:525/live/skysport1dehd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sky Tennis HD DE" tvg-logo="http://s.topiptv.ink/img/logos/skysporttennis.png" group-title="Спортивные",Sky Sport Tennis HD DE
+http://cdn03.dyndns.tv:525/live/skysport2dehd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sky Sport HD DE" tvg-logo="http://s.topiptv.ink/img/logos/skysport.png" group-title="Спортивные",Sky Sport HD DE
+http://cdn03.dyndns.tv:525/live/skybundesliga1hdde?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sport 1 UA" tvg-logo="http://s.topiptv.ink/img/logos/sport1ua.png" group-title="Спортивные",Sport 1 UA
+http://cdn03.dyndns.tv:525/live/sport1ua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Sport 2 UA" tvg-logo="http://s.topiptv.ink/img/logos/sport2ua.png" group-title="Спортивные",Sport 2 UA
+http://cdn03.dyndns.tv:525/live/sport2ua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Start Air HD" tvg-logo="http://s.topiptv.ink/img/logos/startairhd.png" group-title="Кино",Start Air HD
+http://cdn03.dyndns.tv:525/live/startairhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Start World HD" tvg-logo="http://s.topiptv.ink/img/logos/startworldhd.png" group-title="Кино",Start World HD
+http://cdn03.dyndns.tv:525/live/startworldhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Stingray Iconcerts" tvg-logo="http://s.topiptv.ink/img/logos/iconcerts.png" group-title="Музыкальные",Stingray Iconcerts
+http://cdn03.dyndns.tv:525/live/stingrayiconcertshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TLC" tvg-logo="http://s.topiptv.ink/img/logos/tlc.png" group-title="Познавательные",TLC
+http://cdn03.dyndns.tv:525/live/tlc?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV XXI (TV21)" tvg-logo="http://s.topiptv.ink/img/logos/tv21.png" group-title="Кино",TV XXI (TV21)
+http://cdn03.dyndns.tv:525/live/xxi?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TVP Sport HD (PL)" tvg-logo="http://s.topiptv.ink/img/logos/tvpsport.png" group-title="Спортивные",TVP Sport HD (PL)
+http://cdn03.dyndns.tv:525/live/tvpsporthd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV1000" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/tv1000/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tv1000.png" group-title="Кино",TV1000
+http://cdn03.dyndns.tv:625/live/tv1000/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV1000 HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/tv1000/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tv1000hd.png" group-title="Кино",TV1000 HD
+http://cdn03.dyndns.tv:525/live/tv1000hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV1000 Action" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/tv1000actionhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tv1000action.png" group-title="Кино",TV1000 Action
+http://cdn03.dyndns.tv:625/live/tv1000action/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV1000 Action HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/tv1000actionhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tv1000actionhd.png" group-title="Кино",TV1000 Action HD
+http://cdn03.dyndns.tv:625/live/tv1000actionhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV1000 Русское кино" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/tv1000russian/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tv1000russkoe.png" group-title="Кино",TV1000 Русское кино
+http://cdn03.dyndns.tv:625/live/tv1000russian/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV1000 Русское кино HD" tvg-logo="http://s.topiptv.ink/img/logos/tv1000russkoehd.png" group-title="Кино",TV1000 Русское кино HD
+http://cdn03.dyndns.tv:525/live/tv1000russkoehd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Trace Urban HD" tvg-logo="http://s.topiptv.ink/img/logos/traceurbanhd.png" group-title="Музыкальные",Trace Urban HD
+http://cdn03.dyndns.tv:525/live/vivaruhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Trace Sport Stars HD" tvg-logo="http://s.topiptv.ink/img/logos/tracesportstarshd.png" group-title="Спортивные",Trace Sport Stars HD
+http://cdn03.dyndns.tv:525/live/tracesportsstarshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Travel Channel" tvg-logo="http://s.topiptv.ink/img/logos/travelchannelhd.png" group-title="Познавательные",Travel Channel
+http://cdn03.dyndns.tv:525/live/travelchannel?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Travel+ Adventure" tvg-logo="http://s.topiptv.ink/img/logos/travelplusadventure.png" group-title="Познавательные",Travel+ Adventure
+http://cdn03.dyndns.tv:525/live/travelplusadventure?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Ultra Cinema 4K" tvg-logo="http://s.topiptv.ink/img/logos/ultracinema4k.png" group-title="Кино",Ultra Cinema 4K
+http://cdn03.dyndns.tv:525/live/ultracinema4k?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="VHS" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/vhska/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/vhs.png" group-title="Кино",VHS-ka
+http://cdn03.dyndns.tv:625/live/vhska/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="VHS Serial" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/vhskaserialhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/vhsserial.png" group-title="Кино",VHS-ka Serial
+http://cdn03.dyndns.tv:525/live/vhskaserialhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Viasat Kino" tvg-logo="http://s.topiptv.ink/img/logos/viasatkino.png" group-title="Кино",Viasat Kino HD
+http://cdn03.dyndns.tv:525/live/viasatkinohd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Viasat Kino Action" tvg-logo="http://s.topiptv.ink/img/logos/viasataction.png" group-title="Кино",Viasat Kino Action HD
+http://cdn03.dyndns.tv:525/live/viasatactionhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Viasat Kino Comedy" tvg-logo="http://s.topiptv.ink/img/logos/viasatcomedy.png" group-title="Кино",Viasat Kino Comedy HD
+http://cdn03.dyndns.tv:525/live/viasatcomedyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Viasat Kino World" tvg-logo="http://s.topiptv.ink/img/logos/viasatworld.png" group-title="Кино",Viasat Kino World HD
+http://cdn03.dyndns.tv:525/live/viasatworldhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ViP Comedy" tvg-logo="http://s.topiptv.ink/img/logos/vipcomedy.png" group-title="Кино",Viju Comedy
+http://cdn03.dyndns.tv:525/live/vipcomedyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ViP Megahit" tvg-logo="http://s.topiptv.ink/img/logos/vipmegahit.png" group-title="Кино",Viju Megahit
+http://cdn03.dyndns.tv:525/live/vipmegahithd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ViP Premiere" tvg-logo="http://s.topiptv.ink/img/logos/vippremiere.png" group-title="Кино",Viju Premiere
+http://cdn03.dyndns.tv:525/live/vippremiere?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ViP Serial" tvg-logo="http://s.topiptv.ink/img/logos/viasatserialhd.png" group-title="Кино",Viju Serial
+http://cdn03.dyndns.tv:525/live/viasatserialhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Viasat Explorer" tvg-logo="http://s.topiptv.ink/img/logos/viasatexplore.png" group-title="Познавательные",Viju Explore
+http://cdn03.dyndns.tv:525/live/viasatexplore?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Viasat History HD" tvg-logo="http://s.topiptv.ink/img/logos/viasathistoryhd.png" group-title="Познавательные",Viju History HD
+http://cdn03.dyndns.tv:525/live/viasathistoryhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Viasat Sport HD" tvg-logo="http://s.topiptv.ink/img/logos/viasatsporthd.png" group-title="Спортивные",Viju Sport HD
+http://cdn03.dyndns.tv:525/live/viasatsporthd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="VIVA/Comedy DE" tvg-logo="http://s.topiptv.ink/img/logos/viva.png" group-title="Музыкальные",VIVA/Comedy DE
+http://cdn03.dyndns.tv:525/live/vivade?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="VIVA Russia HD" tvg-logo="http://s.topiptv.ink/img/logos/viva.png" group-title="Музыкальные",VIVA Russia HD
+http://cdn03.dyndns.tv:525/live/vivarussiahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Xsport+ HD" tvg-logo="http://s.topiptv.ink/img/logos/xsportplushd.png" group-title="Спортивные",Xsport+ HD
+http://cdn03.dyndns.tv:525/live/xsportplushd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="World Fashion Channel (рус.)" tvg-logo="http://s.topiptv.ink/img/logos/worldfashion.png" group-title="Общие",World Fashion Channel (рус.)
+http://cdn03.dyndns.tv:525/live/worldfashionru?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Авто24" tvg-logo="http://s.topiptv.ink/img/logos/avto24.png" group-title="Спортивные",Авто24
+http://cdn03.dyndns.tv:525/live/avto24?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Анекдот ТВ" tvg-logo="http://s.topiptv.ink/img/logos/anekdottv.png" group-title="Общие",Анекдот ТВ
+http://cdn03.dyndns.tv:525/live/anekdottv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Арсенал HD" tvg-logo="http://s.topiptv.ink/img/logos/arsenalhd.png" group-title="Спортивные",Арсенал HD
+http://cdn03.dyndns.tv:525/live/arsenalhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Блокбастер HD" tvg-logo="http://s.topiptv.ink/img/logos/blokbasterhd.png" group-title="Кино",Блокбастер HD
+http://cdn03.dyndns.tv:525/live/blokbasterhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Боец" tvg-logo="http://s.topiptv.ink/img/logos/matchboec.png" group-title="Спортивные",Боец
+http://cdn03.dyndns.tv:525/live/matchboec?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Бокс ТВ" tvg-logo="http://s.topiptv.ink/img/logos/bokstv.png" group-title="Спортивные",Бокс ТВ
+http://cdn03.dyndns.tv:525/live/bokstv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Большая Азия HD" tvg-logo="http://s.topiptv.ink/img/logos/bigasiahd.png" group-title="Познавательные",Большая Азия HD
+http://cdn03.dyndns.tv:525/live/bigasiahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="В гостях у сказки" tvg-logo="http://s.topiptv.ink/img/logos/vgostyahuskazki.png" group-title="Детские",В гостях у сказки
+http://cdn03.dyndns.tv:525/live/vgostayahuskazki?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ВРЕМЯ" tvg-logo="http://s.topiptv.ink/img/logos/vremya.png" group-title="Общие",ВРЕМЯ
+http://cdn03.dyndns.tv:525/live/vremya?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Глазами туриста HD" tvg-logo="http://s.topiptv.ink/img/logos/glazellahd.png" group-title="Познавательные",Глазами туриста HD
+http://cdn03.dyndns.tv:525/live/glazellahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Детский мир" tvg-logo="http://s.topiptv.ink/img/logos/detskiymir.png" group-title="Детские",Детский мир
+http://cdn03.dyndns.tv:525/live/detskiymir?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Дом кино" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/domkino/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/domkino.png" group-title="Кино",Дом кино
+http://cdn03.dyndns.tv:625/live/domkino/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Дом Кино Премиум" tvg-logo="http://s.topiptv.ink/img/logos/domkinopremiumhd.png" group-title="Кино",Дом Кино Премиум
+http://cdn03.dyndns.tv:525/live/domkinopremiumhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Домашний" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/domashniy?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/domashniy.png" group-title="Общие",Домашний
+http://cdn03.dyndns.tv:625/live/domashniy/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Домашний" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/domashniy?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/domashniy.png" group-title="Общие",Домашний HD
+http://cdn03.dyndns.tv:525/live/domashniyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Домашний +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/domashniyplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/domashniy.png" group-title="Общие",Домашний +2
+http://cdn03.dyndns.tv:625/live/domashniyplus2/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Домашний +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/domashniyplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/domashniy.png" group-title="Общие",Домашний +4
+http://cdn03.dyndns.tv:525/live/domashniyplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Дорама HD" tvg-logo="http://s.topiptv.ink/img/logos/doramahd.png" group-title="Кино",Дорама HD
+http://cdn03.dyndns.tv:525/live/doramahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Драйв ТВ" tvg-logo="http://s.topiptv.ink/img/logos/draiv.png" group-title="Спортивные",Драйв ТВ
+http://cdn03.dyndns.tv:525/live/draiv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Душевное HD" tvg-logo="http://s.topiptv.ink/img/logos/nashkinoromanhd.png" group-title="Кино",Душевное HD
+http://cdn03.dyndns.tv:525/live/nashkinoromanhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Еда ТВ" tvg-logo="http://s.topiptv.ink/img/logos/edatv.png" group-title="Общие",Еда ТВ
+http://cdn03.dyndns.tv:525/live/edatv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Еврокино" tvg-logo="http://s.topiptv.ink/img/logos/evrokino.png" group-title="Кино",Еврокино
+http://cdn03.dyndns.tv:525/live/evrokino?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ЕГЭ_ТВ" tvg-logo="http://s.topiptv.ink/img/logos/egetv.png" group-title="Познавательные",ЕГЭ ТВ
+http://cdn03.dyndns.tv:525/live/egetv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Жара" tvg-logo="http://s.topiptv.ink/img/logos/zara.png" group-title="Музыкальные",Жара
+http://cdn03.dyndns.tv:525/live/zara?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Живая природа HD" tvg-logo="http://s.topiptv.ink/img/logos/zivayaprirodahd.png" group-title="Познавательные",Живая природа HD
+http://cdn03.dyndns.tv:525/live/zivayaprirodahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Звезда" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/zvezda?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/zvezda.png" group-title="Общие",Звезда
+http://cdn03.dyndns.tv:625/live/zvezda/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Звезда" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/zvezda?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/zvezda.png" group-title="Общие",Звезда HD
+http://cdn03.dyndns.tv:525/live/zvezdahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Звезда +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/zvezdaplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/zvezda.png" group-title="Общие",Звезда +2
+http://cdn03.dyndns.tv:525/live/zvezdaplus2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Звезда +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/zvezdaplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/zvezda.png" group-title="Общие",Звезда +4
+http://cdn03.dyndns.tv:525/live/zvezdaplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Звезда Плюс" tvg-logo="http://s.topiptv.ink/img/logos/zvezdaplus.png" group-title="Общие",Звезда Плюс
+http://cdn03.dyndns.tv:525/live/zvezdaplus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Иллюзион +" tvg-logo="http://s.topiptv.ink/img/logos/illuzionplus.png" group-title="Кино",Иллюзион +
+http://cdn03.dyndns.tv:525/live/illusionplus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Индийское кино" tvg-logo="http://s.topiptv.ink/img/logos/indiyskoekino.png" group-title="Кино",Индийское кино
+http://cdn03.dyndns.tv:525/live/kinoplus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="История" tvg-logo="http://s.topiptv.ink/img/logos/istoriya.png" group-title="Познавательные",История
+http://cdn03.dyndns.tv:525/live/istoriya?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="КВН ТВ" tvg-logo="http://s.topiptv.ink/img/logos/kvntv.png" group-title="Общие",КВН ТВ
+http://cdn03.dyndns.tv:525/live/kvntv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Камеди HD" tvg-logo="http://s.topiptv.ink/img/logos/kamedyhd.png" group-title="Кино",Камеди HD
+http://cdn03.dyndns.tv:525/live/kamedyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Канал 2x2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/2x2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/2x2.png" group-title="Общие",Канал 2x2
+http://cdn03.dyndns.tv:525/live/2x2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Капитан фантастика HD" tvg-logo="http://s.topiptv.ink/img/logos/kapitanfantastikahd.png" group-title="Детские",Капитан фантастика HD
+http://cdn03.dyndns.tv:525/live/kapitanfantastikahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Карусель" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/karusel?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/karusel.png" group-title="Детские",Карусель
+http://cdn03.dyndns.tv:525/live/karusel?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кинеко HD" tvg-logo="http://s.topiptv.ink/img/logos/kineko.png" group-title="Кино",Кинеко HD
+http://cdn03.dyndns.tv:525/live/kinekohd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кино ТВ" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinotv/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinotv.png" group-title="Кино",Кино ТВ
+http://cdn03.dyndns.tv:625/live/kinotv/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кино ТВ HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinotv/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinotvhd.png" group-title="Кино",Кино ТВ HD
+http://cdn03.dyndns.tv:525/live/kinotvhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кинокомедия" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinokomedia/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinokomedia.png" group-title="Кино",Кинокомедия
+http://cdn03.dyndns.tv:625/live/kinokomedia/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кинокомедия HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinokomedia/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinokomediyahd.png" group-title="Кино",Кинокомедия HD
+http://cdn03.dyndns.tv:525/live/kinokomediyahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Киноман" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinoman/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinoman.png" group-title="Кино",Киноман
+http://cdn03.dyndns.tv:525/live/kinoman?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Киномикс" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinomiks/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinomiks.png" group-title="Кино",Киномикс
+http://cdn03.dyndns.tv:625/live/kinomiks/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кинопремьера HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinopremierahd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinopremyerahd.png" group-title="Кино",Кинопремьера HD
+http://cdn03.dyndns.tv:625/live/kinopremierahd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кинопоказ" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinopokazsd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinopokaz.png" group-title="Кино",Кинопоказ
+http://cdn03.dyndns.tv:625/live/kinopokazsd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Киносвидание" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinosvidanie/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinosvidanie.png" group-title="Кино",Киносвидание
+http://cdn03.dyndns.tv:625/live/kinosvidanie/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Киносвидание HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinosvidanie/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinosvidaniehd.png" group-title="Кино",Киносвидание HD
+http://cdn03.dyndns.tv:525/live/kinosvidaniehd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Киносемья" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinosemya/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinosemya.png" group-title="Кино",Киносемья
+http://cdn03.dyndns.tv:625/live/kinosemya/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="КИНОСЕРИЯ" tvg-logo="http://s.topiptv.ink/img/logos/kinoseria.png" group-title="Кино",КИНОСЕРИЯ
+http://cdn03.dyndns.tv:525/live/kinoseria?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кинохит" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinohit/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinohit.png" group-title="Кино",Кинохит
+http://cdn03.dyndns.tv:625/live/kinohit/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Киноужас HD" tvg-logo="http://s.topiptv.ink/img/logos/kinouzas.png" group-title="Кино",Киноужас HD
+http://cdn03.dyndns.tv:525/live/kinouzashd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кион Хит HD" tvg-logo="http://s.topiptv.ink/img/logos/kionhithd.png" group-title="Кино",Кион Хит HD
+http://cdn03.dyndns.tv:525/live/kionhithd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Комедия" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/komediya/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/komediya.png" group-title="Кино",Комедия
+http://cdn03.dyndns.tv:625/live/komediya/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Комедийное HD" tvg-logo="http://s.topiptv.ink/img/logos/komediynoe.png" group-title="Кино",Комедийное HD
+http://cdn03.dyndns.tv:525/live/kinopokazhd2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Конный мир HD" tvg-logo="http://s.topiptv.ink/img/logos/konniymir.png" group-title="Спортивные",Конный мир HD
+http://cdn03.dyndns.tv:525/live/konniymirhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кто_есть_кто" tvg-logo="http://s.topiptv.ink/img/logos/ktoestkto.png" group-title="Познавательные",Кто есть кто
+http://cdn03.dyndns.tv:525/live/ktoestkto?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Кухня ТВ" tvg-logo="http://s.topiptv.ink/img/logos/kuhnyatv.png" group-title="Общие",Кухня ТВ
+http://cdn03.dyndns.tv:525/live/kuhnyatv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="МИР" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/mirhd?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/mirhd.png" group-title="Общие",МИР
+http://cdn03.dyndns.tv:625/live/mirhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="МУЗ-ТВ" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/muztv?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/muztv.png" group-title="Музыкальные",МУЗ-ТВ
+http://cdn03.dyndns.tv:525/live/muztv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="МУЗ-ТВ" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/muztv?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/muztv.png" group-title="Музыкальные",МУЗ-ТВ HD
+http://cdn03.dyndns.tv:525/live/muztvhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Мама" tvg-logo="http://s.topiptv.ink/img/logos/mama.png" group-title="Общие",Мама
+http://cdn03.dyndns.tv:525/live/mama?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! SD" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/matchsd?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/match.png" group-title="Спортивные",Матч! SD
+http://cdn03.dyndns.tv:525/live/matchsd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/matchtvhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/matchhd.png" group-title="Спортивные",Матч! HD
+http://cdn03.dyndns.tv:625/live/matchtvhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! HD 50FPS" tvg-logo="http://s.topiptv.ink/img/logos/matchhd.png" group-title="Спортивные",Матч! HD 50FPS
+http://cdn03.dyndns.tv:525/live/matchhd50fps?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Арена" tvg-logo="http://s.topiptv.ink/img/logos/matcharena.png" group-title="Спортивные",Матч! Арена
+http://cdn03.dyndns.tv:525/live/matcharena?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Арена HD" tvg-logo="http://s.topiptv.ink/img/logos/matcharena.png" group-title="Спортивные",Матч! Арена HD
+http://cdn03.dyndns.tv:525/live/matcharenahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Игра HD" tvg-logo="http://s.topiptv.ink/img/logos/matchigra.png" group-title="Спортивные",Матч! Игра HD
+http://cdn03.dyndns.tv:525/live/matchigrahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Страна" tvg-logo="http://s.topiptv.ink/img/logos/matchnashsport.png" group-title="Спортивные",Матч! Страна
+http://cdn03.dyndns.tv:525/live/matchnashsport?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Премьер HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/matchnashfutbolhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/matchpremierhd.png" group-title="Спортивные",Матч! Премьер HD
+http://cdn03.dyndns.tv:525/live/matchnashfutbolhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Премьер HD 50FPS" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/matchnashfutbolhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/matchpremierhd.png" group-title="Спортивные",Матч! Премьер HD 50FPS
+http://cdn03.dyndns.tv:525/live/matchpremierhd50fps?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Премьер" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/matchnashfutbolhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/matchpremier.png" group-title="Спортивные",Матч! Премьер
+http://cdn03.dyndns.tv:525/live/matchnashfutbol?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Футбол 1" tvg-logo="http://s.topiptv.ink/img/logos/matchfutbol1.png" group-title="Спортивные",Матч! Футбол 1
+http://cdn03.dyndns.tv:525/live/matchfutbol1?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Футбол 2" tvg-logo="http://s.topiptv.ink/img/logos/matchfutbol2.png" group-title="Спортивные",Матч! Футбол 2
+http://cdn03.dyndns.tv:525/live/matchfutbol2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Футбол 3" tvg-logo="http://s.topiptv.ink/img/logos/matchfutbol3.png" group-title="Спортивные",Матч! Футбол 3
+http://cdn03.dyndns.tv:525/live/matchfutbol3?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://s.topiptv.ink/img/logos/matchfutbol1.png" group-title="Спортивные",Матч! Футбол 1 HD
+http://cdn03.dyndns.tv:525/live/matchfutbol1hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://s.topiptv.ink/img/logos/matchfutbol2.png" group-title="Спортивные",Матч! Футбол 2 HD
+http://cdn03.dyndns.tv:525/live/matchfutbol2hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://s.topiptv.ink/img/logos/matchfutbol3.png" group-title="Спортивные",Матч! Футбол 3 HD
+http://cdn03.dyndns.tv:525/live/matchfutbol3hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Москва.Доверие" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/moskvadoverie?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/moskvadoverie.png" group-title="Кино",Москва.Доверие
+http://cdn03.dyndns.tv:525/live/moskvadoverie?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="http://s.topiptv.ink/img/logos/mosfilm.png" group-title="Кино",Мосфильм. Золотая коллекция
+http://cdn03.dyndns.tv:525/live/mosfilm?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Мосфильм HD Золотая коллекция" tvg-logo="http://s.topiptv.ink/img/logos/mosfilm.png" group-title="Кино",Мосфильм HD Золотая коллекция
+http://cdn03.dyndns.tv:525/live/mosfilmhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Моторспорт ТВ" tvg-logo="http://s.topiptv.ink/img/logos/motorsporttv.png" group-title="Спортивные",Моторспорт ТВ
+http://cdn03.dyndns.tv:525/live/motorsporttv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Моя Планета" tvg-logo="http://s.topiptv.ink/img/logos/moyaplaneta.png" group-title="Познавательные",Моя Планета
+http://cdn03.dyndns.tv:525/live/moyaplaneta?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Мужское_кино" tvg-logo="http://s.topiptv.ink/img/logos/myzskoekino.png" group-title="Кино",Мужское кино
+http://cdn03.dyndns.tv:525/live/muyskoekino?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Мульт" tvg-logo="http://s.topiptv.ink/img/logos/mult.png" group-title="Детские",Мульт
+http://cdn03.dyndns.tv:525/live/mult?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Мульт HD" tvg-logo="http://s.topiptv.ink/img/logos/mult.png" group-title="Детские",Мульт HD
+http://cdn03.dyndns.tv:525/live/tlumhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Мультиландия" tvg-logo="http://s.topiptv.ink/img/logos/multilandia.png" group-title="Детские",Мультиландия
+http://cdn03.dyndns.tv:525/live/multilandia?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТВ HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ntvhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/ntvhd.png" group-title="Общие",НТВ HD
+http://cdn03.dyndns.tv:625/live/ntvhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТВ SD" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/ntvsd?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/ntvhd.png" group-title="Общие",НТВ SD
+http://cdn03.dyndns.tv:625/live/ntvsd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТВ +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/ntvplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/ntv.png" group-title="Общие",НТВ +2
+http://cdn03.dyndns.tv:525/live/ntvplus2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТВ +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/ntvplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/ntv.png" group-title="Общие",НТВ +4
+http://cdn03.dyndns.tv:525/live/ntvplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТВ Право" tvg-logo="http://s.topiptv.ink/img/logos/ntvpravo.png" group-title="Общие",НТВ Право
+http://cdn03.dyndns.tv:525/live/ntvpravo?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТВ Сериал" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ntvserial/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/ntvserial.png" group-title="Кино",НТВ Сериал
+http://cdn03.dyndns.tv:625/live/ntvserial/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТВ Стиль" tvg-logo="http://s.topiptv.ink/img/logos/ntvstil.png" group-title="Общие",НТВ Стиль
+http://cdn03.dyndns.tv:525/live/ntvstil?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТВ Хит" tvg-logo="http://s.topiptv.ink/img/logos/ntvhit.png" group-title="Кино",НТВ Хит
+http://cdn03.dyndns.tv:525/live/ntvhit?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Настоящее Страшное ТВ" tvg-logo="http://s.topiptv.ink/img/logos/nst.png" group-title="Кино",Настоящее Страшное ТВ
+http://cdn03.dyndns.tv:525/live/nst?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Наука 2.0" tvg-logo="http://s.topiptv.ink/img/logos/nauka2_0.png" group-title="Познавательные",Наука 2.0
+http://cdn03.dyndns.tv:525/live/nauka2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Наше крутое HD" tvg-logo="http://s.topiptv.ink/img/logos/nashekrutoe.png" group-title="Кино",Наше крутое HD
+http://cdn03.dyndns.tv:525/live/nashdetektivhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Наше любимое кино" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/lubimoekino/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/lubimoekino.png" group-title="Кино",Наше любимое кино
+http://cdn03.dyndns.tv:525/live/lubimoekino?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Наше Новое Кино" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/nashenovoekino?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/nashenovoekino.png" group-title="Кино",Наше Новое Кино
+http://cdn03.dyndns.tv:625/live/nashenovoekino/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Ностальгия" tvg-logo="http://s.topiptv.ink/img/logos/nostalgiya.png" group-title="Общие",Ностальгия
+http://cdn03.dyndns.tv:525/live/nostalgia?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Оружие" tvg-logo="http://s.topiptv.ink/img/logos/oruzie.png" group-title="Спортивные",Оружие
+http://cdn03.dyndns.tv:525/live/oruzie?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ОТР" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/otr?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/otr.png" group-title="Общие",ОТР
+http://cdn03.dyndns.tv:525/live/otr?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Остросюжетное HD" tvg-logo="http://s.topiptv.ink/img/logos/ostrosyuzetnoehd.png" group-title="Кино",Остросюжетное HD
+http://cdn03.dyndns.tv:525/live/ostrosyuzetnoehd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Охота и рыбалка" tvg-logo="http://s.topiptv.ink/img/logos/ohotairibalka.png" group-title="Познавательные",Охота и рыбалка
+http://cdn03.dyndns.tv:525/live/ohotairibalka?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Охотник и рыболов HD" tvg-logo="http://s.topiptv.ink/img/logos/ohotnikiribolov.png" group-title="Познавательные",Охотник и рыболов HD
+http://cdn03.dyndns.tv:525/live/ohotnikiribolovhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Первый HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/perviyhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/perviyhd.png" group-title="Общие",Первый HD
+http://cdn03.dyndns.tv:625/live/perviyhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Первый канал SD" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/perviysd?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/perviysd.png" group-title="Общие",Первый канал SD
+http://cdn03.dyndns.tv:625/live/perviysd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Первый канал Евразия" tvg-logo="http://s.topiptv.ink/img/logos/perviysd.png" group-title="Общие",Первый канал Евразия
+http://cdn03.dyndns.tv:525/live/perviyint?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Первый канал +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/perviyplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/perviysd.png" group-title="Общие",Первый канал +2
+http://cdn03.dyndns.tv:625/live/perviyplus2/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Первый канал +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/perviy4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/perviy+4.png" group-title="Общие",Первый канал +4
+http://cdn03.dyndns.tv:625/live/perviy4/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Первый космический HD" tvg-logo="http://s.topiptv.ink/img/logos/perviykosmicheskiyhd.png" group-title="Познавательные",Первый космический HD
+http://cdn03.dyndns.tv:525/live/perviykosmicheskiyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Победа" tvg-logo="http://s.topiptv.ink/img/logos/pobeda.png" group-title="Кино",Победа
+http://cdn03.dyndns.tv:525/live/pobeda?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Победа HD" tvg-logo="http://s.topiptv.ink/img/logos/pobeda.png" group-title="Кино",Победа HD
+http://cdn03.dyndns.tv:525/live/pobedahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Про Любовь HD" tvg-logo="http://s.topiptv.ink/img/logos/prolubov.png" group-title="Кино",Про Любовь HD
+http://cdn03.dyndns.tv:525/live/prolubovhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Премиальное HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/kinopremiumhd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/kinopremium.png" group-title="Кино",Премиальное HD
+http://cdn03.dyndns.tv:625/live/kinopremiumhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Приключения HD" tvg-logo="http://s.topiptv.ink/img/logos/priklyucheniyahd.png" group-title="Познавательные",Приключения HD
+http://cdn03.dyndns.tv:525/live/priklucheniyahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Психология 21" tvg-logo="http://s.topiptv.ink/img/logos/psihologiya21.png" group-title="Познавательные",Психология 21
+http://cdn03.dyndns.tv:525/live/psihologiya21?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пятница" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/pyatnica?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/pyatnica.png" group-title="Общие",Пятница
+http://cdn03.dyndns.tv:625/live/pyatnica/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пятница HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/pyatnicahd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/pyatnica.png" group-title="Общие",Пятница HD
+http://cdn03.dyndns.tv:625/live/pyatnicahd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пятница +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/pyatnicaplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/pyatnica.png" group-title="Общие",Пятница +2
+http://cdn03.dyndns.tv:525/live/pyatnicaplus2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пятница +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/pyatnicaplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/pyatnica.png" group-title="Общие",Пятница +4
+http://cdn03.dyndns.tv:525/live/pyatnicaplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пятый Канал" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/pyatiykanal?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/pyatiy.png" group-title="Общие",Пятый Канал
+http://cdn03.dyndns.tv:625/live/pyatiykanal/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пятый Канал" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/pyatiykanal?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/pyatiy.png" group-title="Общие",Пятый Канал HD
+http://cdn03.dyndns.tv:525/live/pyatiykanalhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пятый Канал +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/5kanalplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/pyatiy.png" group-title="Общие",Пятый Канал +2
+http://cdn03.dyndns.tv:625/live/5kanalplus2/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пятый Канал +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/5kanalplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/pyatiy.png" group-title="Общие",Пятый Канал +4
+http://cdn03.dyndns.tv:525/live/5kanalplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="РБК" tvg-logo="http://s.topiptv.ink/img/logos/rbc.png" group-title="Общие",РБК
+http://cdn03.dyndns.tv:525/live/rbk?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="РЕН ТВ" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/rentv?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/rentv.png" group-title="Общие",РЕН ТВ
+http://cdn03.dyndns.tv:625/live/rentv/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="РЕН ТВ HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/rentvhd?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/rentvhd.png" group-title="Общие",РЕН ТВ HD
+http://cdn03.dyndns.tv:625/live/rentvhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="РЕН ТВ +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/rentvplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/rentv.png" group-title="Общие",РЕН ТВ +2
+http://cdn03.dyndns.tv:625/live/rentvplus2/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="РЕН ТВ +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/rentvplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/rentv.png" group-title="Общие",РЕН ТВ +4
+http://cdn03.dyndns.tv:525/live/rentvplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Ретро ТВ" tvg-logo="http://s.topiptv.ink/img/logos/retro.png" group-title="Общие",Ретро ТВ
+http://cdn03.dyndns.tv:525/live/retro?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Родное кино" tvg-logo="http://s.topiptv.ink/img/logos/rodnoekino.png" group-title="Кино",Родное кино
+http://cdn03.dyndns.tv:525/live/rodnoekino?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Россия SD" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/rossiasd?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/russia1hd.png" group-title="Общие",Россия SD
+http://cdn03.dyndns.tv:625/live/rossiasd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Россия HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/russiahd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/russia1hd.png" group-title="Общие",Россия HD
+http://cdn03.dyndns.tv:625/live/russiahd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Россия 1 +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/russiaplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/russia1.png" group-title="Общие",Россия 1 +2
+http://cdn03.dyndns.tv:625/live/russiaplus2/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Россия 1 +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/russia4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/rossiya+4.png" group-title="Общие",Россия 1 +4
+http://cdn03.dyndns.tv:625/live/russia4/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Россия 24" tvg-logo="http://s.topiptv.ink/img/logos/russia24.png" group-title="Общие",Россия 24
+http://cdn03.dyndns.tv:625/live/rossiya24/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="РТР-Планета Европа" tvg-logo="http://s.topiptv.ink/img/logos/rtr.png" group-title="Общие",РТР-Планета Европа
+http://cdn03.dyndns.tv:525/live/rtrplaneta?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Россия Культура" tvg-logo="http://s.topiptv.ink/img/logos/russiak.png" group-title="Общие",Россия Культура
+http://cdn03.dyndns.tv:525/live/rossiyak?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Русский бестселлер" tvg-logo="http://s.topiptv.ink/img/logos/russkiybestseller.png" group-title="Кино",Русский бестселлер
+http://cdn03.dyndns.tv:525/live/russkiybestseller?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Русский иллюзион" tvg-logo="http://s.topiptv.ink/img/logos/illuzion.png" group-title="Кино",Русский иллюзион
+http://cdn03.dyndns.tv:525/live/russkiyilluzion?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Русский роман" tvg-logo="http://s.topiptv.ink/img/logos/rusroman.png" group-title="Кино",Русский роман
+http://cdn03.dyndns.tv:525/live/russkiyroman?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Солнце" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/disney?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/solnce.png" group-title="Детские",Солнце
+http://cdn03.dyndns.tv:525/live/solnce?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Спортивный HD" tvg-logo="http://s.topiptv.ink/img/logos/sportivnuiyhd.png" group-title="Спортивные",Спортивный HD
+http://cdn03.dyndns.tv:525/live/sportivnuiyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Старт HD" tvg-logo="http://s.topiptv.ink/img/logos/starthd.png" group-title="Спортивные",СТАРТ HD
+http://cdn03.dyndns.tv:525/live/starthd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Страшное HD" tvg-logo="http://s.topiptv.ink/img/logos/strashnoehd.png" group-title="Кино",Страшное HD
+http://cdn03.dyndns.tv:525/live/strashnoehd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТС" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/sts?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/sts.png" group-title="Общие",СТС
+http://cdn03.dyndns.tv:625/live/sts/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТС HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/sts?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/stshd.png" group-title="Общие",СТС HD
+http://cdn03.dyndns.tv:525/live/stshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТС +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/stsplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/sts.png" group-title="Общие",СТС +2
+http://cdn03.dyndns.tv:525/live/stsplus2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТС +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/stsplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/sts.png" group-title="Общие",СТС +4
+http://cdn03.dyndns.tv:525/live/stsplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТС Kids HD" tvg-logo="http://s.topiptv.ink/img/logos/stskidshd.png" group-title="Детские",СТС Kids HD
+http://cdn03.dyndns.tv:525/live/stskidshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТС Love" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/stslove?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/stslove.png" group-title="Общие",СТС Love
+http://cdn03.dyndns.tv:525/live/stslove?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Супер" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/super?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/super.png" group-title="Общие",Суббота
+http://cdn03.dyndns.tv:525/live/super?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТВ-3" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tv3?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tv3.png" group-title="Общие",ТВ-3
+http://cdn03.dyndns.tv:525/live/tv3?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТВЦ" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tvc?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tvc.png" group-title="Общие",ТВЦ
+http://cdn03.dyndns.tv:625/live/tvc/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТВЦ" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tvc?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tvc.png" group-title="Общие",ТВЦ HD
+http://cdn03.dyndns.tv:525/live/tvchd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТВЦ +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tvcplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tvc.png" group-title="Общие",ТВЦ +2
+http://cdn03.dyndns.tv:625/live/tvcplus2/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТВЦ +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tvcplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tvc.png" group-title="Общие",ТВЦ +4
+http://cdn03.dyndns.tv:525/live/tvcplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Театр" tvg-logo="http://s.topiptv.ink/img/logos/teatr.png" group-title="Общие",Театр
+http://cdn03.dyndns.tv:525/live/teatr?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТНТ SD" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tntsd?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tnt.png" group-title="Общие",ТНТ SD
+http://cdn03.dyndns.tv:625/live/tntsd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТНТ HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/tnthd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tnthd.png" group-title="Общие",ТНТ HD
+http://cdn03.dyndns.tv:625/live/tnthd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТНТ +2" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tntplus2?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tnt.png" group-title="Общие",ТНТ +2
+http://cdn03.dyndns.tv:525/live/tntplus2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТНТ +4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tntplus4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tnt.png" group-title="Общие",ТНТ +4
+http://cdn03.dyndns.tv:525/live/tntplus4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТНТ4" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/tnt4?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/tnt4.png" group-title="Общие",ТНТ4
+http://cdn03.dyndns.tv:525/live/tnt4?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Телекафе" tvg-logo="http://s.topiptv.ink/img/logos/telekafe.png" group-title="Общие",Телекафе
+http://cdn03.dyndns.tv:525/live/telecafe?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Телепутешествия" tvg-logo="http://s.topiptv.ink/img/logos/teleputeshestviya.png" group-title="Познавательные",Телепутешествия
+http://cdn03.dyndns.tv:525/live/teleputeshestviya?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Удар ТВ" tvg-logo="http://s.topiptv.ink/img/logos/udar.png" group-title="Спортивные",Удар ТВ
+http://cdn03.dyndns.tv:525/live/udarhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Уникум" tvg-logo="http://s.topiptv.ink/img/logos/detskiy.png" group-title="Детские",Уникум
+http://cdn03.dyndns.tv:525/live/detskiy?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Футбол HD" tvg-logo="http://s.topiptv.ink/img/logos/futbol.png" group-title="Спортивные",Футбол HD
+http://cdn03.dyndns.tv:525/live/futballhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Футбольный HD" tvg-logo="http://s.topiptv.ink/img/logos/futbolniyhd.png" group-title="Спортивные",Футбольный HD
+http://cdn03.dyndns.tv:525/live/futbolniyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Че" catchup="default" catchup-source="http://cdn03.dyndns.tv:4627/archive/che?offset=-${offset}&utcstart=${timestamp}" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/che.png" group-title="Общие",Че
+http://cdn03.dyndns.tv:525/live/che?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Хит HD" tvg-logo="http://s.topiptv.ink/img/logos/hithd.png" group-title="Кино",Хит HD
+http://cdn03.dyndns.tv:525/live/hithd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Хоккейный HD" tvg-logo="http://s.topiptv.ink/img/logos/hokkeyniyhd.png" group-title="Спортивные",Хоккейный HD
+http://cdn03.dyndns.tv:525/live/hokkeyniyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Шансон ТВ" tvg-logo="http://s.topiptv.ink/img/logos/shanson.png" group-title="Музыкальные",Шансон ТВ
+http://cdn03.dyndns.tv:525/live/shansontv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Шокирующее HD" tvg-logo="http://s.topiptv.ink/img/logos/shokiruyushee.png" group-title="Кино",Шокирующее HD
+http://cdn03.dyndns.tv:525/live/kinopokaz?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Ю" tvg-logo="http://s.topiptv.ink/img/logos/yu.png" group-title="Общие",Ю
+http://cdn03.dyndns.tv:525/live/yu?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Квартал ТВ" tvg-logo="http://s.topiptv.ink/img/logos/kvartaltv.png" group-title="Региональные",Квартал ТВ
+http://cdn03.dyndns.tv:525/live/kvartaltv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ATR" tvg-logo="http://s.topiptv.ink/img/logos/atr.png" group-title="Региональные",ATR
+http://cdn03.dyndns.tv:525/live/atr?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Enter Film" tvg-logo="http://s.topiptv.ink/img/logos/enterfilm.png" group-title="Региональные",Enter Film
+http://cdn03.dyndns.tv:525/live/enterfilm?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="NIKI Kids HD UA" tvg-logo="http://s.topiptv.ink/img/logos/nikikidshdua.png" group-title="Региональные",NIKI Kids HD UA
+http://cdn03.dyndns.tv:525/live/nikikidshd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="NIKI Junior HD UA" tvg-logo="http://s.topiptv.ink/img/logos/nikijuniorhdua.png" group-title="Региональные",NIKI Junior HD UA
+http://cdn03.dyndns.tv:525/live/nikijuniorhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Star Cinema HD UA" tvg-logo="http://s.topiptv.ink/img/logos/estarcinemahdua.png" group-title="Региональные",Star Cinema HD UA
+http://cdn03.dyndns.tv:525/live/starcinemahdua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Star Family HD UA" tvg-logo="http://s.topiptv.ink/img/logos/starfamilyhdua.png" group-title="Региональные",Star Family HD UA
+http://cdn03.dyndns.tv:525/live/starfamilyhdua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Интер" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_inter/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/inter.png" group-title="Региональные",Інтер
+http://cdn03.dyndns.tv:625/live/ua_inter/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Интер HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_inter/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/interhd.png" group-title="Региональные",Інтер HD
+http://cdn03.dyndns.tv:625/live/interhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Канал 1+1" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_1plus1/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/1plus1.png" group-title="Региональные",Канал 1+1
+http://cdn03.dyndns.tv:625/live/ua_1plus1/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Канал 1+1 Международный" tvg-logo="http://s.topiptv.ink/img/logos/1plus1int.png" group-title="Региональные",Канал 1+1 International
+http://cdn03.dyndns.tv:525/live/1plus1int?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Канал 1+1 HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/1+1hd/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/1plus1hd.png" group-title="Региональные",Канал 1+1 Україна HD
+http://cdn03.dyndns.tv:525/live/1plus1hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Бигуди" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/bigudi/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/bigudi.png" group-title="Региональные",Бігуді
+http://cdn03.dyndns.tv:625/live/bigudi/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Zoom HD" tvg-logo="http://s.topiptv.ink/img/logos/zoomhd.png" group-title="Региональные",Zoom HD
+http://cdn03.dyndns.tv:525/live/zoomhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Униан HD" tvg-logo="http://s.topiptv.ink/img/logos/unianhd.png" group-title="Региональные",Уніан HD
+http://cdn03.dyndns.tv:625/live/unianhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="UATV" tvg-logo="http://s.topiptv.ink/img/logos/uatv.png" group-title="Региональные",UATV
+http://cdn03.dyndns.tv:525/live/uatv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="UATV" tvg-logo="http://s.topiptv.ink/img/logos/uatv.png" group-title="Региональные",UATV HD
+http://cdn03.dyndns.tv:525/live/uatvhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="2+2 (Украина)" tvg-logo="http://s.topiptv.ink/img/logos/2plus2.png" group-title="Региональные",2+2
+http://cdn03.dyndns.tv:525/live/2plus2ua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="5 канал (Украина)" tvg-logo="http://s.topiptv.ink/img/logos/5kanalukr.png" group-title="Региональные",5 канал (Україна)
+http://cdn03.dyndns.tv:525/live/ua_5ukraine?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="5 канал HD (Украина)" tvg-logo="http://s.topiptv.ink/img/logos/5kanalukr.png" group-title="Региональные",5 канал HD (Україна)
+http://cdn03.dyndns.tv:525/live/5kanaluahd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ICTV (Украина)" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_ictv/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/ictv.png" group-title="Региональные",ICTV
+http://cdn03.dyndns.tv:625/live/ua_ictv/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ICTV HD (Украина)" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_ictv/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/ictv.png" group-title="Региональные",ICTV HD
+http://cdn03.dyndns.tv:625/live/ictvhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ICTV2" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_ictv2/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/ictv.png" group-title="Региональные",ICTV2 HD
+http://cdn03.dyndns.tv:625/live/ictv2hd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="К1" tvg-logo="http://s.topiptv.ink/img/logos/k1.png" group-title="Региональные",К1
+http://cdn03.dyndns.tv:525/live/k1ua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="К2" tvg-logo="http://s.topiptv.ink/img/logos/k2.png" group-title="Региональные",К2
+http://cdn03.dyndns.tv:525/live/k2ua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Мега" tvg-logo="http://s.topiptv.ink/img/logos/mega.png" group-title="Региональные",Мега
+http://cdn03.dyndns.tv:525/live/mega?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Новый Канал" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_noviykanal/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/noviykanal.png" group-title="Региональные",Новий Канал
+http://cdn03.dyndns.tv:625/live/ua_noviykanal/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Новый Канал HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_noviykanal/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/noviykanal.png" group-title="Региональные",Новий Канал HD
+http://cdn03.dyndns.tv:625/live/noviyhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="НТН (Украина)" tvg-logo="http://s.topiptv.ink/img/logos/ntn.png" group-title="Региональные",НТН
+http://cdn03.dyndns.tv:525/live/ntnua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Первый Автомобильный" tvg-logo="http://s.topiptv.ink/img/logos/perviyauto.png" group-title="Региональные",Перший Автомобільний
+http://cdn03.dyndns.tv:525/live/autoua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Пиксель" tvg-logo="http://s.topiptv.ink/img/logos/piksel.png" group-title="Региональные",Піксель
+http://cdn03.dyndns.tv:525/live/piksel?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="UA:Перший" tvg-logo="http://s.topiptv.ink/img/logos/uapershiy.png" group-title="Региональные",UA:Перший
+http://cdn03.dyndns.tv:525/live/uapershiy?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Прямий" tvg-logo="http://s.topiptv.ink/img/logos/pryamiy.png" group-title="Региональные",Прямий
+http://cdn03.dyndns.tv:525/live/rada?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТБ" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_stb/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/stb.png" group-title="Региональные",СТБ
+http://cdn03.dyndns.tv:625/live/ua_stb/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТБ HD" catchup="default" catchup-source="http://cdn03.dyndns.tv:8443/ua_stb/index-${start}-${timestamp}.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19" catchup-days=3 tvg-logo="http://s.topiptv.ink/img/logos/stb.png" group-title="Региональные",СТБ HD
+http://cdn03.dyndns.tv:625/live/stbhd/index.m3u8?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ТЕТ" tvg-logo="http://s.topiptv.ink/img/logos/tet.png" group-title="Региональные",ТЕТ
+http://cdn03.dyndns.tv:525/live/tet?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="М-1" tvg-logo="http://s.topiptv.ink/img/logos/m1.png" group-title="Региональные",М1 HD
+http://cdn03.dyndns.tv:525/live/m1ua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="М2" tvg-logo="http://s.topiptv.ink/img/logos/m2.png" group-title="Региональные",М2 HD
+http://cdn03.dyndns.tv:525/live/m2ua?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Эспресо ТВ" tvg-logo="http://s.topiptv.ink/img/logos/spresotv.png" group-title="Региональные",Еспресо ТВ
+http://cdn03.dyndns.tv:525/live/espresso?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Беларусь 1" tvg-logo="http://s.topiptv.ink/img/logos/belarus1.png" group-title="Региональные",Беларусь 1
+http://cdn03.dyndns.tv:525/live/belarus1?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Беларусь 2" tvg-logo="http://s.topiptv.ink/img/logos/belarus2.png" group-title="Региональные",Беларусь 2
+http://cdn03.dyndns.tv:525/live/belarus2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Беларусь 3" tvg-logo="http://s.topiptv.ink/img/logos/belarus3.png" group-title="Региональные",Беларусь 3
+http://cdn03.dyndns.tv:525/live/belarus3?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Беларусь 5" tvg-logo="http://s.topiptv.ink/img/logos/belarus5.png" group-title="Региональные",Беларусь 5
+http://cdn03.dyndns.tv:525/live/belarus5?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Беларусь 24" tvg-logo="http://s.topiptv.ink/img/logos/belarus5.png" group-title="Региональные",Беларусь 24
+http://cdn03.dyndns.tv:525/live/belarus24?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="БСТ" tvg-logo="http://s.topiptv.ink/img/logos/bst.png" group-title="Региональные",БСТ
+http://cdn03.dyndns.tv:525/live/bstby?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="ОНТ" tvg-logo="http://s.topiptv.ink/img/logos/ont.png" group-title="Региональные",ОНТ
+http://cdn03.dyndns.tv:525/live/ontby?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Первый музыкальный HD BY" tvg-logo="http://s.topiptv.ink/img/logos/1musicby.png" group-title="Региональные",Первый музыкальный HD BY
+http://cdn03.dyndns.tv:525/live/1musicby?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Moldova 1" tvg-logo="http://s.topiptv.ink/img/logos/moldova1.png" group-title="Региональные",Moldova 1
+http://cdn03.dyndns.tv:525/live/moldova1?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Moldova 2" tvg-logo="http://s.topiptv.ink/img/logos/moldova2.png" group-title="Региональные",Moldova 2
+http://cdn03.dyndns.tv:525/live/moldova2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Jurnal TV MD" tvg-logo="http://s.topiptv.ink/img/logos/jurnaltv.png" group-title="Региональные",Jurnal TV MD
+http://cdn03.dyndns.tv:525/live/jurnaltv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Orhei TV MD" tvg-logo="http://s.topiptv.ink/img/logos/orheitv.png" group-title="Региональные",Orhei TV MD
+http://cdn03.dyndns.tv:525/live/orheitv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Pro TV HD MD" tvg-logo="http://s.topiptv.ink/img/logos/protvhdmd.png" group-title="Региональные",Pro TV HD MD
+http://cdn03.dyndns.tv:525/live/protvhdmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Publika MD" tvg-logo="http://s.topiptv.ink/img/logos/publikatvmd.png" group-title="Региональные",Publika MD
+http://cdn03.dyndns.tv:525/live/publikatvmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Rlive HD MD" tvg-logo="http://s.topiptv.ink/img/logos/rlivehdmd.png" group-title="Региональные",Rlive HD MD
+http://cdn03.dyndns.tv:525/live/rlivehdmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Canal 2 HD MD" tvg-logo="http://s.topiptv.ink/img/logos/canal2hdmd.png" group-title="Региональные",Canal 2 HD MD
+http://cdn03.dyndns.tv:525/live/canal2hdmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Canal 3 HD MD" tvg-logo="http://s.topiptv.ink/img/logos/canal3hdmd.png" group-title="Региональные",Canal 3 HD MD
+http://cdn03.dyndns.tv:525/live/canal3hdmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="СТС Mega TV MD" tvg-logo="http://s.topiptv.ink/img/logos/megatvmd.png" group-title="Региональные",СТС Mega TV MD
+http://cdn03.dyndns.tv:525/live/megatvmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Prime HD MD" tvg-logo="http://s.topiptv.ink/img/logos/primehdmd.png" group-title="Региональные",Prime HD MD
+http://cdn03.dyndns.tv:525/live/primehdmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="RTR MD" tvg-logo="http://s.topiptv.ink/img/logos/rtrmdmd.png" group-title="Региональные",RTR MD
+http://cdn03.dyndns.tv:525/live/rtrmdmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="RenTV MD" tvg-logo="http://s.topiptv.ink/img/logos/rentvmd.png" group-title="Региональные",RenTV MD
+http://cdn03.dyndns.tv:525/live/rentvmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="NTV MD" tvg-logo="http://s.topiptv.ink/img/logos/ntvmd.png" group-title="Региональные",NTV MD
+http://cdn03.dyndns.tv:525/live/ntvmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV8 HD MD" tvg-logo="http://s.topiptv.ink/img/logos/tv8hdmd.png" group-title="Региональные",TV8 HD MD
+http://cdn03.dyndns.tv:525/live/tv8hdmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Primul MD" tvg-logo="http://s.topiptv.ink/img/logos/primulmd.png" group-title="Региональные",Primul MD
+http://cdn03.dyndns.tv:525/live/primulmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Noroc TV HD MD" tvg-logo="http://s.topiptv.ink/img/logos/noroctvhdmd.png" group-title="Региональные",Noroc TV HD MD
+http://cdn03.dyndns.tv:525/live/noroctvhdmd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Antena 1 HD RO" tvg-logo="http://s.topiptv.ink/img/logos/antena1hdro.png" group-title="Региональные",Antena 1 HD RO
+http://cdn03.dyndns.tv:525/live/antena1hdro?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TVR HD RO" tvg-logo="http://s.topiptv.ink/img/logos/tvrhdro.png" group-title="Региональные",TVR HD RO
+http://cdn03.dyndns.tv:525/live/tvrhdro?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="HBO HD RO" tvg-logo="http://s.topiptv.ink/img/logos/hbohdro.png" group-title="Региональные",HBO HD RO
+http://cdn03.dyndns.tv:525/live/hbohdro?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="HBO 2 RO" tvg-logo="http://s.topiptv.ink/img/logos/hbo2ro.png" group-title="Региональные",HBO 2 RO
+http://cdn03.dyndns.tv:525/live/hbo2ro?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="HBO 3 RO" tvg-logo="http://s.topiptv.ink/img/logos/hbo3ro.png" group-title="Региональные",HBO 3 RO
+http://cdn03.dyndns.tv:525/live/hbo3ro?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV24" tvg-logo="http://s.topiptv.ink/img/logos/tv24.png" group-title="Региональные",TV24
+http://cdn03.dyndns.tv:525/live/tv24?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="OTV" tvg-logo="http://s.topiptv.ink/img/logos/OTV.png" group-title="Региональные",OTV Latvia HD
+http://cdn03.dyndns.tv:525/live/lnt?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV3 Lietuva" tvg-logo="http://s.topiptv.ink/img/logos/tv3lietuva.png" group-title="Региональные",Go3 Lietuva
+http://cdn03.dyndns.tv:525/live/tv3lietuva?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV6 Lietuva" tvg-logo="http://s.topiptv.ink/img/logos/tv6lietuva.png" group-title="Региональные",TV6 Lietuva
+http://cdn03.dyndns.tv:525/live/tv6lietuva?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="LRT HD" tvg-logo="http://s.topiptv.ink/img/logos/tv8lietuva.png" group-title="Региональные",LRT HD
+http://cdn03.dyndns.tv:525/live/tv8lietuva?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="LRT Plus" tvg-logo="http://s.topiptv.ink/img/logos/lrtplus.png" group-title="Региональные",LRT Plus
+http://cdn03.dyndns.tv:525/live/lrtplus?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Lietuvos ryto televizija" tvg-logo="http://s.topiptv.ink/img/logos/lietuvosryto.png" group-title="Региональные",Lietuvos ryto televizija
+http://cdn03.dyndns.tv:525/live/lietuvosrytas?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Kidzone Baltic" tvg-logo="http://s.topiptv.ink/img/logos/kidzone.png" group-title="Региональные",Kidzone Baltic
+http://cdn03.dyndns.tv:525/live/kidzonebaltic?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="LTV1" tvg-logo="http://s.topiptv.ink/img/logos/ltv1.png" group-title="Региональные",LTV1
+http://cdn03.dyndns.tv:525/live/ltv1?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="LTV7" tvg-logo="http://s.topiptv.ink/img/logos/ltv7.png" group-title="Региональные",LTV7
+http://cdn03.dyndns.tv:525/live/ltv7?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="LNK" tvg-logo="http://s.topiptv.ink/img/logos/lnk.png" group-title="Региональные",LNK
+http://cdn03.dyndns.tv:525/live/lnk?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV3 Film" tvg-logo="http://s.topiptv.ink/img/logos/tv3film.png" group-title="Региональные",Go3 Films
+http://cdn03.dyndns.tv:525/live/tv1000premiumlt?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="3+ (LV)" tvg-logo="http://s.topiptv.ink/img/logos/3pluslv.png" group-title="Региональные",3+ (LV)
+http://cdn03.dyndns.tv:525/live/3pluslv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="BTV" tvg-logo="http://s.topiptv.ink/img/logos/btv.png" group-title="Региональные",BTV
+http://cdn03.dyndns.tv:525/live/btv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TV 8 HD" tvg-logo="http://s.topiptv.ink/img/logos/tv8.png" group-title="Региональные",TV 8 HD
+http://cdn03.dyndns.tv:525/live/tv8lt?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="SHOW TV HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/showtvhdtr.png" group-title="Региональные",SHOW TV HD (TR)
+http://cdn03.dyndns.tv:525/live/showhdtr?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="STAR TV HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/starthdtr.png" group-title="Региональные",STAR TV HD (TR)
+http://cdn03.dyndns.tv:525/live/starthdtr?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT 1 HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trt1hdtr.png" group-title="Региональные",TRT 1 HD (TR)
+http://cdn03.dyndns.tv:525/live/trt1hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT 2 HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trt2hdtr.png" group-title="Региональные",TRT 2 HD (TR)
+http://cdn03.dyndns.tv:525/live/trt2hd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT BELGESEL HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trtbelgeselhdtr.png" group-title="Региональные",TRT BELGESEL HD (TR)
+http://cdn03.dyndns.tv:525/live/trtbelgeselhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT HABER HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trthaberhdtr.png" group-title="Региональные",TRT HABER HD (TR)
+http://cdn03.dyndns.tv:525/live/trthaberhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT MUZIC HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trtmuzichdtr.png" group-title="Региональные",TRT MUZIC HD (TR)
+http://cdn03.dyndns.tv:525/live/trtmuzichd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT COCUK HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trtcocukhdtr.png" group-title="Региональные",TRT COCUK HD (TR)
+http://cdn03.dyndns.tv:525/live/trtcocukhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT TURK HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trtturkhdtr.png" group-title="Региональные",TRT TURK HD (TR)
+http://cdn03.dyndns.tv:525/live/trtturkhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT AVAZ HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trtavazhdtr.png" group-title="Региональные",TRT AVAZ HD (TR)
+http://cdn03.dyndns.tv:525/live/trtavazhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT KURDI HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trtkurdihdtr.png" group-title="Региональные",TRT KURDI HD (TR)
+http://cdn03.dyndns.tv:525/live/trtkurdihd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="TRT ARABI HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/trtarabihdtr.png" group-title="Региональные",TRT ARABI HD (TR)
+http://cdn03.dyndns.tv:525/live/trtarabihd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="FOX HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/foxhdtr.png" group-title="Региональные",FOX HD (TR)
+http://cdn03.dyndns.tv:525/live/foxtrhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Bloomberg HT HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/bloomberghthdtr.png" group-title="Региональные",Bloomberg HT HD (TR)
+http://cdn03.dyndns.tv:525/live/bloomberghttrhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="NTV HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/ntvhdtr.png" group-title="Региональные",NTV HD (TR)
+http://cdn03.dyndns.tv:525/live/ntvtrhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Halk HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/halkhdtr.png" group-title="Региональные",Halk HD (TR)
+http://cdn03.dyndns.tv:525/live/halktvhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="360 HD (TR)" tvg-logo="http://s.topiptv.ink/img/logos/360hdtr.png" group-title="Региональные",360 HD (TR)
+http://cdn03.dyndns.tv:525/live/360trhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Playboy TV" tvg-logo="http://s.topiptv.ink/img/logos/playboytv.png" group-title="Для взрослых",Playboy TV
+http://cdn03.dyndns.tv:525/live/playboytv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Русская Ночь" tvg-logo="http://s.topiptv.ink/img/logos/russkayanoch.png" group-title="Для взрослых",Русская Ночь
+http://cdn03.dyndns.tv:525/live/russkayanoch?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Brazzers TV" tvg-logo="http://s.topiptv.ink/img/logos/brazzers.png" group-title="Для взрослых",Brazzers TV
+http://cdn03.dyndns.tv:525/live/brazzerstv?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Dorcel HD" tvg-logo="http://s.topiptv.ink/img/logos/dorcelhd.png" group-title="Для взрослых",Dorcel HD
+http://cdn03.dyndns.tv:525/live/dorcelyhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Hustler" tvg-logo="http://s.topiptv.ink/img/logos/bluehustler.png" group-title="Для взрослых",Hustler
+http://cdn03.dyndns.tv:525/live/hustlersd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Hustler HD" tvg-logo="http://s.topiptv.ink/img/logos/hustlerhd.png" group-title="Для взрослых",Hustler HD
+http://cdn03.dyndns.tv:525/live/centoxcento?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Penthouse Gold HD" tvg-logo="http://s.topiptv.ink/img/logos/penthouse1hd.png" group-title="Для взрослых",Penthouse Gold HD
+http://cdn03.dyndns.tv:525/live/babestvhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Penthouse 2 HD" tvg-logo="http://s.topiptv.ink/img/logos/penthouse2hd.png" group-title="Для взрослых",Penthouse Passion HD
+http://cdn03.dyndns.tv:525/live/penthousehd2?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Private TV HD" tvg-logo="http://s.topiptv.ink/img/logos/privatetvhd.png" group-title="Для взрослых",Private TV HD
+http://cdn03.dyndns.tv:525/live/privatetvhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Redlight HD" tvg-logo="http://s.topiptv.ink/img/logos/redlighthd.png" group-title="Для взрослых",Redlight HD
+http://cdn03.dyndns.tv:525/live/redlighthd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Vivid Red HD" tvg-logo="http://s.topiptv.ink/img/logos/vividredhd.png" group-title="Для взрослых",Vivid Red HD
+http://cdn03.dyndns.tv:525/live/vividredhd?token=44f2faa26fd3d852936b79ad36fb9e19
+#EXTINF:-1   tvg-id="" tvg-name="Babes TV HD" tvg-logo="http://s.topiptv.ink/img/logos/babeshd.png" group-title="Для взрослых",Babes TV HD
+http://cdn03.dyndns.tv:525/live/babeshd?token=44f2faa26fd3d852936b79ad36fb9e19
