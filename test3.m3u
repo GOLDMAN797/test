@@ -1,598 +1,1169 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml"
+#EXTINF:-1 ,Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+8)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+9)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+2) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+4) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+6) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+7) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+8) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+9) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
+http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+2) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+4) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD (+7) (auto)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR HD720 (EURO) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR HD720 (USA) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/cf22fa5c-e21a-433e-8317-7e8dd3150d6a.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РОССИЯ РТР HD720 (ASIA) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РОССИЯ РТР HD720 (СНГ) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 HD
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+3)
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+8)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР (+4)
+http://dmi3y-tv6.ru/hls/T2/CH_OTR_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда HD
+http://dmi3y-tv6.ru/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР HD
+http://dmi3y-tv6.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (-1)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+2)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+4)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+6)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+7)
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_CHE_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_U-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю
+http://dmi3y-tv6.ru/hls/zabava/CH_U.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю HD720
+http://dmi3y-tv6.ru/hls/CH_U_HD720.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_U_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_U_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_U_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_U_7.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РТС HD720 (Абакан)
+http://dmi3y-tv6.ru/hls/zabava/region/ABAKAN/CH_RTSHD720.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ-7 HD (Абакан)
+http://dmi3y-tv6.ru/hls/zabava/region/ABAKAN/CH_TV7.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",8 канал (Красноярск)
+http://dmi3y-tv6.ru/hls/zabava/region/ABAKAN/CH_8CHANNEL_KRSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Абакан 24 HD (Абакан)
+http://dmi3y-tv6.ru/hls/zabava/region/ABAKAN/CH_ABAKAN24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Регион 29 (Архангельск)
+http://dmi3y-tv6.ru/hls/zabava/region/ARKH/CH_REGION29.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ 24 (Северодвинск)
+http://dmi3y-tv6.ru/hls/zabava/region/ARKH/CH_STV24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Астрахань 24 HD (Астрахань)
+http://dmi3y-tv6.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про Астрахань/Продвижение HD (Астрахань)
+http://dmi3y-tv6.ru/hls/zabava/region/ASTRH/CH_PRO_ASTRAKHANHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ачинское ТВ HD (Ачинск)
+http://dmi3y-tv6.ru/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Катунь 24 (Барнаул)
+http://dmi3y-tv6.ru/hls/zabava/region/BUL/CH_KATUN24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Толк (Барнаул)
+http://dmi3y-tv6.ru/hls/zabava/region/BUL/CH_TOLK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мир Белогорья (Белгород)
+http://dmi3y-tv6.ru/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мир Белогорья HD (Белгород)
+http://dmi3y-tv6.ru/hls/region/CH_MIR_BLGRYAHD_BELG.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Белгород 24 (Белгород)
+http://dmi3y-tv6.ru/hls/zabava/region/BELG/CH_BELGOROD24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Бийское ТВ HD (Бийск)
+http://dmi3y-tv6.ru/hls/zabava/region/BIYSK/CH_BIYSKTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТК (Биробиджан)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_BIR/CH_NTK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Амурское Областное Телевидение (Благовещенск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_BLAG/CH_AOTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город 24 (Благовещенск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_BLAG/CH_GOROD24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ-24 HD (Братск)
+http://dmi3y-tv6.ru/hls/zabava/region/BRATSK/CH_BST24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",360° (Братск)
+http://dmi3y-tv6.ru/hls/zabava/region/BRATSK/CH_360_BRATSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Актис HD720 (Ангарск)
+http://dmi3y-tv6.ru/hls/zabava/region/BRATSK/CH_AKTIS_AGRSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТСТ HD (Черемхово)
+http://dmi3y-tv6.ru/hls/zabava/region/BRATSK/CH_TCTHD_CHRMVO.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Брянская губерния HD (Брянск)
+http://dmi3y-tv6.ru/hls/zabava/region/BRYANSK/CH_BRGUBERNIAHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Брянск 24 HD (Брянск)
+http://dmi3y-tv6.ru/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новгородское областное телевидение (Великий Новгород)
+http://dmi3y-tv6.ru/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ (Владивосток)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_VLD/CH_OTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",8 канал (Владивосток)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_VLD/CH_8KANAL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Восток 24 (Владивосток)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_VLD/CH_VOSTOK24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Телемикс (Уссурийск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_VLD/CH_TELEMIKS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",25 регион HD (Владивосток)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_VLD/CH_25REGIONHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Осетия Ирыстон HD (Владикавказ)
+http://dmi3y-tv6.ru/hls/zabava/region/VKAZ/CH_IRISTONHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния 33 HD (Владимир)
+http://dmi3y-tv6.ru/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вариант V (Владимир)
+http://dmi3y-tv6.ru/hls/zabava/region/VLAD/CH_VARIANT_V.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6 канал HD (Владимир)
+http://dmi3y-tv6.ru/hls/zabava/region/VLAD/CH_6KANALHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 1 HD (Волгоград)
+http://dmi3y-tv6.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 24 (Волгоград)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 24 HD (Волгоград)
+http://dmi3y-tv6.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МТВ HD720 (Волгоград)
+http://dmi3y-tv6.ru/hls/region/CH_MTVHD720_VGRAD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Русский Север HD (Вологда)
+http://dmi3y-tv6.ru/hls/zabava/region/VOL/CH_RUSEVER.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волжский Плюс HD (Волжский)
+http://dmi3y-tv6.ru/hls/region/CH_VOLPLUSHD_VLSKIY.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 канал (Череповец)
+http://dmi3y-tv6.ru/hls/zabava/region/VOL/CH_12CHANNEL_CHER.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",TV Губерния (Воронеж)
+http://dmi3y-tv6.ru/hls/zabava/region/VRZH/CH_TVGUBERNIYA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ВТК АРГУС HD (Воронеж)
+http://dmi3y-tv6.ru/hls/zabava/region/VRZH/CH_ARGUS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия (Воронеж)
+http://dmi3y-tv6.ru/hls/zabava/region/VRZH/CH_IZVESTIYA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ (Екатеринбург)
+http://dmi3y-tv6.ru/hls/region/CH_OTV_EKT.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ HD720 (Екатеринбург)
+http://dmi3y-tv6.ru/hls/region/CH_OTVHD720_EKT.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ HD (Екатеринбург)
+http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_OTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РИМ HD (Каменск-Уральский)
+http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_RIMHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС (Екатеринбург)
+http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_IRBITVEST.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Инком ТВ (Талица)
+http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_INKOMTV_TALICA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вектор HD720 (Туринск)
+http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Телекон 24 HD (Екатеринбург)
+http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_TELEKON24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",4 канал (Екатеринбург)
+http://dmi3y-tv6.ru/hls/zabava/region/EKT/CH_4CHANNEL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Барс (Иваново)
+http://dmi3y-tv6.ru/hls/zabava/region/IVAN/CH_BARS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ИОТ (Иваново)
+http://dmi3y-tv6.ru/hls/zabava/region/IVAN/CH_IOT.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Моя Удмуртия (Ижевск)
+http://dmi3y-tv6.ru/hls/zabava/region/IZHSK/CH_MYUDMURTIA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МЭТР (Йошкар-Ола)
+http://dmi3y-tv6.ru/hls/zabava/region/YOLA/CH_METR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АИСТ (Иркутск)
+http://dmi3y-tv6.ru/hls/region/CH_AIST_IRK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АИСТ HD (Иркутск)
+http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_AISTHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АКТИС HD720 (Иркутск)
+http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС HD (Иркутск)
+http://dmi3y-tv6.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БАЙКАЛ Универ ТВ HD (Иркутск)
+http://dmi3y-tv6.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНВ Татарстан (Казань)
+http://dmi3y-tv6.ru/hls/zabava/region/KZN/CH_TNVT.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Татарстан 24 (Казань)
+http://dmi3y-tv6.ru/hls/zabava/region/KZN/CH_TATARSTAN24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Майдан (Казань)
+http://dmi3y-tv6.ru/hls/zabava/region/KZN/CH_MAIDAN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",TMTV (Казань)
+http://dmi3y-tv6.ru/hls/zabava/region/KZN/CH_TMTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Эфир (Казань)
+http://dmi3y-tv6.ru/hls/zabava/region/KZN/CH_EFIR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНВ Планета (Казань)
+http://dmi3y-tv6.ru/hls/zabava/region/KZN/CH_TNVPLANETA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ШАЯН (Казань)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_SHAYANTV_KZN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ШАЯН HD (Казань)
+http://dmi3y-tv6.ru/hls/region/CH_SHAYANHD_KZN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",UNIVER (Казань)
+http://dmi3y-tv6.ru/hls/region/CH_UNIVER_KZN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",UNIVER HD (Казань)
+http://dmi3y-tv6.ru/hls/region/CH_UNIVERHD_KZN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Каскад-24 (Калининград)
+http://dmi3y-tv6.ru/hls/zabava/region/KLGR/CH_KASKAD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Запад 24 (Калининград)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_3APAD24_KLGR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Запад 24 HD (Калининград)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_3APAD24HD_KLGR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ника ТВ (Калуга)
+http://dmi3y-tv6.ru/hls/zabava/region/KALUGA/CH_NIKA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Камчатка 1 HD (Камчатка)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_KAM/CH_KAMCHATKA1HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",41 Регион (Камчатка)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_KAM/CH_41REG.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кузбасс 1 (Кемерово)
+http://dmi3y-tv6.ru/hls/zabava/region/KEM/CH_KUZBASS1.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия (Кемерово)
+http://dmi3y-tv6.ru/hls/zabava/region/KEM/CH_IZVEST_KEMR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Анжерское телевидение (Анжеро-Судженск)
+http://dmi3y-tv6.ru/hls/zabava/region/KEM/CH_ANGERSKTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Девятка ТВ HD (Киров)
+http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_9TVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый городской HD720 (Киров)
+http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Русь (Кострома)
+http://dmi3y-tv6.ru/hls/zabava/region/KOSTROMA/CH_RUS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кубань 24 (Краснодар)
+http://dmi3y-tv6.ru/hls/zabava/region/KRDAR/CH_KUBAN24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Краснодар (Краснодар)
+http://dmi3y-tv6.ru/hls/region/CH_KRASNODAR_KRDAR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Краснодар HD (Краснодар)
+http://dmi3y-tv6.ru/hls/zabava/region/KRDAR/CH_KRASNODARHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РБК (Краснодар)
+http://dmi3y-tv6.ru/hls/zabava/region/KRDAR/CH_RBC-KRD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Енисей HD (Красноярск)
+http://dmi3y-tv6.ru/hls/zabava/region/KRSK/CH_ENISEYHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",7 канал HD (Красноярск)
+http://dmi3y-tv6.ru/hls/zabava/region/KRSK/CH_7CHANNELHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ПРИМА HD (Красноярск)
+http://dmi3y-tv6.ru/hls/zabava/region/KRSK/CH_PRIMAHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВК 24 (Красноярск)
+http://dmi3y-tv6.ru/hls/region/CH_TVK24_KRSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВК 24 HD (Красноярск)
+http://dmi3y-tv6.ru/hls/zabava/region/KRSK/CH_TVK24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ИНФО 24 HD (Шадринск)
+http://dmi3y-tv6.ru/hls/zabava/region/KRG/CH_INFO24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Область 45 HD720 (Курган)
+http://dmi3y-tv6.ru/hls/zabava/region/KRG/CH_OBLAST45HD720.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Такт 24 (Курск)
+http://dmi3y-tv6.ru/hls/zabava/region/KURSK/CH_TAKT24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сейм (Курск)
+http://dmi3y-tv6.ru/hls/zabava/region/KURSK/CH_SEIM.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тува 24 (Кызыл)
+http://dmi3y-tv6.ru/hls/zabava/region/TUVA/CH_TUVA24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",OVAA TV HD720 (Кызыл)
+http://dmi3y-tv6.ru/hls/region/CH_OVAATVHD720_TUVA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",TVАист (Ликино-Дулево)
+http://dmi3y-tv6.ru/hls/region/CH_TVAIST_LD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецкое время HD720 (Липецк)
+http://dmi3y-tv6.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецкое время HD (Липецк)
+http://dmi3y-tv6.ru/hls/zabava/region/LIPETSK/CH_LVREMYAHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ВОТ ТВ HD (Липецк)
+http://dmi3y-tv6.ru/hls/zabava/region/LIPETSK/CH_VOTTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецк Тайм HD (Липецк)
+http://dmi3y-tv6.ru/hls/zabava/region/LIPETSK/CH_LIPTIMEHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Елец ТВ (Липецк)
+http://dmi3y-tv6.ru/hls/zabava/region/LIPETSK/CH_ELETS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Колыма+ HD (Магадан)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_MGDN/CH_KOLYMAHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КАРИБУ (Магадан)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_MGDN/CH_KARIBU.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Магаданский городской телеканал HD (Магадан)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_MGDN/CH_MGDN_MGTK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Крик ТВ HD (Магадан)
+http://dmi3y-tv6.ru/hls/region/CH_KRIKTVHD_DV_MGDN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Майкопское Телевидение (Майкоп)
+http://dmi3y-tv6.ru/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РГВК Дагестан (Махачкала)
+http://dmi3y-tv6.ru/hls/region/CH_DAGESTAN_MAHACHK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РГВК Дагестан HD (Махачкала)
+http://dmi3y-tv6.ru/hls/zabava/region/MAHACHK/CH_DAGESTAN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва 24 (Москва)
+http://dmi3y-tv6.ru/hls/zabava/region/MOS/CH_MOSKVA24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва 24 (Москва) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва Доверие (Москва)
+http://dmi3y-tv6.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТЕО ТВ HD (Москва)
+http://dmi3y-tv6.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мособр ТВ HD720 (Москва)
+http://dmi3y-tv6.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АРКТИК ТВ HD (Мурманск)
+http://dmi3y-tv6.ru/hls/zabava/region/MURM/CH_ARCTICHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",21+ (Мурманск)
+http://dmi3y-tv6.ru/hls/zabava/region/MURM/CH_TV21PLUS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кабардино-Балкария HD (Нальчик)
+http://dmi3y-tv6.ru/hls/zabava/region/NALCH/CH_KBR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Север HD (Нарьян-Мар)
+http://dmi3y-tv6.ru/hls/zabava/region/NAO/CH_SEVER.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга (Нижний Новгород)
+http://dmi3y-tv6.ru/hls/zabava/region/NN/CH_VOLGA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга HD (Нижний Новгород)
+http://dmi3y-tv6.ru/hls/region/CH_VOLGAHD_NN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга 24 HD720 (Нижний Новгород)
+http://dmi3y-tv6.ru/hls/zabava/region/NN/CH_VOLGA24HD720.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ННТВ HD720 (Нижний Новгород)
+http://dmi3y-tv6.ru/hls/zabava/region/NN/CH_NNTVHD720.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Нижний Новгород 24 (Нижний Новгород)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_NN24_NN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Нижний Новгород 24 HD (Нижний Новгород)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Дзержинск ТВ HD (Дзержинск)
+http://dmi3y-tv6.ru/hls/zabava/region/NN/CH_DZERZHINSKHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Эхо ТВ 24 (Новоуральск)
+http://dmi3y-tv6.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тагил-ТВ (Нижний Тагил)
+http://dmi3y-tv6.ru/hls/zabava/region/NTAG/CH_TAGILTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал (Новокузнецк)
+http://dmi3y-tv6.ru/hls/zabava/region/NVKZ/CH_DESYATKA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про жизнь HD (Новокузнецк)
+http://dmi3y-tv6.ru/hls/zabava/region/NVKZ/CH_PROZHIZNHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новороссийск HD (Новороссийск)
+http://dmi3y-tv6.ru/hls/zabava/region/NVR/CH_NOVOROSSIYSKHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТС HD (Бердск)
+http://dmi3y-tv6.ru/hls/zabava/region/NSK/CH_OTSHD_BERDSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТС HD (Новосибирск)
+http://dmi3y-tv6.ru/hls/zabava/region/NSK/CH_OTSHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НСК 49 канал HD (Новосибирск)
+http://dmi3y-tv6.ru/hls/zabava/region/NSK/CH_NSK49CHANNELHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",8 канал (Новосибирск)
+http://dmi3y-tv6.ru/hls/zabava/region/NSK/CH_8CHANNEL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сибирь 24 (Новосибирск)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сибирь 24 HD (Новосибирск)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ямал-Регион (Салехард)
+http://dmi3y-tv6.ru/hls/zabava/region/NBK/CH_YAMREG.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИГ ТВ HD (Ноябрьск)
+http://dmi3y-tv6.ru/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Импульс HD (Новый Уренгой)
+http://dmi3y-tv6.ru/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Муравленко 24 HD (Муравленко)
+http://dmi3y-tv6.ru/hls/zabava/region/NBK/CH_MURAVLENKO24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЯМАЛ 1 HD (Ноябрьск)
+http://dmi3y-tv6.ru/hls/zabava/region/NBK/CH_YAMAL1HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вектор 24 (Губкинский)
+http://dmi3y-tv6.ru/hls/zabava/region/NBK/CH_VEKTOR24_GUBK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вестник Надыма HD (Надым)
+http://dmi3y-tv6.ru/hls/zabava/region/NBK/CH_VESTN_NADHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Луч HD (Тарко-Сале)
+http://dmi3y-tv6.ru/hls/zabava/region/NBK/CH_LUTCHHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 Канал (Омск)
+http://dmi3y-tv6.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 канал HD (Омск)
+http://dmi3y-tv6.ru/hls/zabava/region/OMSK/CH_12CHANNELHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый городской (Омск)
+http://dmi3y-tv6.ru/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Продвижение HD (Омск)
+http://dmi3y-tv6.ru/hls/zabava/region/OMSK/CH_PRODVIZHENIEHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Омск ТВ HD (Омск)
+http://dmi3y-tv6.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый областной (Орел)
+http://dmi3y-tv6.ru/hls/zabava/region/ORL/CH_1OBLASTNOY.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Истоки (Орел)
+http://dmi3y-tv6.ru/hls/zabava/region/ORL/CH_ISTOKI.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Орт Планета (Оренбург)
+http://dmi3y-tv6.ru/hls/zabava/region/ORB/CH_ORTPLANETA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Евразия HD (Оренбург)
+http://dmi3y-tv6.ru/hls/zabava/region/ORB/CH_EVRAZIYAHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Экспресс HD (Пенза)
+http://dmi3y-tv6.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наш дом (Пенза)
+http://dmi3y-tv6.ru/hls/region/CH_NASHDOM_PENZA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наш дом HD (Пенза)
+http://dmi3y-tv6.ru/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ветта-24 (Пермь)
+http://dmi3y-tv6.ru/hls/zabava/region/PERM/CH_VETTA24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РИФЕЙ-ТВ (Пермь)
+http://dmi3y-tv6.ru/hls/zabava/region/PERM/CH_RIFEY.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Верх ТВ (Березники)
+http://dmi3y-tv6.ru/hls/zabava/region/PERM/CH_VERHTV_BRZKI.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Своё ТВ (Березники)
+http://dmi3y-tv6.ru/hls/zabava/region/PERM/CH_SVOETV_BRZKI.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЛТК HD (Лысьва)
+http://dmi3y-tv6.ru/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СОЮЗ ТВ (Чусовой)
+http://dmi3y-tv6.ru/hls/zabava/region/PERM/CH_SOYUZ_CHUS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сампо ТВ (Петрозаводск)
+http://dmi3y-tv6.ru/hls/zabava/region/PZAV/CH_SAMPOTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ростовский HD (Ростов на Дону)
+http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_1ROSTOVSKIYHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ДОН 24 (Ростов на Дону)
+http://dmi3y-tv6.ru/hls/region/CH_DON24_RD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Дон 24 HD (Ростов на Дону)
+http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_DON24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Таганрог 5 (Таганрог)
+http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_TAGANROG5_TGNROG.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгодонский Вестник (Волгодонск)
+http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_VOLGVEST_VOLG.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новошахтинск ТВ HD (Новошахтинск)
+http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_NOVOSHAHTINSKHD_NVSHNSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Шахты ТВ HD (Ростов на Дону)
+http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_SHAHTYHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Батайск ТВ HD (Ростов на Дону)
+http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_BATAYSKHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новочеркасск ТВ HD (Ростов на Дону)
+http://dmi3y-tv6.ru/hls/zabava/region/RD/CH_NOVOCHERKASSKHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РЫБИНСК 40 HD (Рыбинск)
+http://dmi3y-tv6.ru/hls/zabava/region/RYB/CH_RYBINSK40HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТКР HD (Рязань)
+http://dmi3y-tv6.ru/hls/zabava/region/RYAZ/CH_TKPHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город! (Рязань)
+http://dmi3y-tv6.ru/hls/zabava/region/RYAZ/CH_GOROD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самара 24 (Самара)
+http://dmi3y-tv6.ru/hls/zabava/region/SAMARA/CH_SAMARA24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КТВ-Луч/Самара 24 (Сызрань)
+http://dmi3y-tv6.ru/hls/zabava/region/SAMARA/CH_KTVLUCH.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тольятти 24 HD (Тольятти)
+http://dmi3y-tv6.ru/hls/zabava/region/SAMARA/CH_TOLYTTI24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния (Самара)
+http://dmi3y-tv6.ru/hls/zabava/region/SAMARA/CH_GUBERNIA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самара-Гис HD (Самара)
+http://dmi3y-tv6.ru/hls/zabava/region/SAMARA/CH_SAMARAGISHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Лен ТВ 24 (Санкт-Петербург)
+http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Лен ТВ 24 HD (Санкт-Петербург) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Санкт-Петербург HD (Санкт-Петербург)
+http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_SPB.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Санкт-Петербург HD (Санкт-Петербург) (auto)
+http://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",78 канал HD (Санкт-Петербург)
+http://dmi3y-tv6.ru/hls/zabava/region/SPB/CH_78CHANNELHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Теледом HD720 (Санкт-Петербург)
+http://dmi3y-tv6.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал (Саранск)
+http://dmi3y-tv6.ru/hls/zabava/region/SRNK/CH_10CHANNEL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Народное телевидение Мордовии (Саранск)
+http://dmi3y-tv6.ru/hls/zabava/region/SRNK/CH_NTM.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Народное телевидение Мордовии HD720 (Саранск)
+http://dmi3y-tv6.ru/hls/region/CH_NTMHD720_SRNK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Саратов 24 HD (Саратов)
+http://dmi3y-tv6.ru/hls/zabava/region/SARATOV/CH_SARATOV24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ Сахалин (Сахалин)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_SLIN_OBL/CH_OTV_SLIN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АСТВ (Сахалин)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_SLIN/CH_ACTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС HD (Севастополь)
+http://dmi3y-tv6.ru/hls/region/CH_NTSHD_SVTPL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Крымский (Симферополь)
+http://dmi3y-tv6.ru/hls/region/CH_1KRYMSKIY_SMRPL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КРЫМ 24 (Симферополь)
+http://dmi3y-tv6.ru/hls/region/CH_KRYM24_SMRPL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КРЫМ 24 HD720 (Симферополь)
+http://dmi3y-tv6.ru/hls/region/CH_KRYM24HD720_SMRPL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Легендарный 24 HD (Севастополь)
+http://dmi3y-tv6.ru/hls/region/CH_LEGENDARNY24HD_SVTPL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Симферополь 24 HD (Симферополь)
+http://dmi3y-tv6.ru/hls/region/CH_SIMFEROPOL24HD_SMRPL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сочи 24 HD (Сочи)
+http://dmi3y-tv6.ru/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",SOCHI LIVE HD720 (Сочи)
+http://dmi3y-tv6.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 (Ставрополь)
+http://dmi3y-tv6.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СВОЁ ТВ HD (Ставрополь)
+http://dmi3y-tv6.ru/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АТВ (Ставрополь)
+http://dmi3y-tv6.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Югра HD (Сургут)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_UGRA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",UGRA Travel (Сургут)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_UGRATRAVEL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С1 (Сургут)
+http://dmi3y-tv6.ru/hls/region/CH_C1_SUR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С1 HD (Сургут)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_C1HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С86 (Сургут)
+http://dmi3y-tv6.ru/hls/region/CH_C86_SUR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С86 HD (Сургут)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_C86HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сургут 24 HD (Сургут)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_SURGUT24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый советский HD (Сургут)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_1SOVETSKIYHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Регион 67 (Смоленск)
+http://212.3.155.126:8181/udp/233.67.67.177:5510
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Второй канал (Радужный)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_2TV_RADUZHNY.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наши города HD (Когалым)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_NGORHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК Юганск (Юганск)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_YUGANSK_YUNSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Няганский телеканал/МИР 24 (Нягань)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_NYAGANTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР7 HD (Нефтеюганск)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_TNR7HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР24 HD (Нижневартовск)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_TNR24HD_NIZH.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самотлор HD (Нижневартовск)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_SAMOTLORHD_NIZH.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Пыть-Ях Информ (Пыть-Ях)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_PYT-YAHINFORM.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мегаполис HD (Нижневартовск)
+http://dmi3y-tv6.ru/hls/zabava/region/SUR/CH_MEGAPOLISHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Юрган (Сыктывкар)
+http://dmi3y-tv6.ru/hls/zabava/region/SKTV/CH_YURGAN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ/Продвижение (Стрежевой)
+http://dmi3y-tv6.ru/hls/region/CH_STV_SRVOY.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век (Тамбов)
+http://dmi3y-tv6.ru/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век HD720 (Тамбов)
+http://dmi3y-tv6.ru/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тверской Проспект HD (Тверь)
+http://dmi3y-tv6.ru/hls/zabava/region/TVER/CH_TVERPROSPHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Панорама ТВ HD (Тверь)
+http://dmi3y-tv6.ru/hls/zabava/region/TVER/CH_PANORAMATVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Томское время HD (Томск)
+http://dmi3y-tv6.ru/hls/zabava/region/TOMSK/CH_TOMSKVREMYAHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Тульский (Тула)
+http://dmi3y-tv6.ru/hls/zabava/region/TULA/CH_1TULSKIY.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тюменское время HD (Тюмень)
+http://dmi3y-tv6.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Югра HD (Тюмень)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_UGRAHD_TUM.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТVОЯ (Тюмень)
+http://dmi3y-tv6.ru/hls/zabava/region/TUM/CH_TVOYA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тобольское время (Тобольск)
+http://dmi3y-tv6.ru/hls/zabava/region/TUM/CH_TOBOLSKOEVREMYA_TBLSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АТВ MEDIA (Улан-удэ)
+http://dmi3y-tv6.ru/hls/zabava/region/UUDE/CH_ATVMEDIA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тивиком HD (Улан-Удэ)
+http://dmi3y-tv6.ru/hls/zabava/region/UUDE/CH_TIVICOMHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Аригус HD (Улан-Удэ)
+http://dmi3y-tv6.ru/hls/zabava/region/UUDE/CH_ARIGUSHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Буряад ТВ HD (Улан-Удэ)
+http://dmi3y-tv6.ru/hls/zabava/region/UUDE/CH_BURYAADHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Репортер 73 (Ульяновск)
+http://dmi3y-tv6.ru/hls/zabava/region/UL/CH_REP73.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",УлПравда ТВ HD (Ульяновск)
+http://dmi3y-tv6.ru/hls/zabava/region/UL/CH_ULPRAVDAHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Башкортостан 24 (Уфа)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Башкортостан 24 HD720 (Уфа)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_BASHKORTOSTAN24HD720.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Башкортостан 24 HD (Уфа)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_BASHKORTOSTAN24HD_UFA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Матур ТВ HD (Уфа)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_MATURTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТАМЫР (Уфа)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_TAMYRTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",САЛЯМ HD (Уфа)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_SALYAMHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",NEXT TV HD (Нефтекамск)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_NEXTTV_NFSK.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Туган Тел (Уфа)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_TUGANTEL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Курай ТВ (Уфа)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_KURAYTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Учалы ТВ (Учалы)
+http://dmi3y-tv6.ru/hls/zabava/region/UFA/CH_UCHALYTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РБК (Уфа)
+http://dmi3y-tv6.ru/hls/region/CH_RBK_UFA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ (Уфа)
+http://dmi3y-tv6.ru/hls/region/CH_BST_UFA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния (Хабаровск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_HVSK/CH_GUBERNIYA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6ТВ (Хабаровск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Комсомольское время 6ТВ (Хабаровск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_HVSK/CH_6TVKMS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЮТВ (Чебоксары)
+http://dmi3y-tv6.ru/hls/zabava/region/CHR/CH_UTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЮТВ HD (Чебоксары)
+http://dmi3y-tv6.ru/hls/region/CH_UTVHD_CHR.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Чаваш Ен HD (Чебоксары)
+http://dmi3y-tv6.ru/hls/zabava/region/CHR/CH_NATIONALTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",31 канал (Челябинск)
+http://dmi3y-tv6.ru/hls/zabava/region/CHEL/CH_31TV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ural 1 HD (Челябинск)
+http://dmi3y-tv6.ru/hls/zabava/region/CHEL/CH_URAL1HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЮУрГУ ТВ HD720 (Челябинск)
+http://dmi3y-tv6.ru/hls/region/CH_YURGUTVHD720_CHEL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Урал 24 (Челябинск)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_URAL24_CHEL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Урал 24 HD (Челябинск)
+http://dmi3y-tv6.ru/hls/smotrim/region/CH_URAL24HD_CHEL.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ-ИН HD (Магнитогорск)
+http://dmi3y-tv6.ru/hls/zabava/region/CHEL/CH_TVINHD_MAGN.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Злат ТВ (Златоуст)
+http://dmi3y-tv6.ru/hls/zabava/region/CHEL/CH_ZLATTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Восточный экспресс HD (Миасс)
+http://dmi3y-tv6.ru/hls/zabava/region/CHEL/CH_VOSTEXPRESSHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ HD (Челябинск)
+http://dmi3y-tv6.ru/hls/zabava/region/CHEL/CH_OTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 (Черкесия)
+http://dmi3y-tv6.ru/hls/region/CH_ARKHIZ24_CHERKS.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 HD (Черкесия)
+http://dmi3y-tv6.ru/hls/zabava/region/CHERKS/CH_ARKHIZ24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РТК Забайкалье HD (Чита)
+http://dmi3y-tv6.ru/hls/zabava/region/CHITA/CH_RTKZABHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НВК Саха HD (Якутск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_YKT/CH_NVCHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Якутия 24 (Якутск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_YKT/CH_YAKT24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Якутия 24 HD (Якутск)
+http://dmi3y-tv6.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мамонт (Якутск)
+http://dmi3y-tv6.ru/hls/zabava/region/DV_YKT/CH_MAMONT.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ярославский HD (Ярославль)
+http://dmi3y-tv6.ru/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ГТ-Регион (Ярославль)
+http://dmi3y-tv6.ru/hls/zabava/region/YARL/CH_GTREG.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИТВ (Местное Илимское TV)
+http://193.33.233.109:9000/tv
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Грозный HD720 (Грозный)
+http://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",СТАРТ ТРИУМФ
+http://dmi3y-tv6.ru/hls/CH_START_TRIUMF.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",СТАРТ ТРИУМФ HD720
+http://dmi3y-tv6.ru/hls/CH_START_TRIUMFHD720.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE-1.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE_2.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
+http://dmi3y-tv6.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
+http://dmi3y-tv6.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
+http://dmi3y-tv6.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
+http://dmi3y-tv6.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ Кино и сериалы
+http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ Кино и сериалы HD
+http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% ЛЮБОВЬ HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% МУЖСКОЕ HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СМОТРИМ 100% КЛАССИКА HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
+http://dmi3y-tv6.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНО ТВ
+http://dmi3y-tv6.ru/hls/CH_KINOTV.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",CINEMA
+http://dmi3y-tv6.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ЕВРОКИНО
+http://dmi3y-tv6.ru/hls/CH_EVROKINO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НСТ
+http://dmi3y-tv6.ru/hls/CH_NST.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Русский роман
+http://dmi3y-tv6.ru/hls/CH_RUSSKIY_ROMAN.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",PRO100 TV
+http://dmi3y-tv6.ru/hls/CH_PRO100TV.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ПАТРИОТ
+http://dmi3y-tv6.ru/hls/CH_PATRIOT.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2-1.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2_2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2_4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2_6.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_2X2_7.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA-1.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота!
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_6.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_SUBBOTA_7.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4-1.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4_2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4_4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4_6.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4_7.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",8 канал
+http://dmi3y-tv6.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",8 канал HD
+http://dmi3y-tv6.ru/hls/CH_8CHANNELHD.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",8 Канал (Европа)
+http://dmi3y-tv6.ru/hls/CH_8CHANNEL_EUROPE.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Просвещение
+http://dmi3y-tv6.ru/hls/CH_PROSVESHENIE.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Надежда HD720
+http://dmi3y-tv6.ru/hls/CH_NADEZHDAHD720.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",7tv
+http://dmi3y-tv6.ru/hls/CH_7TV.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",LIFE TV [RUS]
+http://dmi3y-tv6.ru/hls/CH_LIFETV_RUS.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",LIFE TV [RUS/EST]
+http://dmi3y-tv6.ru/hls/CH_LIFETV_RUSEST.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Твое ТВ HD
+http://dmi3y-tv6.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360°
+http://dmi3y-tv6.ru/hls/CH_360TV.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360° HD
+http://dmi3y-tv6.ru/hls/CH_360TVHD.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Калейдоскоп ТВ
+http://dmi3y-tv6.ru/hls/CH_KALEYDOSKOPTV.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",TVM Channel
+http://dmi3y-tv6.ru/hls/CH_TVMCHANNEL.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СМОТРИМ 100% ПРАЗДНИК HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (-1)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY-1.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+2)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_2.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+4)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_4.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+6)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_6.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+7)
+http://dmi3y-tv6.ru/hls/zabava/CH_DISNEY_7.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
+http://dmi3y-tv6.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",ПИНГВИН ЛОЛО
+http://dmi3y-tv6.ru/hls/CH_PINGVIN_LOLO.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мультимания
+http://dmi3y-tv6.ru/hls/CH_MULTIMANIYA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мамонтёнок
+http://dmi3y-tv6.ru/hls/CH_MAMONTENOK.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",СМОТРИМ 100% ДЕТСКОЕ HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
+http://dmi3y-tv6.ru/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СОЮЗ HD
+http://dmi3y-tv6.ru/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ
+http://dmi3y-tv6.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
+http://dmi3y-tv6.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://dmi3y-tv6.ru/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://dmi3y-tv6.ru/hls/CH_MOYA_PLANETA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СМОТРИМ 100% ФАКТЫ HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Муз Союз
+http://dmi3y-tv6.ru/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",V2BEAT HD720
+http://dmi3y-tv6.ru/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Kronehit
+http://dmi3y-tv6.ru/hls/CH_KRONEHIT.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Kronehit HD
+http://dmi3y-tv6.ru/hls/CH_KRONEHITHD.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Шансон ТВ
+http://dmi3y-tv6.ru/hls/CH_SHANSONTV.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",ТНТ MUSIC HD
+http://dmi3y-tv6.ru/hls/CH_TNTMUSICHD.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",RETRO MUSIC TV
+http://dmi3y-tv6.ru/hls/CH_RETRO_MUSICTV.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN ENGLISH HD720
+http://dmi3y-tv6.ru/hls/CH_CGTN_ENGLISHHD720.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN ESPANOL HD
+http://dmi3y-tv6.ru/hls/CH_CGTN_ESPANOLHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN FRANCAIS HD
+http://dmi3y-tv6.ru/hls/CH_CGTN_FRANCAISHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN ARABIC HD
+http://dmi3y-tv6.ru/hls/CH_CGTN_ARABICHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN РУССКИЙ HD
+http://dmi3y-tv6.ru/hls/CH_CGTN_RUSSKIYHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN DOCUMENTARY HD720
+http://dmi3y-tv6.ru/hls/CH_CGTN_DOCUMENTARYHD720.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",МИР 24 HD
+http://dmi3y-tv6.ru/hls/CH_MIR24HD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РБК
+http://dmi3y-tv6.ru/hls/CH_RBK.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РБК HD
+http://dmi3y-tv6.ru/hls/CH_RBKHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Красная линия
+http://dmi3y-tv6.ru/hls/CH_REDLINE.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Всё ТВ
+http://dmi3y-tv6.ru/hls/zabava/CH_VSETV.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Всё ТВ HD
+http://dmi3y-tv6.ru/hls/zabava/CH_VSETVHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ
+http://dmi3y-tv6.ru/hls/CH_RZHDTV.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ HD
+http://dmi3y-tv6.ru/hls/CH_RZHDTVHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
+http://dmi3y-tv6.ru/hls/CH_BAZIYA.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия HD720
+http://dmi3y-tv6.ru/hls/CH_BAZIYAHD720.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ВМЕСТЕ РФ HD
+http://dmi3y-tv6.ru/hls/CH_VMESTERFHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RT HD
+http://dmi3y-tv6.ru/hls/CH_RTHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RTД HD
+http://dmi3y-tv6.ru/hls/CH_RTDHD.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Arirang Korea
+http://dmi3y-tv6.ru/hls/CH_ARIRANG_KOREA.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Известия
+http://dmi3y-tv6.ru/hls/CH_I3BECTIYA.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Известия HD
+http://dmi3y-tv6.ru/hls/CH_I3BECTIYAHD.m3u8
+#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",LEOMAX 24 HD
+http://dmi3y-tv6.ru/hls/CH_LEOMAX24HD.m3u8
+#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Витрина ТВ
+http://dmi3y-tv6.ru/hls/CH_VITRINATV.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] РАДИО ХИТ HD720 (Орск)
+http://dmi3y-tv6.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] MCM HD720 (Иркутск)
+http://dmi3y-tv6.ru/hls/CH_MCMHD720_IRK.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Вести FM HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173.m3u8
+#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Радио России HD (auto)
+http://player.smotrim.ru/iframe/stream/live_id/39ebf09f-bf74-4040-83e6-94b770ba77c4.m3u8
+#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV (SK)
+http://dmi3y-tv6.ru/hls/CH_FASHIONTV_SK.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 1 (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 1 HD (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 2 (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 2 HD (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 3 (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 3 HD (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 HD (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 HD (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Первый информационный (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Первый информационный HD (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD720 (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
+http://dmi3y-tv6.ru/hls/blrus/CH_BELROS.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Perviy Kanal FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Perviy Kanal FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/75695
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Perviy Kanal" tvg-logo="" group-title="Russia & Belarus",RUS: Perviy Kanal
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21255
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: OKKO Futbol FHD" tvg-logo="" group-title="Russia & Belarus",RUS: OKKO Futbol FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/191978
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: OKKO Sport FHD" tvg-logo="" group-title="Russia & Belarus",RUS: OKKO Sport FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/23478
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: OKKO Sport 2 FHD" tvg-logo="" group-title="Russia & Belarus",RUS: OKKO Sport 2 FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/191977
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Setanta Sports 1 FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Setanta Sports 1 FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/144148
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Setanta Sports 2 FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Setanta Sports 2 FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/144149
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Setanta Sports 3 FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Setanta Sports 3 FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/144150
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Auto Motor Sport UHD" tvg-logo="" group-title="Russia & Belarus",RUS: Auto Motor Sport UHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/169991
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Cinema UHD" tvg-logo="" group-title="Russia & Belarus",RUS: Cinema UHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/169992
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: HOME 4K" tvg-logo="" group-title="Russia & Belarus",RUS: HOME 4K
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/169993
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KINO 4K" tvg-logo="" group-title="Russia & Belarus",RUS: KINO 4K
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/23477
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: LOVE NATURE 4K" tvg-logo="" group-title="Russia & Belarus",RUS: LOVE NATURE 4K
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/42618
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Ultra Cinema 4K" tvg-logo="" group-title="Russia & Belarus",RUS: Ultra Cinema 4K
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/23479
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: 24 Krim" tvg-logo="" group-title="Russia & Belarus",RUS: 24 Krim
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31552
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: 24 Techno HD" tvg-logo="" group-title="Russia & Belarus",RUS: 24 Techno HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21575
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: 24." tvg-logo="" group-title="Russia & Belarus",RUS: 24.
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10466
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: 2X2" tvg-logo="" group-title="Russia & Belarus",RUS: 2X2
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31553
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: 360TUNEBOX" tvg-logo="" group-title="Russia & Belarus",RUS: 360TUNEBOX
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31680
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: 365 Days" tvg-logo="" group-title="Russia & Belarus",RUS: 365 Days
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21553
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: 365 dnei" tvg-logo="" group-title="Russia & Belarus",RUS: 365 dnei
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31554
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: 8 KANAL RU" tvg-logo="" group-title="Russia & Belarus",RUS: 8 KANAL RU
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31555
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Astrakhan 24" tvg-logo="" group-title="Russia & Belarus",RUS: Astrakhan 24
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31556
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: AMC" tvg-logo="" group-title="Russia & Belarus",RUS: AMC
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21598
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Amedia 1" tvg-logo="" group-title="Russia & Belarus",RUS: Amedia 1
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4081
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: AMEDIA HIT HD" tvg-logo="" group-title="Russia & Belarus",RUS: AMEDIA HIT HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21543
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Amedia Home Of HBO" tvg-logo="" group-title="Russia & Belarus",RUS: Amedia Home Of HBO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4088
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: AMEDIA PREMIUM HD" tvg-logo="" group-title="Russia & Belarus",RUS: AMEDIA PREMIUM HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31557
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: ANI" tvg-logo="[" group-title="Russia & Belarus",RUS: ANI
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21542
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: ANIMAL PLANET HD" tvg-logo="" group-title="Russia & Belarus",RUS: ANIMAL PLANET HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21552
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: AUTO Plus HD" tvg-logo="" group-title="Russia & Belarus",RUS: AUTO Plus HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21533
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Avto plius" tvg-logo="" group-title="Russia & Belarus",RUS: Avto plius
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31558
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Beaver HD" tvg-logo="" group-title="Russia & Belarus",RUS: Beaver HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21556
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Bloomberg" tvg-logo="" group-title="Russia & Belarus",RUS: Bloomberg
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31563
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: BMECTE FM" tvg-logo="" group-title="Russia & Belarus",RUS: BMECTE FM
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21589
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: BOLLYWOOD" tvg-logo="" group-title="Russia & Belarus",RUS: BOLLYWOOD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31559
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Boomerang TV" tvg-logo="" group-title="Russia & Belarus",RUS: Boomerang TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31564
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: BOXE TB" tvg-logo="" group-title="Russia & Belarus",RUS: BOXE TB
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4085
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: BRIDGE HD" tvg-logo="" group-title="Russia & Belarus",RUS: BRIDGE HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31562
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: BRIDGE Hits" tvg-logo="" group-title="Russia & Belarus",RUS: BRIDGE Hits
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31560
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: BRIDGE TV DELUXE" tvg-logo="" group-title="Russia & Belarus",RUS: BRIDGE TV DELUXE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31561
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: CARTOON NETWORK" tvg-logo="" group-title="Russia & Belarus",RUS: CARTOON NETWORK
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21540
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: CBS REALITY" tvg-logo="" group-title="Russia & Belarus",RUS: CBS REALITY
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31565
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: CGTN RU" tvg-logo="" group-title="Russia & Belarus",RUS: CGTN RU
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31566
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: CHE" tvg-logo="" group-title="Russia & Belarus",RUS: CHE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31567
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Cinema HD" tvg-logo="" group-title="Russia & Belarus",RUS: Cinema HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21591
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: CNN" tvg-logo="" group-title="Russia & Belarus",RUS: CNN
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31568
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: CTC HD" tvg-logo="" group-title="Russia & Belarus",RUS: CTC HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7825
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: CTC Love" tvg-logo="" group-title="Russia & Belarus",RUS: CTC Love
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/26551
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DA VINCI LEARNING" tvg-logo="[" group-title="Russia & Belarus",RUS: DA VINCI LEARNING
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21541
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DETEKTIV TV" tvg-logo="" group-title="Russia & Belarus",RUS: DETEKTIV TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31569
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DETSKIJ" tvg-logo="" group-title="Russia & Belarus",RUS: DETSKIJ
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31570
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DETSKIY MIR" tvg-logo="" group-title="Russia & Belarus",RUS: DETSKIY MIR
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31571
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DIALOGI O RYBALKE" tvg-logo="" group-title="Russia & Belarus",RUS: DIALOGI O RYBALKE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31572
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: DIKIY" tvg-logo="" group-title="Russia & Belarus",RUS: DIKIY
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31573
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Russia & Belarus",RUS: DISCOVERY CHANNEL HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21551
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DISCOVERY SCIENCE" tvg-logo="" group-title="Russia & Belarus",RUS: DISCOVERY SCIENCE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31546
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DISCOVERY SCIENCE HD" tvg-logo="" group-title="Russia & Belarus",RUS: DISCOVERY SCIENCE HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21595
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DISCOVERY SHOWCASE HD" tvg-logo="" group-title="Russia & Belarus",RUS: DISCOVERY SHOWCASE HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31547
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DISNEY CHANNEL" tvg-logo="" group-title="Russia & Belarus",RUS: DISNEY CHANNEL
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21539
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Dom Kino" tvg-logo="" group-title="Russia & Belarus",RUS: Dom Kino
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4097
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DOM KINO PREMIUM HD" tvg-logo="" group-title="Russia & Belarus",RUS: DOM KINO PREMIUM HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31575
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DOMASHNIE JIVOTNIE" tvg-logo="" group-title="Russia & Belarus",RUS: DOMASHNIE JIVOTNIE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31574
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DOMASHNIY" tvg-logo="" group-title="Russia & Belarus",RUS: DOMASHNIY
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10540
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: DORAMA" tvg-logo="" group-title="Russia & Belarus",RUS: DORAMA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31576
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DRIVE" tvg-logo="" group-title="Russia & Belarus",RUS: DRIVE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31548
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: DTX HD" tvg-logo="" group-title="Russia & Belarus",RUS: DTX HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21596
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: EGOIST TV" tvg-logo="" group-title="Russia & Belarus",RUS: EGOIST TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31577
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: EUREKA HD" tvg-logo="" group-title="Russia & Belarus",RUS: EUREKA HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21547
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: EUROKINO HD" tvg-logo="" group-title="Russia & Belarus",RUS: EUROKINO HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21564
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: EURONEWS" tvg-logo="" group-title="Russia & Belarus",RUS: EURONEWS
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31578
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: EUROPA PLUS TV" tvg-logo="" group-title="Russia & Belarus",RUS: EUROPA PLUS TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31579
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: EUROSPORT 2 HD" tvg-logo="" group-title="Russia & Belarus",RUS: EUROSPORT 2 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21538
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: EUROSPORT HD" tvg-logo="" group-title="Russia & Belarus",RUS: EUROSPORT HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21546
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: extream Sports" tvg-logo="" group-title="Russia & Belarus",RUS: extream Sports
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5199
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: FAN" tvg-logo="" group-title="Russia & Belarus",RUS: FAN
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31580
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Fashion Television" tvg-logo="" group-title="Russia & Belarus",RUS: Fashion Television
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31584
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FASTnFUN BOX HD" tvg-logo="" group-title="Russia & Belarus",RUS: FASTnFUN BOX HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31683
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FIGHTBOX HD" tvg-logo="" group-title="Russia & Belarus",RUS: FIGHTBOX HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31681
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FILMBOX" tvg-logo="" group-title="Russia & Belarus",RUS: FILMBOX
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31549
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: FILMBOX ARTHOUSE" tvg-logo="" group-title="Russia & Belarus",RUS: FILMBOX ARTHOUSE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31682
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FINE LIVING" tvg-logo="" group-title="Russia & Belarus",RUS: FINE LIVING
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21597
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: First Channel HD" tvg-logo="" group-title="Russia & Belarus",RUS: First Channel HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21523
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FOOD HD" tvg-logo="" group-title="Russia & Belarus",RUS: FOOD HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21566
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FOOD NETWORK" tvg-logo="" group-title="Russia & Belarus",RUS: FOOD NETWORK
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31581
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Fotball HD" tvg-logo="" group-title="Russia & Belarus",RUS: Fotball HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21580
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FOX HD" tvg-logo="" group-title="Russia & Belarus",RUS: FOX HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21560
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FOX LIFE" tvg-logo="" group-title="Russia & Belarus",RUS: FOX LIFE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31582
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: FRANCE24" tvg-logo="" group-title="Russia & Belarus",RUS: FRANCE24
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31583
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Friday HD" tvg-logo="" group-title="Russia & Belarus",RUS: Friday HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21524
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: GAME SHOW" tvg-logo="" group-title="Russia & Belarus",RUS: GAME SHOW
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31585
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: GROZNIY TV" tvg-logo="" group-title="Russia & Belarus",RUS: GROZNIY TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31586
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: GULLI GIRL" tvg-logo="" group-title="Russia & Belarus",RUS: GULLI GIRL
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31587
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: H&F" tvg-logo="" group-title="Russia & Belarus",RUS: H&F
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21578
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HAWE HD" tvg-logo="" group-title="Russia & Belarus",RUS: HAWE HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21563
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HAWE HOBEW HD" tvg-logo="" group-title="Russia & Belarus",RUS: HAWE HOBEW HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21525
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HD" tvg-logo="" group-title="Russia & Belarus",RUS: HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31618
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HD LIFE" tvg-logo="" group-title="Russia & Belarus",RUS: HD LIFE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21548
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HISTORY" tvg-logo="" group-title="Russia & Belarus",RUS: HISTORY
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10542
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HISTORY HD" tvg-logo="" group-title="Russia & Belarus",RUS: HISTORY HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21554
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HIT" tvg-logo="" group-title="Russia & Belarus",RUS: HIT
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31619
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HOME HD" tvg-logo="" group-title="Russia & Belarus",RUS: HOME HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21529
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HOME TB" tvg-logo="" group-title="Russia & Belarus",RUS: HOME TB
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7829
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Horse World HD" tvg-logo="" group-title="Russia & Belarus",RUS: Horse World HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21545
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: HTB HD" tvg-logo="" group-title="Russia & Belarus",RUS: HTB HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7822
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: ID XTRA" tvg-logo="" group-title="Russia & Belarus",RUS: ID XTRA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31588
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Illusion" tvg-logo="" group-title="Russia & Belarus",RUS: Illusion
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21558
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Indija TV" tvg-logo="" group-title="Russia & Belarus",RUS: Indija TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31590
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: IZVESTIA" tvg-logo="" group-title="Russia & Belarus",RUS: IZVESTIA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31589
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Jim Jam" tvg-logo="" group-title="Russia & Belarus",RUS: Jim Jam
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31592
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: JIVI TV" tvg-logo="" group-title="Russia & Belarus",RUS: JIVI TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31591
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kanal 5" tvg-logo="" group-title="Russia & Belarus",RUS: Kanal 5
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7823
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Backus TV" tvg-logo="" group-title="Russia & Belarus",RUS: Backus TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7876
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KHL TV" tvg-logo="" group-title="Russia & Belarus",RUS: KHL TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/16804
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KIDS HD" tvg-logo="" group-title="Russia & Belarus",RUS: KIDS HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21532
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KIDS WORLD HD" tvg-logo="" group-title="Russia & Belarus",RUS: KIDS WORLD HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21531
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kino Cinema HD" tvg-logo="" group-title="Russia & Belarus",RUS: Kino Cinema HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21586
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kino Film HD" tvg-logo="" group-title="Russia & Belarus",RUS: Kino Film HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21587
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kino Hit" tvg-logo="" group-title="Russia & Belarus",RUS: Kino Hit
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4094
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kino Home HD" tvg-logo="" group-title="Russia & Belarus",RUS: Kino Home HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21530
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KINO Klub HD" tvg-logo="" group-title="Russia & Belarus",RUS: KINO Klub HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7830
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kino Mix HD" tvg-logo="" group-title="Russia & Belarus",RUS: Kino Mix HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21565
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kino Plus" tvg-logo="" group-title="Russia & Belarus",RUS: Kino Plus
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4092
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kino Premium HD" tvg-logo="" group-title="Russia & Belarus",RUS: Kino Premium HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21585
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Kino TV HD" tvg-logo="" group-title="Russia & Belarus",RUS: Kino TV HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21588
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: KinoKomedija TV" tvg-logo="" group-title="Russia & Belarus",RUS: KinoKomedija TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31597
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KINOROKAS 1 HD" tvg-logo="" group-title="Russia & Belarus",RUS: KINOROKAS 1 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21562
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KINOROKAS 2 HD" tvg-logo="" group-title="Russia & Belarus",RUS: KINOROKAS 2 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21561
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KOMEDIJA TV" tvg-logo="" group-title="Russia & Belarus",RUS: KOMEDIJA TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31593
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: KONNIY MIR HD" tvg-logo="" group-title="Russia & Belarus",RUS: KONNIY MIR HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31594
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Millet HD" tvg-logo="" group-title="Russia & Belarus",RUS: Millet HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21527
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: KTO EST KTO" tvg-logo="" group-title="Russia & Belarus",RUS: KTO EST KTO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31595
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Kuchnia TV" tvg-logo="" group-title="Russia & Belarus",RUS: Kuchnia TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31598
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: KVN TV" tvg-logo="" group-title="Russia & Belarus",RUS: KVN TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31596
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: La Minor HD" tvg-logo="" group-title="Russia & Belarus",RUS: La Minor HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21526
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: La-minor" tvg-logo="" group-title="Russia & Belarus",RUS: La-minor
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31599
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: LEN 24" tvg-logo="" group-title="Russia & Belarus",RUS: LEN 24
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21594
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: MALISH" tvg-logo="" group-title="Russia & Belarus",RUS: MALISH
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31600
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: MAMA" tvg-logo="" group-title="Russia & Belarus",RUS: MAMA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31601
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! TV FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! TV FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21579
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! TV" tvg-logo="" group-title="Russia & Belarus",RUS: Match! TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5201
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Match! Premiere FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Premiere FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/79180
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! Premiere HD" tvg-logo="[" group-title="Russia & Belarus",RUS: Match! Premiere HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5200
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! Our Sports" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Our Sports
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4090
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Match! Futbol 1 FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Futbol 1 FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/79177
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! Futbol 1 HD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Futbol 1 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5203
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Match! Futbol 2 FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Futbol 2 FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/79178
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! Futbol 2 HD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Futbol 2 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5204
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Match! Futbol 3 FHD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Futbol 3 FHD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/79179
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! Futbol 3 HD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Futbol 3 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5205
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! Arena HD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Arena HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5202
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! IGRA HD" tvg-logo="" group-title="Russia & Belarus",RUS: Match! IGRA HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5206
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! Box" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Box
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4091
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Match! Planet" tvg-logo="" group-title="Russia & Belarus",RUS: Match! Planet
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4087
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MIR" tvg-logo="" group-title="Russia & Belarus",RUS: MIR
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31620
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MIR BASKETBOLA" tvg-logo="" group-title="Russia & Belarus",RUS: MIR BASKETBOLA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31602
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Mir HD" tvg-logo="" group-title="Russia & Belarus",RUS: Mir HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4096
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MIR SERIALA" tvg-logo="" group-title="Russia & Belarus",RUS: MIR SERIALA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31604
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MIR24" tvg-logo="" group-title="Russia & Belarus",RUS: MIR24
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31603
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Mnogoserijnoje" tvg-logo="" group-title="Russia & Belarus",RUS: Mnogoserijnoje
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31613
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: MORSKOI" tvg-logo="" group-title="Russia & Belarus",RUS: MORSKOI
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31605
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MOSKVA 24" tvg-logo="" group-title="Russia & Belarus",RUS: MOSKVA 24
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31606
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Moya Planeta" tvg-logo="" group-title="Russia & Belarus",RUS: Moya Planeta
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31614
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MTV" tvg-logo="" group-title="Russia & Belarus",RUS: MTV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31607
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MTV LIVE HD" tvg-logo="" group-title="Russia & Belarus",RUS: MTV LIVE HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31608
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MULT" tvg-logo="" group-title="Russia & Belarus",RUS: MULT
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31609
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: MULT I MUZIKA" tvg-logo="" group-title="Russia & Belarus",RUS: MULT I MUZIKA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31610
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: MULTIMANIA" tvg-logo="" group-title="Russia & Belarus",RUS: MULTIMANIA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31611
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Music First HD" tvg-logo="" group-title="Russia & Belarus",RUS: Music First HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21544
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Music HD" tvg-logo="" group-title="Russia & Belarus",RUS: Music HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21517
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MUZ TV" tvg-logo="" group-title="Russia & Belarus",RUS: MUZ TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21259
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Muzhskoe kino" tvg-logo="" group-title="Russia & Belarus",RUS: Muzhskoe kino
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31615
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MUZIKA PERVOGO" tvg-logo="" group-title="Russia & Belarus",RUS: MUZIKA PERVOGO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31612
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: MY3 TB" tvg-logo="" group-title="Russia & Belarus",RUS: MY3 TB
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7828
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Nano HD" tvg-logo="" group-title="Russia & Belarus",RUS: Nano HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21576
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Nashe Kino" tvg-logo="" group-title="Russia & Belarus",RUS: Nashe Kino
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4093
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Nashe Liubimoje Kino" tvg-logo="" group-title="Russia & Belarus",RUS: Nashe Liubimoje Kino
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31624
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Nashe Rodnoe Kino" tvg-logo="" group-title="Russia & Belarus",RUS: Nashe Rodnoe Kino
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31625
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: NAT GEO WILD HD" tvg-logo="" group-title="Russia & Belarus",RUS: NAT GEO WILD HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21550
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Russia & Belarus",RUS: NATIONAL GEOGRAPHIC HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21549
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Nauka 2 0" tvg-logo="" group-title="Russia & Belarus",RUS: Nauka 2 0
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31626
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: NICKELODEON HD" tvg-logo="" group-title="Russia & Belarus",RUS: NICKELODEON HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21572
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Nickelodeon Junior" tvg-logo="" group-title="Russia & Belarus",RUS: Nickelodeon Junior
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31627
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: NOSTALGIJA" tvg-logo="" group-title="Russia & Belarus",RUS: NOSTALGIJA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31616
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: NOVIY MIR" tvg-logo="" group-title="Russia & Belarus",RUS: NOVIY MIR
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31551
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: NST TV" tvg-logo="" group-title="Russia & Belarus",RUS: NST TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31617
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: O CHANNEL" tvg-logo="" group-title="Russia & Belarus",RUS: O CHANNEL
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31628
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: OCEAN TV" tvg-logo="" group-title="Russia & Belarus",RUS: OCEAN TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31629
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Ohota i Rybalka" tvg-logo="" group-title="Russia & Belarus",RUS: Ohota i Rybalka
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31671
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: One Channel HD" tvg-logo="" group-title="Russia & Belarus",RUS: One Channel HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7821
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: ORUZHIE" tvg-logo="" group-title="Russia & Belarus",RUS: ORUZHIE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31670
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: OTP" tvg-logo="" group-title="Russia & Belarus",RUS: OTP
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31630
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: OUTDOOR CHANNEL" tvg-logo="" group-title="Russia & Belarus",RUS: OUTDOOR CHANNEL
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31631
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: PARAMOUNT CHANNEL" tvg-logo="" group-title="Russia & Belarus",RUS: PARAMOUNT CHANNEL
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21573
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: PARAMOUNT COMEDY" tvg-logo="" group-title="Russia & Belarus",RUS: PARAMOUNT COMEDY
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21574
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: PEH TB" tvg-logo="" group-title="Russia & Belarus",RUS: PEH TB
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7826
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: PEREC" tvg-logo="" group-title="Russia & Belarus",RUS: PEREC
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31672
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: PERVIY METEO" tvg-logo="" group-title="Russia & Belarus",RUS: PERVIY METEO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31632
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: PERVIY OBRAZOVATELNIY" tvg-logo="" group-title="Russia & Belarus",RUS: PERVIY OBRAZOVATELNIY
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31633
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: PERVIY VEGETARIANSKIY" tvg-logo="" group-title="Russia & Belarus",RUS: PERVIY VEGETARIANSKIY
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31634
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Pjatnica" tvg-logo="" group-title="Russia & Belarus",RUS: Pjatnica
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21557
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Petpo HD" tvg-logo="" group-title="Russia & Belarus",RUS: Petpo HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21584
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: POEHALI" tvg-logo="" group-title="Russia & Belarus",RUS: POEHALI
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31635
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: PRAVO" tvg-logo="" group-title="Russia & Belarus",RUS: PRAVO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31621
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Premiera Cinema HD" tvg-logo="" group-title="Russia & Belarus",RUS: Premiera Cinema HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4098
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: PRODVIJENIE" tvg-logo="" group-title="Russia & Belarus",RUS: PRODVIJENIE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31636
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: PROSVESHENIE" tvg-logo="" group-title="Russia & Belarus",RUS: PROSVESHENIE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31637
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: PUBLIC PERVIY MUZIKALNIY HD" tvg-logo="" group-title="Russia & Belarus",RUS: PUBLIC PERVIY MUZIKALNIY HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31673
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: PUBLIC PERVIY RU MUZIKALNIY HD" tvg-logo="" group-title="Russia & Belarus",RUS: PUBLIC PERVIY RU MUZIKALNIY HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31674
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: RADOSTMOYA" tvg-logo="" group-title="Russia & Belarus",RUS: RADOSTMOYA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31638
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Rain HD" tvg-logo="" group-title="Russia & Belarus",RUS: Rain HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21571
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: RBCTV" tvg-logo="" group-title="Russia & Belarus",RUS: RBCTV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10461
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: RTDocumentary HD" tvg-logo="" group-title="Russia & Belarus",RUS: RTDocumentary HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10462
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: RTG HD" tvg-logo="" group-title="Russia & Belarus",RUS: RTG HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31639
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: RTVI" tvg-logo="" group-title="Russia & Belarus",RUS: RTVI
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31675
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: RTVI DETSKY MIR TELEKLUB" tvg-logo="" group-title="Russia & Belarus",RUS: RTVI DETSKY MIR TELEKLUB
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31676
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: RTVI NASHE KINO" tvg-logo="" group-title="Russia & Belarus",RUS: RTVI NASHE KINO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31677
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: RU.TV" tvg-logo="" group-title="Russia & Belarus",RUS: RU.TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21260
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: RUSONG TV" tvg-logo="" group-title="Russia & Belarus",RUS: RUSONG TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31640
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia 1 HD" tvg-logo="[" group-title="Russia & Belarus",RUS: Russia 1 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/6884
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: russia 24" tvg-logo="" group-title="Russia & Belarus",RUS: russia 24
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10514
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia 24 HD" tvg-logo="" group-title="Russia & Belarus",RUS: Russia 24 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21522
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia Bestseller" tvg-logo="" group-title="Russia & Belarus",RUS: Russia Bestseller
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21568
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia Comedy HD" tvg-logo="" group-title="Russia & Belarus",RUS: Russia Comedy HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21592
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia Detective HD" tvg-logo="" group-title="Russia & Belarus",RUS: Russia Detective HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21569
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia Illusion" tvg-logo="" group-title="Russia & Belarus",RUS: Russia Illusion
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21520
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia K" tvg-logo="" group-title="Russia & Belarus",RUS: Russia K
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10543
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia K HD" tvg-logo="" group-title="Russia & Belarus",RUS: Russia K HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21521
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia Roman HD" tvg-logo="" group-title="Russia & Belarus",RUS: Russia Roman HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21570
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia RTR" tvg-logo="" group-title="Russia & Belarus",RUS: Russia RTR
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21567
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Russia Xtream HD" tvg-logo="" group-title="Russia & Belarus",RUS: Russia Xtream HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21583
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: SAINT PETERBURG" tvg-logo="" group-title="Russia & Belarus",RUS: SAINT PETERBURG
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31641
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: SARAFAN" tvg-logo="" group-title="Russia & Belarus",RUS: SARAFAN
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31642
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: SERIAL" tvg-logo="" group-title="Russia & Belarus",RUS: SERIAL
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31622
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: SHANSON TV" tvg-logo="" group-title="Russia & Belarus",RUS: SHANSON TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31643
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Shant TV" tvg-logo="" group-title="Russia & Belarus",RUS: Shant TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21590
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: SOJUZ" tvg-logo="" group-title="Russia & Belarus",RUS: SOJUZ
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31678
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: SONY CHANNEL" tvg-logo="" group-title="Russia & Belarus",RUS: SONY CHANNEL
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31644
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Sony Sci-Fi" tvg-logo="" group-title="Russia & Belarus",RUS: Sony Sci-Fi
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31650
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: SONY TURBO" tvg-logo="" group-title="Russia & Belarus",RUS: SONY TURBO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31645
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Soshi HD" tvg-logo="" group-title="Russia & Belarus",RUS: Soshi HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21559
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: SOVERSHENNO SEKRETNO" tvg-logo="" group-title="Russia & Belarus",RUS: SOVERSHENNO SEKRETNO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31646
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: SPAS TV" tvg-logo="" group-title="Russia & Belarus",RUS: SPAS TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31647
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: SPIKE" tvg-logo="" group-title="Russia & Belarus",RUS: SPIKE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31648
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: STAR HD" tvg-logo="" group-title="Russia & Belarus",RUS: STAR HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21528
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Star TB" tvg-logo="" group-title="Russia & Belarus",RUS: Star TB
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7831
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: STYLE" tvg-logo="" group-title="Russia & Belarus",RUS: STYLE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31623
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: SUPER" tvg-logo="" group-title="Russia & Belarus",RUS: SUPER
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31649
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TB U" tvg-logo="" group-title="Russia & Belarus",RUS: TB U
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7824
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TB3" tvg-logo="" group-title="Russia & Belarus",RUS: TB3
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/7827
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: TBA Life" tvg-logo="" group-title="Russia & Belarus",RUS: TBA Life
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10524
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TBC" tvg-logo="" group-title="Russia & Belarus",RUS: TBC
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21593
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: TDK" tvg-logo="" group-title="Russia & Belarus",RUS: TDK
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31651
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TELE CAFE HD" tvg-logo="" group-title="Russia & Belarus",RUS: TELE CAFE HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21519
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TELEKANAL FUTBOL" tvg-logo="" group-title="Russia & Belarus",RUS: TELEKANAL FUTBOL
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31679
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TIJI" tvg-logo="" group-title="Russia & Belarus",RUS: TIJI
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31652
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: TLC" tvg-logo="" group-title="Russia & Belarus",RUS: TLC
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31653
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: TLUM HD" tvg-logo="" group-title="Russia & Belarus",RUS: TLUM HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31654
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TNT 4" tvg-logo="" group-title="Russia & Belarus",RUS: TNT 4
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21518
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: TNT HD" tvg-logo="" group-title="Russia & Belarus",RUS: TNT HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/10528
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TNT Music" tvg-logo="" group-title="Russia & Belarus",RUS: TNT Music
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21581
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: TNV PLANETA" tvg-logo="" group-title="Russia & Belarus",RUS: TNV PLANETA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31655
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TOCHKA OTRIVA" tvg-logo="" group-title="Russia & Belarus",RUS: TOCHKA OTRIVA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31656
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Tochika Ortiva" tvg-logo="" group-title="Russia & Belarus",RUS: Tochika Ortiva
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21582
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: TPO" tvg-logo="" group-title="Russia & Belarus",RUS: TPO
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31657
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Travel Channel HD" tvg-logo="" group-title="Russia & Belarus",RUS: Travel Channel HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21577
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: Travel+Adventure HD" tvg-logo="" group-title="Russia & Belarus",RUS: Travel+Adventure HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21555
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TV 1000" tvg-logo="" group-title="Russia & Belarus",RUS: TV 1000
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4083
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TV 1000 Action" tvg-logo="" group-title="Russia & Belarus",RUS: TV 1000 Action
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/4082
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TV 1000 Ruskoe Kino" tvg-logo="" group-title="Russia & Belarus",RUS: TV 1000 Ruskoe Kino
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5194
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: TV XXI (TV21)" tvg-logo="" group-title="Russia & Belarus",RUS: TV XXI (TV21)
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21537
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: TVOI DOM" tvg-logo="" group-title="Russia & Belarus",RUS: TVOI DOM
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31658
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: U TV" tvg-logo="" group-title="Russia & Belarus",RUS: U TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31659
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: USADBA TV" tvg-logo="" group-title="Russia & Belarus",RUS: USADBA TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31660
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: V GOSTIAH U SKAZKI" tvg-logo="" group-title="Russia & Belarus",RUS: V GOSTIAH U SKAZKI
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31661
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: VIJU+ EXPLORER" tvg-logo="" group-title="Russia & Belarus",RUS: VIJU+ EXPLORER
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21536
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: VIJU+ HISTORY" tvg-logo="" group-title="Russia & Belarus",RUS: VIJU+ HISTORY
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21535
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: VIJU+ NATURE" tvg-logo="" group-title="Russia & Belarus",RUS: VIJU+ NATURE
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21534
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: VIJU+ SPORT" tvg-logo="" group-title="Russia & Belarus",RUS: VIJU+ SPORT
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5198
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: VIJU+ COMEDY HD" tvg-logo="" group-title="Russia & Belarus",RUS: VIJU+ COMEDY HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5195
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: VIJU+ MEGAHIT HD" tvg-logo="" group-title="Russia & Belarus",RUS: VIJU+ MEGAHIT HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5196
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: VIJU+ PREMIUM HD" tvg-logo="" group-title="Russia & Belarus",RUS: VIJU+ PREMIUM HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/5197
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: Vremya" tvg-logo="" group-title="Russia & Belarus",RUS: Vremya
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31662
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: WORLD FASHION" tvg-logo="" group-title="Russia & Belarus",RUS: WORLD FASHION
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31663
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: XXI" tvg-logo="" group-title="Russia & Belarus",RUS: XXI
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31664
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: ZAGORODNOJA JIZN" tvg-logo="" group-title="Russia & Belarus",RUS: ZAGORODNOJA JIZN
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31665
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: ZEETV" tvg-logo="" group-title="Russia & Belarus",RUS: ZEETV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31666
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: ZHARA TV" tvg-logo="" group-title="Russia & Belarus",RUS: ZHARA TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31667
-#EXTINF:-1 tvg-ID="" tvg-name="RUS: ZOOPARK" tvg-logo="" group-title="Russia & Belarus",RUS: ZOOPARK
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31668
-#EXTINF:-1 tvg-ID="NULL" tvg-name="RUS: ZVEZDA" tvg-logo="" group-title="Russia & Belarus",RUS: ZVEZDA
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/31669
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BY: Belarus 1 HD" tvg-logo="[" group-title="Russia & Belarus",BY: Belarus 1 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21632
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BY: Belarus 2 HD" tvg-logo="[" group-title="Russia & Belarus",BY: Belarus 2 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21631
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BY: Belarus 3 HD" tvg-logo="[" group-title="Russia & Belarus",BY: Belarus 3 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21630
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BY: Belarus TV" tvg-logo="[" group-title="Russia & Belarus",BY: Belarus TV
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21629
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BY: Belarus 5 HD" tvg-logo="" group-title="Russia & Belarus",BY: Belarus 5 HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21784
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BY: RTR HD" tvg-logo="[" group-title="Russia & Belarus",BY: RTR HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21635
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BY: Belarus 5 Int HD" tvg-logo="" group-title="Russia & Belarus",BY: Belarus 5 Int HD
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21634
-#EXTINF:-1 tvg-ID="NULL" tvg-name="BY: CTC" tvg-logo="[" group-title="Russia & Belarus",BY: CTC
-http://livego.club:8080/pAcMcDYE6JeZ/d6c58NDphzRa/21633
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="РАДИО",Вести ФМ
+#EXTVLCOPT:http-user-agent=IPTV
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1 group-title="РАДИО",Маяк
+#EXTVLCOPT:http-user-agent=IPTV
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="РАДИО",Радио России
+#EXTVLCOPT:http-user-agent=IPTV
+http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+
