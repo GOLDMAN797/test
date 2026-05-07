@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
+#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz, http://epg.one/epg2.xml "
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3",Первый канал
 http://cdntv.online/high/49yuvb73c6/29.m3u8
@@ -163,6 +163,9 @@ http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
 #EXTINF:-1 group-title="Fashion", Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
+
+#EXTINF:-1 group-title="Fashion", Monte Carlo Digital Television
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 
 #EXTINF:-1 tvg-id="225" group-title="Main", Санкт-Петербург
 http://cdntv.online/high/49yuvb73c6/225.m3u8
