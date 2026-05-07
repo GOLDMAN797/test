@@ -15,8 +15,8 @@ http://cdntv.online/high/49yuvb73c6/360.m3u8
 #EXTINF:-1 tvg-id="5" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятый канал
 http://cdntv.online/high/49yuvb73c6/2293.m3u8
 
-#EXTINF:-1 tvg-id="6" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Россия Культура
-http://cdntv.online/high/49yuvb73c6/6.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="6",Россия Культура
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="7" catchup="shift" catchup-days="3" timeshift="3" group-title="News",Россия 24
 http://cdntv.online/high/49yuvb73c6/7.m3u8
