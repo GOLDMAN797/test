@@ -1,60 +1,60 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
-#EXTINF:-1 group-title="Central" tvg-id="29" catchup="shift" catchup-days="3" timeshift="3",Первый канал
+#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3",Первый канал
 http://cdntv.online/high/49yuvb73c6/29.m3u8
 
-#EXTINF:-1 group-title="Central" tvg-id="33" catchup="shift" catchup-days="3" timeshift="3",Россия 1
+#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3",Россия 1
 http://cdntv.online/high/49yuvb73c6/33.m3u8
 
-#EXTINF:-1 tvg-id="48" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Матч!
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Матч!
 http://cdntv.online/high/49yuvb73c6/48.m3u8
 
-#EXTINF:0 tvg-id="360" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",НТВ
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",НТВ
 http://cdntv.online/high/49yuvb73c6/360.m3u8
 
-#EXTINF:-1 tvg-id="2293" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятый канал
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятый канал
 http://cdntv.online/high/49yuvb73c6/2293.m3u8
 
-#EXTINF:-1 tvg-id="6" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Россия Культура
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Россия Культура
 http://cdntv.online/high/49yuvb73c6/6.m3u8
 
-#EXTINF:-1 tvg-id="7" catchup="shift" catchup-days="3" timeshift="3" group-title="News",Россия 24
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="News",Россия 24
 http://cdntv.online/high/49yuvb73c6/7.m3u8
 
-#EXTINF:-1 tvg-id="1061" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", СТС
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central", СТС
 http://cdntv.online/high/49yuvb73c6/1061.m3u8
 
-#EXTINF:-1 tvg-id="388" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Рен ТВ
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Рен ТВ
 http://cdntv.online/high/49yuvb73c6/388.m3u8
 
-#EXTINF:-1 tvg-id="35" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятница!
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятница!
 http://cdntv.online/high/49yuvb73c6/35.m3u8
 
-#EXTINF:-1 tvg-id="390" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТНТ
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТНТ
 http://cdntv.online/high/49yuvb73c6/390.m3u8
 
-#EXTINF:-1 tvg-id="28" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТНТ4
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТНТ4
 http://cdntv.online/high/49yuvb73c6/28.m3u8
 
-#EXTINF:-1 tvg-id="2076" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ Центр
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ Центр
 http://cdntv.online/high/49yuvb73c6/2076.m3u8
 
-#EXTINF:-1 tvg-id="1115" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Звезда
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Звезда
 http://cdntv.online/high/49yuvb73c6/1115.m3u8
 
-#EXTINF:-1 tvg-id="1352" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Мир
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Мир
 http://cdntv.online/high/49yuvb73c6/1352.m3u8
 
-#EXTINF:-1 tvg-id="282" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Вместе-РФ
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Вместе-РФ
 http://cdntv.online/high/49yuvb73c6/282.m3u8
 
-#EXTINF:-1 tvg-id="9" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ОТР
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ОТР
 http://cdntv.online/high/49yuvb73c6/9.m3u8
 
-#EXTINF:-1 tvg-id="1036" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ3
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ3
 http://cdntv.online/high/49yuvb73c6/1036.m3u8
 
-#EXTINF:-1 tvg-id="2077" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", Домашний
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Central", Домашний
 http://cdntv.online/high/49yuvb73c6/2077.m3u8
 
 
@@ -86,8 +86,8 @@ http://cdntv.online/high/49yuvb73c6/310.m3u8
 #EXTINF:-1 tvg-id="311" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", RTG HD
 http://cdntv.online/high/49yuvb73c6/311.m3u8
 
-#EXTINF:-1 tvg-id="316" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel+Adventure HD
-http://cdntv.online/high/49yuvb73c6/316.m3u8
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel+Adventure
+http://cdntv.online/high/49yuvb73c6/315.m3u8
 
 #EXTINF:-1 tvg-id="370"" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Nano TV
 http://cdntv.online/high/49yuvb73c6/370.m3u8
