@@ -1,155 +1,155 @@
-#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml"
 
-#EXTINF:-1 group-title="Central" tvg-id="1" catchup="shift" catchup-days="3" timeshift="3",Первый канал
+#EXTINF:-1 group-title="Central" tvg-id="146" catchup="shift" catchup-days="3" timeshift="3",Первый канал
 http://cdntv.online/high/49yuvb73c6/29.m3u8
 
-#EXTINF:-1 group-title="Central" tvg-id="2" catchup="shift" catchup-days="3" timeshift="3",Россия 1
+#EXTINF:-1 group-title="Central" tvg-id="711" catchup="shift" catchup-days="3" timeshift="3",Россия 1
 http://cdntv.online/high/49yuvb73c6/33.m3u8
 
-#EXTINF:-1 tvg-id="3" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Матч!
+#EXTINF:-1 tvg-id="2051" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Матч!
 http://cdntv.online/high/49yuvb73c6/48.m3u8
 
-#EXTINF:0 tvg-id="4" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",НТВ
+#EXTINF:0 tvg-id="162" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",НТВ
 http://cdntv.online/high/49yuvb73c6/360.m3u8
 
-#EXTINF:-1 tvg-id="5" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятый канал
+#EXTINF:-1 tvg-id="427" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятый канал
 http://cdntv.online/high/49yuvb73c6/2293.m3u8
 
-#EXTINF:-1 group-title="Central" tvg-id="6",Россия Культура
+#EXTINF:-1 group-title="Central" tvg-id="187",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="7" catchup="shift" catchup-days="3" timeshift="3" group-title="News",Россия 24
+#EXTINF:-1 tvg-id="1683" catchup="shift" catchup-days="3" timeshift="3" group-title="News",Россия 24
 http://cdntv.online/high/49yuvb73c6/7.m3u8
 
-#EXTINF:-1 tvg-id="13" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", СТС
+#EXTINF:-1 tvg-id="79" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", СТС
 http://cdntv.online/high/49yuvb73c6/1061.m3u8
 
-#EXTINF:-1 tvg-id="11" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Рен ТВ
+#EXTINF:-1 tvg-id="18" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Рен ТВ
 http://cdntv.online/high/49yuvb73c6/388.m3u8
 
-#EXTINF:-1 tvg-id="35" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятница!
+#EXTINF:-1 tvg-id="1003" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятница!
 http://cdntv.online/high/49yuvb73c6/35.m3u8
 
-#EXTINF:-1 tvg-id="19" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТНТ
+#EXTINF:-1 tvg-id="353" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТНТ
 http://cdntv.online/high/49yuvb73c6/390.m3u8
 
-#EXTINF:-1 tvg-id="28" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТНТ4
+#EXTINF:-1 tvg-id="7978" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТНТ4
 http://cdntv.online/high/49yuvb73c6/28.m3u8
 
-#EXTINF:-1 tvg-id="10" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ Центр
+#EXTINF:-1 tvg-id="649" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ Центр
 http://cdntv.online/high/49yuvb73c6/2076.m3u8
 
-#EXTINF:-1 tvg-id="17" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Звезда
+#EXTINF:-1 tvg-id="405" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Звезда
 http://cdntv.online/high/49yuvb73c6/1115.m3u8
 
-#EXTINF:-1 tvg-id="18" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Мир
+#EXTINF:-1 tvg-id="726" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Мир
 http://cdntv.online/high/49yuvb73c6/1352.m3u8
 
-#EXTINF:-1 tvg-id="282" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Вместе-РФ
+#EXTINF:-1 tvg-id="vmeste-rf" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Вместе-РФ
 http://cdntv.online/high/49yuvb73c6/282.m3u8
 
-#EXTINF:-1 tvg-id="9" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ОТР
+#EXTINF:-1 tvg-id="1000" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ОТР
 http://cdntv.online/high/49yuvb73c6/9.m3u8
 
-#EXTINF:-1 tvg-id="15" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ3
+#EXTINF:-1 tvg-id="698" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ3
 http://cdntv.online/high/49yuvb73c6/1036.m3u8
 
-#EXTINF:-1 tvg-id="14" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", Домашний
+#EXTINF:-1 tvg-id="domashnij-hd" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", Домашний
 http://cdntv.online/high/49yuvb73c6/2077.m3u8
 
 
 
-#EXTINF:-1 tvg-id="300" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Discovery
+#EXTINF:-1 tvg-id="325" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Discovery
 http://cdntv.online/high/49yuvb73c6/300.m3u8
 
-#EXTINF:-1 tvg-id="443" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", History
+#EXTINF:-1 tvg-id="1394" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", History
 http://cdntv.online/high/49yuvb73c6/443.m3u8
 
-#EXTINF:-1 tvg-id="367" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", H2
+#EXTINF:-1 tvg-id="2656" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", H2
 http://cdntv.online/high/49yuvb73c6/367.m3u8
 
-#EXTINF:-1 tvg-id="296" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Animal Planet
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Animal Planet
 http://cdntv.online/high/49yuvb73c6/296.m3u8
 
-#EXTINF:-1 tvg-id="298" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Da Vinci
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Da Vinci
 http://cdntv.online/high/49yuvb73c6/298.m3u8
 
 #EXTINF:-1 tvg-id="306" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", ID Investigation Discovery
 http://cdntv.online/high/49yuvb73c6/306.m3u8
 
-#EXTINF:-1 tvg-id="308" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Nat Geo Wild
+#EXTINF:-1 tvg-id="223" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Nat Geo Wild
 http://cdntv.online/high/49yuvb73c6/308.m3u8
 
-#EXTINF:-1 tvg-id="310" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", National Geographic
+#EXTINF:-1 tvg-id="102" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", National Geographic
 http://cdntv.online/high/49yuvb73c6/310.m3u8
 
 #EXTINF:-1 tvg-id="311" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", RTG
-http://cdntv.online/high/49yuvb73c6/311.m3u8
+http://31.148.48.15/RTG_HD/index.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel+Adventure
 http://cdntv.online/high/49yuvb73c6/315.m3u8
 
-#EXTINF:-1 tvg-id="370"" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Nano TV
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Nano TV
 http://cdntv.online/high/49yuvb73c6/370.m3u8
 
-#EXTINF:-1 tvg-id="371" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel Channel
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel Channel
 http://cdntv.online/high/49yuvb73c6/371.m3u8
 
-#EXTINF:-1 tvg-id="373" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju Explore
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju Explore
 http://cdntv.online/high/49yuvb73c6/373.m3u8
 
-#EXTINF:-1 tvg-id="374" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju History
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju History
 http://cdntv.online/high/49yuvb73c6/374.m3u8
 
-#EXTINF:-1 tvg-id="375" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju+ Planet
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju+ Planet
 http://cdntv.online/high/49yuvb73c6/375.m3u8
 
-#EXTINF:-1 tvg-id="378" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Моя Планета
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Моя Планета
 http://cdntv.online/high/49yuvb73c6/378.m3u8
 
-#EXTINF:-1 tvg-id="954" group-title="Main", Океан
+#EXTINF:-1 group-title="Main", Океан
 http://cdntv.online/high/49yuvb73c6/954.m3u8
 
-#EXTINF:-1 tvg-id="1062" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Первый космический
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Первый космический
 http://cdntv.online/high/49yuvb73c6/1062.m3u8
 
-#EXTINF:-1 tvg-id="366" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Galaxy TV
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Galaxy TV
 http://cdntv.online/high/49yuvb73c6/366.m3u8
 
-#EXTINF:-1 tvg-id="466" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", 2x2
+#EXTINF:-1 tvg-id="323" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", 2x2
 http://cdntv.online/high/49yuvb73c6/466.m3u8
 
-#EXTINF:-1 tvg-id="581" group-title="News", Москва 24
+#EXTINF:-1 tvg-id="334" group-title="News", Москва 24
 http://cdntv.online/high/49yuvb73c6/581.m3u8
 
-#EXTINF:-1 tvg-id="582" group-title="News", Москва. Доверие
+#EXTINF:-1 group-title="News", Москва. Доверие
 http://cdntv.online/high/49yuvb73c6/582.m3u8
 
 #EXTINF:-1 group-title="News" ,Россия 1 (Нальчик)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
 
-#EXTINF:-1 tvg-id="363" catchup="shift" catchup-days="3" timeshift="3" group-title="News", 360
+#EXTINF:-1 tvg-id="2265" catchup="shift" catchup-days="3" timeshift="3" group-title="News", 360
 http://cdntv.online/high/49yuvb73c6/363.m3u8
 
-#EXTINF:-1 tvg-id="288" catchup="shift" catchup-days="3" timeshift="3" group-title="News", Мир 24
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="News", Мир 24
 http://cdntv.online/high/49yuvb73c6/288.m3u8
 
-#EXTINF:-1 tvg-id="361" catchup="shift" catchup-days="3" timeshift="3" group-title="News", Известия
+#EXTINF:-1 tvg-id="2271" catchup="shift" catchup-days="3" timeshift="3" group-title="News", Известия
 http://cdntv.online/high/49yuvb73c6/361.m3u8
 
-#EXTINF:-1 tvg-id="291" catchup="shift" catchup-days="3" timeshift="3" group-title="News", РБК
+#EXTINF:-1 tvg-id="743" catchup="shift" catchup-days="3" timeshift="3" group-title="News", РБК
 http://cdntv.online/high/49yuvb73c6/291.m3u8
 
-#EXTINF:-1 tvg-id="436" catchup="shift" catchup-days="3" timeshift="3" group-title="News", 360 Новости
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="News", 360 Новости
 http://cdntv.online/high/49yuvb73c6/436.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Main", Red Bull TV  
+#EXTINF:-1 group-title="Main", RedBull TV  
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 group-title="Fashion" tvg-id="2491", Fashion TV  
+#EXTINF:-1 group-title="Fashion" tvg-id="2491",Fashion TV  
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fashion",World Fashion Channel ru
@@ -158,7 +158,7 @@ http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 #EXTINF:-1 tvg-id="428" group-title="Fashion", Fashion TV HD
 http://cdntv.online/high/49yuvb73c6/428.m3u8
 
-#EXTINF:-1 group-title="Fashion" tvg-id="2242", World Fashion Channel En
+#EXTINF:-1 group-title="Fashion", World Fashion Channel En
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 
 #EXTINF:-1 group-title="Fashion", Global Fashion Channel
@@ -167,10 +167,10 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 group-title="Fashion", Monte Carlo Digital Television
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 
-#EXTINF:-1 tvg-id="225" group-title="Main", Санкт-Петербург
+#EXTINF:-1 group-title="Main", Санкт-Петербург
 http://cdntv.online/high/49yuvb73c6/225.m3u8
 
-#EXTINF:-1 tvg-id="359" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Центральное телевидение
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Центральное телевидение
 http://cdntv.online/high/49yuvb73c6/359.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="2417",Большая Азия  
@@ -179,19 +179,19 @@ http://dmi3y-tv6.ru/hls/CH_BAZIYAHD720.m3u8
 #EXTINF:-1 group-title="Main" tvg-id="9015",Неизвестная Россия
 http://dmi3y-tv6.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
 
-#EXTINF:-1 group-title="Main" tvg-id="447",TV BRICS
+#EXTINF:-1 group-title="Main",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="1294" group-title="Main", RTVi
+#EXTINF:-1 group-title="Main", RTVi
 http://cdntv.online/high/49yuvb73c6/1294.m3u8
 
-#EXTINF:-1 tvg-id="1033" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", HGTV
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", HGTV
 http://cdntv.online/high/49yuvb73c6/1033.m3u8
 
-#EXTINF:-1 tvg-id="170" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", TLC
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", TLC
 http://cdntv.online/high/49yuvb73c6/170.m3u8
 
-#EXTINF:-1 group-title="Main" tvg-id="2268", CGTN
+#EXTINF:-1 group-title="Main", CGTN
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 
 #EXTINF:-1 group-title="Main",Живи
@@ -200,380 +200,382 @@ https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Main",Точка РФ  
 https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="343" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Наука 2.0
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Наука 2.0
 http://cdntv.online/high/49yuvb73c6/343.m3u8
 
-#EXTINF:0 tvg-id="448" tvg-logo="http://epg.cdntv.online/img/448.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Глазами туриста
-http://cdntv.online/high/49yuvb73c6/448.m3u8
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Глазами туриста
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="347" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Приключения HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Приключения HD
 http://cdntv.online/high/49yuvb73c6/347.m3u8
 
-#EXTINF:-1 tvg-id="334" group-title="Main", История
+#EXTINF:-1 group-title="Main", История
 http://cdntv.online/high/49yuvb73c6/334.m3u8
 
-#EXTINF:-1 tvg-id="294" catchup="shift" catchup-days="3" timeshift="3", 365 Дней
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3", 365 Дней
 http://cdntv.online/high/49yuvb73c6/294.m3u8
 
-#EXTINF:-1 tvg-id="331" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Загородная жизнь
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Загородная жизнь
 http://cdntv.online/high/49yuvb73c6/331.m3u8
 
-#EXTINF:-1 tvg-id="322" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Бобёр
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Бобёр
 http://cdntv.online/high/49yuvb73c6/322.m3u8
 
-#EXTINF:-1 tvg-id="325" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Время
+#EXTINF:-1catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Время
 http://cdntv.online/high/49yuvb73c6/325.m3u8
 
-#EXTINF:-1 tvg-id="962" group-title="Main", РЖД ТВ HD
+#EXTINF:-1 group-title="Main", РЖД ТВ HD
 http://cdntv.online/high/49yuvb73c6/962.m3u8
 
-#EXTINF:-1 tvg-id="336" catchup="shift" catchup-days="3" timeshift="3", Кухня ТВ
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3", Кухня ТВ
 http://cdntv.online/high/49yuvb73c6/336.m3u8
 
-#EXTINF:-1 tvg-id="427" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Food Network
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Food Network
 http://cdntv.online/high/49yuvb73c6/427.m3u8
 
-#EXTINF:-1 tvg-id="518" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Еда
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Еда
 http://cdntv.online/high/49yuvb73c6/518.m3u8
 
-#EXTINF:-1 tvg-id="519" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", FoodTime
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", FoodTime
 http://cdntv.online/high/49yuvb73c6/519.m3u8
 
-#EXTINF:-1 tvg-id="1108" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", НТВ Стиль
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", НТВ Стиль
 http://cdntv.online/high/49yuvb73c6/1108.m3u8
 
-#EXTINF:-1 tvg-id="1032" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Арсенал
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Арсенал
 http://cdntv.online/high/49yuvb73c6/1032.m3u8
 
-#EXTINF:-1 tvg-id="265" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Авто 24
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Авто 24
 http://cdntv.online/high/49yuvb73c6/265.m3u8
 
-#EXTINF:-1 tvg-id="266" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Авто плюс
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Авто плюс
 http://cdntv.online/high/49yuvb73c6/266.m3u8
 
-#EXTINF:-1 tvg-id="269" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Мужской
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Мужской
 http://cdntv.online/high/49yuvb73c6/269.m3u8
 
-#EXTINF:-1 tvg-id="271" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Оружие
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Оружие
 http://cdntv.online/high/49yuvb73c6/271.m3u8
 
-#EXTINF:-1 tvg-id="274" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Охотник и рыболов HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Охотник и рыболов
 http://cdntv.online/high/49yuvb73c6/274.m3u8
 
-#EXTINF:-1 tvg-id="996" group-title="Main", Вопросы и ответы
+#EXTINF:-1 group-title="Main", Вопросы и ответы
 http://cdntv.online/high/49yuvb73c6/996.m3u8
 
 #EXTINF:-1 group-title="Sport" 	tvg-id="inter-it" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Inter-Milan-PNG-HD-Quality.png", InterTV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
-#EXTINF:-1 tvg-id="55" catchup="shift" catchup-days="3" timeshift="3"  group-title="Sport", Матч! Футбол 1
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3"  group-title="Sport", Матч! Футбол 1
 http://cdntv.online/high/49yuvb73c6/55.m3u8
 
-#EXTINF:-1 tvg-id="56" catchup="shift" catchup-days="3" timeshift="3"  group-title="Sport", Матч! Футбол 2
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3"  group-title="Sport", Матч! Футбол 2
 http://cdntv.online/high/49yuvb73c6/56.m3u8
 
-#EXTINF:-1 tvg-id="57" catchup="shift" catchup-days="3" timeshift="3"  group-title="Sport", Матч! Футбол 3
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3"  group-title="Sport", Матч! Футбол 3
 http://cdntv.online/high/49yuvb73c6/57.m3u8
 
-#EXTINF:-1 tvg-id="1021" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Setanta Sports 1 
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Setanta Sports 1 
 http://cdntv.online/high/49yuvb73c6/1021.m3u8
 
-#EXTINF:-1 tvg-id="1022" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Setanta Sports 2 
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Setanta Sports 2 
 http://cdntv.online/high/49yuvb73c6/1022.m3u8
 
-#EXTINF:-1 tvg-id="38" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport",Eurosport 1
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport",Eurosport 1
 http://cdntv.online/high/49yuvb73c6/38.m3u8
 
-#EXTINF:-1 tvg-id="40" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Eurosport 2
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Eurosport 2
 http://cdntv.online/high/49yuvb73c6/40.m3u8
 
-#EXTINF:0 tvg-id="175" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Русский Экстрим
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Русский Экстрим
 http://cdntv.online/high/49yuvb73c6/175.m3u8
 
-#EXTINF:-1 tvg-id="43" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Viju Sport
-http://cdntv.online/high/49yuvb73c6/43.m3u8
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Viju Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="47" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", МАТЧ! Арена
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", МАТЧ! Арена
 http://cdntv.online/high/49yuvb73c6/47.m3u8
 
-#EXTINF:-1 tvg-id="383" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Матч! Игра
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Матч! Игра
 http://cdntv.online/high/49yuvb73c6/383.m3u8
 
-#EXTINF:-1 tvg-id="54" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Матч! Страна
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Матч! Страна
 http://cdntv.online/high/49yuvb73c6/54.m3u8
 
-#EXTINF:-1 tvg-id="53" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Матч! Премьер
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Матч! Премьер
 http://cdntv.online/high/49yuvb73c6/53.m3u8
 
-#EXTINF:-1 tvg-id="464" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Старт
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Старт
 http://cdntv.online/high/49yuvb73c6/464.m3u8
 
 #EXTINF:-1 group-title="Sport", Старт Триумф
 http://dmi3y-tv6.ru/hls/CH_START_TRIUMFHD720.m3u8
 
-#EXTINF:-1 tvg-id="2195"  group-title="Sport", КХЛ
-http://cdntv.online/high/49yuvb73c6/2195.m3u8
+#EXTINF:-1 group-title="Sport", КХЛ Prime
+http://cdntv.online/hls/49yuvb73c6/46.m3u8
 
-#EXTINF:-1 tvg-id="1073" catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Sky Sport 2
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Sky Sport 2
 http://cdntv.online/high/49yuvb73c6/1073.m3u8
 
 
-#EXTINF:-1 tvg-id="2289"  group-title="Music", Europa Plus HD
+#EXTINF:-1 group-title="Music", Europa Plus
 http://cdntv.online/high/49yuvb73c6/2289.m3u8
 
-#EXTINF:-1 tvg-id="2290"  group-title="Music", FON Music HD
+#EXTINF:-1 group-title="Music", FON Music
 http://cdntv.online/high/49yuvb73c6/2290.m3u8
 
-#EXTINF:-1 tvg-id="20" catchup="shift" catchup-days="3" timeshift="3" group-title="Music", Муз ТВ
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Music", Муз ТВ
 http://cdntv.online/high/49yuvb73c6/20.m3u8
 
-#EXTINF:-1 tvg-id="491" group-title="Music", Mezzo
+#EXTINF:-1 group-title="Music", Mezzo
 http://cdntv.online/high/49yuvb73c6/491.m3u8
 
 
-#EXTINF:-1 tvg-id="89" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CINEMA
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CINEMA
 http://cdntv.online/high/49yuvb73c6/89.m3u8
 
-#EXTINF:-1 tvg-id="113" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Еврокино
-http://cdntv.online/high/49yuvb73c6/113.m3u8
+#EXTINF:-1 group-title="Cinema", Hollywood 
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="111" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом Кино
+#EXTINF:-1 group-title="Cinema", Еврокино
+http://cdntv.online/hls/49yuvb73c6/113.m3u8
+
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом Кино
 http://cdntv.online/high/49yuvb73c6/111.m3u8
 
-#EXTINF:-1 tvg-id="112" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом кино Премиум HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом кино Премиум HD
 http://cdntv.online/high/49yuvb73c6/112.m3u8
 
-#EXTINF:-1 tvg-id="1095" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мосфильм HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мосфильм HD
 http://cdntv.online/high/49yuvb73c6/1095.m3u8
 
-#EXTINF:-1 tvg-id="104" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ comedy HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ comedy HD
 http://cdntv.online/high/49yuvb73c6/104.m3u8
 
-#EXTINF:-1 tvg-id="105" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ megahit HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ megahit HD
 http://cdntv.online/high/49yuvb73c6/105.m3u8
 
-#EXTINF:-1 tvg-id="106" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ premiere HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ premiere HD
 http://cdntv.online/high/49yuvb73c6/106.m3u8
 
-#EXTINF:-1 tvg-id="107" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ serial HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ serial HD
 http://cdntv.online/high/49yuvb73c6/107.m3u8
 
-#EXTINF:-1 tvg-id="101" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000 Action
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000 Action
 http://cdntv.online/high/49yuvb73c6/101.m3u8
 
-#EXTINF:-1 tvg-id="102" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000 Русское
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000 Русское
 http://cdntv.online/high/49yuvb73c6/102.m3u8
 
-#EXTINF:-1 tvg-id="103" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000
 http://cdntv.online/high/49yuvb73c6/103.m3u8
 
-#EXTINF:-1 tvg-id="118" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", КиноХит
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кинохит
 http://cdntv.online/high/49yuvb73c6/118.m3u8
 
-#EXTINF:-1 tvg-id="119" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кинокомедия
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кинокомедия
 http://cdntv.online/high/49yuvb73c6/119.m3u8
 
-#EXTINF:-1 tvg-id="120" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киномикс
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киномикс
 http://cdntv.online/high/49yuvb73c6/120.m3u8
 
-#EXTINF:-1 tvg-id="122" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киносвидание
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киносвидание
 http://cdntv.online/high/49yuvb73c6/122.m3u8
 
-#EXTINF:-1 tvg-id="123" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киносемья
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киносемья
 http://cdntv.online/high/49yuvb73c6/123.m3u8
 
-#EXTINF:-1 tvg-id="132" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Наше новое кино
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Наше новое кино
 http://cdntv.online/high/49yuvb73c6/132.m3u8
 
-#EXTINF:-1 tvg-id="1490" group-title="Cinema", Киносерия
+#EXTINF:-1 group-title="Cinema", Киносерия
 http://cdntv.online/high/49yuvb73c6/1490.m3u8
 
-#EXTINF:-1 tvg-id="128" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мужское Кино
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мужское Кино
 http://cdntv.online/high/49yuvb73c6/128.m3u8
 
-#EXTINF:-1 tvg-id="514" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Родное кино
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Родное кино
 http://cdntv.online/high/49yuvb73c6/514.m3u8
 
-#EXTINF:-1 tvg-id="100" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", ТВ 21
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", ТВ 21
 http://cdntv.online/high/49yuvb73c6/100.m3u8
 
-#EXTINF:-1 tvg-id="510" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Комедия
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Комедия
 http://cdntv.online/high/49yuvb73c6/510.m3u8
 
-#EXTINF:-1 tvg-id="109" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", A1
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", A1
 http://cdntv.online/high/49yuvb73c6/109.m3u8
 
-#EXTINF:-1 tvg-id="402" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", A2 HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", A2 HD
 http://cdntv.online/high/49yuvb73c6/402.m3u8
 
-#EXTINF:-1 tvg-id="87" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema",AMEDIA HIT HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema",AMEDIA HIT HD
 http://cdntv.online/high/49yuvb73c6/87.m3u8
 
-#EXTINF:-1 tvg-id="88" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema",Amedia Premium HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema",Amedia Premium HD
 http://cdntv.online/high/49yuvb73c6/88.m3u8
 
-#EXTINF:-1 tvg-id="506" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", .Black
-http://cdntv.online/high/49yuvb73c6/506.m3u8
-
-#EXTINF:-1 tvg-id="97" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", .Red
-http://cdntv.online/high/49yuvb73c6/97.m3u8
-
-#EXTINF:-1 tvg-id="99" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", .Sci-Fi
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", .Sci-Fi
 http://cdntv.online/high/49yuvb73c6/99.m3u8
 
-#EXTINF:-1 tvg-id="1641" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", START Air
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", START Air
 http://cdntv.online/high/49yuvb73c6/1641.m3u8
 
-#EXTINF:-1 tvg-id="2067" group-title="Cinema", Start World HD
+#EXTINF:-1 group-title="Cinema", Start World HD
 http://cdntv.online/high/49yuvb73c6/2067.m3u8
 
-#EXTINF:-1 tvg-id="90" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", FilmBox
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", FilmBox
 http://cdntv.online/high/49yuvb73c6/90.m3u8
 
-#EXTINF:-1 tvg-id="91" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Filmbox Arthouse
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Filmbox Arthouse
 http://cdntv.online/high/49yuvb73c6/91.m3u8
 
-#EXTINF:-1 tvg-id="92" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", FX
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", FX
 http://cdntv.online/high/49yuvb73c6/92.m3u8
 
-#EXTINF:-1 tvg-id="93" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", FX Life
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", FX Life
 http://cdntv.online/high/49yuvb73c6/93.m3u8
 
-#EXTINF:-1 tvg-id="1590" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Советская киноклассика
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Советская киноклассика
 http://cdntv.online/high/49yuvb73c6/1590.m3u8
 
-#EXTINF:-1 tvg-id="139" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Советское кино
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Советское кино
 http://cdntv.online/high/49yuvb73c6/139.m3u8
 
-#EXTINF:-1 tvg-id="114" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Иллюзион+
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Иллюзион+
 http://cdntv.online/high/49yuvb73c6/114.m3u8
 
-#EXTINF:-1 tvg-id="515" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Феникс + кино
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Феникс + кино
 http://cdntv.online/high/49yuvb73c6/515.m3u8
 
-#EXTINF:-1 tvg-id="117" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кино ТВ HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кино ТВ
 http://cdntv.online/high/49yuvb73c6/117.m3u8
 
-#EXTINF:-1 tvg-id="124" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Классика Кино HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Классика Кино HD
 http://cdntv.online/high/49yuvb73c6/124.m3u8
 
-#EXTINF:-1 tvg-id="1507" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Криминальное HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Криминальное HD
 http://cdntv.online/high/49yuvb73c6/1507.m3u8
 
-#EXTINF:-1 tvg-id="1025" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Хит HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Хит HD
 http://cdntv.online/high/49yuvb73c6/1025.m3u8
 
-#EXTINF:-1 tvg-id="901" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Премиальное HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Премиальное HD
 http://cdntv.online/high/49yuvb73c6/901.m3u8
 
-#EXTINF:-1 tvg-id="902" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Остросюжетное HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Остросюжетное HD
 http://cdntv.online/high/49yuvb73c6/902.m3u8
 
-#EXTINF:-1 tvg-id="904" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кинопоказ HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кинопоказ HD
 http://cdntv.online/high/49yuvb73c6/904.m3u8
 
-#EXTINF:-1 tvg-id="906" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Комедийное HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Комедийное HD
 http://cdntv.online/high/49yuvb73c6/906.m3u8
 
-#EXTINF:-1 tvg-id="1028" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Романтичное HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Романтичное HD
 http://cdntv.online/high/49yuvb73c6/1028.m3u8
 
-#EXTINF:-1 tvg-id="1029" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Наше Мужское HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Наше Мужское HD
 http://cdntv.online/high/49yuvb73c6/1029.m3u8
 
-#EXTINF:-1 tvg-id="900" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Наше крутое HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Наше крутое HD
 http://cdntv.online/high/49yuvb73c6/900.m3u8
 
-#EXTINF:-1 tvg-id="1030" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", КиноСат
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киносат
 http://cdntv.online/high/49yuvb73c6/1030.m3u8
 
-#EXTINF:-1 tvg-id="1031" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Блокбастер HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Блокбастер HD
 http://cdntv.online/high/49yuvb73c6/1031.m3u8
 
-#EXTINF:-1 tvg-id="1098" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Trash HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Trash HD
 http://cdntv.online/high/49yuvb73c6/1098.m3u8
 
-#EXTINF:-1 tvg-id="1099" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Про любовь HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Про любовь HD
 http://cdntv.online/high/49yuvb73c6/1099.m3u8
 
-#EXTINF:-1 tvg-id="1100" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Камеди HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Камеди HD
 http://cdntv.online/high/49yuvb73c6/1100.m3u8
 
-#EXTINF:-1 tvg-id="1149" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Любимое HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Любимое HD
 http://cdntv.online/high/49yuvb73c6/1149.m3u8
 
-#EXTINF:-1 tvg-id="127" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мир сериала
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мир сериала
 http://cdntv.online/high/49yuvb73c6/127.m3u8
 
-#EXTINF:-1 tvg-id="131" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Настоящее страшное ТВ
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Настоящее страшное ТВ
 http://cdntv.online/high/49yuvb73c6/131.m3u8
 
-#EXTINF:-1 tvg-id="135" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский Бестселлер
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский Бестселлер
 http://cdntv.online/high/49yuvb73c6/135.m3u8
 
-#EXTINF:-1 tvg-id="136" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский Роман
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский Роман
 http://cdntv.online/high/49yuvb73c6/136.m3u8
 
-#EXTINF:-1 tvg-id="137" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский детектив
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский детектив
 http://cdntv.online/high/49yuvb73c6/137.m3u8
 
-#EXTINF:-1 tvg-id="138" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский иллюзион
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский иллюзион
 http://cdntv.online/high/49yuvb73c6/138.m3u8
 
-#EXTINF:-1 tvg-id="379" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Победа HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Победа HD
 http://cdntv.online/high/49yuvb73c6/379.m3u8
 
 
-#EXTINF:-1 tvg-id="1252" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons 90
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons 90
 http://cdntv.online/high/49yuvb73c6/1252.m3u8
 
-#EXTINF:-1 tvg-id="1253" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons Short
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons Short
 http://cdntv.online/high/49yuvb73c6/1253.m3u8
 
-#EXTINF:-1 tvg-id="1254" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons Big
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons Big
 http://cdntv.online/high/49yuvb73c6/1254.m3u8
 
-#EXTINF:-1 tvg-id="1255" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan
 http://cdntv.online/high/49yuvb73c6/1255.m3u8
 
-#EXTINF:-1 tvg-id="1256" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Top
+#EXTINF:-1  catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Top
 http://cdntv.online/high/49yuvb73c6/1256.m3u8
 
-#EXTINF:-1 tvg-id="1257" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Action
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Action
 http://cdntv.online/high/49yuvb73c6/1257.m3u8
 
-#EXTINF:-1 tvg-id="1258" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Thriller
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Thriller
 http://cdntv.online/high/49yuvb73c6/1258.m3u8
 
-#EXTINF:-1 tvg-id="1259" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Melodrama
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Melodrama
 http://cdntv.online/high/49yuvb73c6/1259.m3u8
 
-#EXTINF:-1 tvg-id="1260" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Marvel
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Marvel
 http://cdntv.online/high/49yuvb73c6/1260.m3u8
 
-#EXTINF:-1 tvg-id="1262" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Комедия
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Комедия
 http://cdntv.online/high/49yuvb73c6/1262.m3u8
 
-#EXTINF:-1 tvg-id="1263" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan VHS
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan VHS
 http://cdntv.online/high/49yuvb73c6/1263.m3u8
 
-#EXTINF:-1 tvg-id="1264" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan РуКино
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan РуКино
 http://cdntv.online/high/49yuvb73c6/1264.m3u8
 
-#EXTINF:-1 tvg-id="1267" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Сериал "Симпсоны"
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Сериал "Симпсоны"
 http://cdntv.online/high/49yuvb73c6/1267.m3u8
 
 
 #EXTINF:-1 group-title="Cinema",Смотрим 100% Классика
 https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+
 #EXTINF:-1 group-title="Cinema",Смотрим 100% Любовь
 https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+
 #EXTINF:-1 group-title="Cinema",Смотрим 100% Мужское
 https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+
 #EXTINF:-1 group-title="Cinema",Смотрим 100% Праздник
 https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+
 #EXTINF:-1 group-title="Cinema",Смотрим 100% Факты
 https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+
 #EXTINF:-1 group-title="Cinema",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
@@ -1352,27 +1354,21 @@ http://dmi3y-tv6.ru/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
 http://dmi3y-tv6.ru/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
 
 
-#EXTINF:-1 tvg-id="285" catchup="shift" catchup-days="3" timeshift="3" group-title="News", Euronews
+#EXTINF:-1 group-title="News", Euronews
 http://cdntv.online/high/49yuvb73c6/285.m3u8
 
-#EXTINF:-1 tvg-id="439" group-title="News", Deutsche Welle
+#EXTINF:-1 group-title="News", Deutsche Welle
 http://cdntv.online/high/49yuvb73c6/439.m3u8
 
-#EXTINF:-1 tvg-id="438" group-title="News", CNN International
+#EXTINF:-1 group-title="News", CNN International
 http://cdntv.online/high/49yuvb73c6/438.m3u8
 
-#EXTINF:-1 tvg-id="437" group-title="News", BBC World News
+#EXTINF:-1 group-title="News", BBC World News
 http://cdntv.online/high/49yuvb73c6/437.m3u8
 
-#EXTINF:-1 tvg-id="1354" group-title="News", RT News HD
+#EXTINF:-1 group-title="News", RT News HD
 http://cdntv.online/high/49yuvb73c6/1354.m3u8
 
-#EXTINF:-1 tvg-id="362" group-title="News", France 24 HD
+#EXTINF:-1 group-title="News", France 24 HD
 http://cdntv.online/high/49yuvb73c6/362.m3u8
-
-#EXTINF:-1 tvg-id="280" catchup="shift" catchup-days="3" timeshift="3" group-title="News" , Russia Today HD
-http://cdntv.online/high/49yuvb73c6/280.m3u8
-
-#EXTINF:-1 tvg-id="1410"  group-title="News", Fox News
-http://cdntv.online/high/49yuvb73c6/1410.m3u8
 
