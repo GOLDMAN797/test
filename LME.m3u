@@ -12,7 +12,7 @@ https://cdntv.online/high/49yuvb73c6/48.m3u8
 #EXTINF:0 tvg-id="162" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",НТВ
 https://cdntv.online/high/49yuvb73c6/360.m3u8
 
-#EXTINF:-1 tvg-id="427" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятый канал
+#EXTINF:-1 tvg-id="427" group-title="Central",Пятый канал
 https://cdntv.online/high/49yuvb73c6/2293.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="187",Россия Культура
@@ -84,7 +84,7 @@ https://cdntv.online/high/49yuvb73c6/308.m3u8
 https://cdntv.online/high/49yuvb73c6/310.m3u8
 
 #EXTINF:-1 tvg-id="311" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", RTG
-http://31.148.48.15/RTG_HD/index.m3u8
+https://cdntv.online/high/49yuvb73c6/311.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel+Adventure
 https://cdntv.online/high/49yuvb73c6/315.m3u8
@@ -209,6 +209,11 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Приключения HD
 https://cdntv.online/high/49yuvb73c6/347.m3u8
 
+#EXTINF:-1 group-title="Main", Наша Сибирь HD
+https://cdntv.online/high/49yuvb73c6/230.m3u8
+
+
+
 #EXTINF:-1 group-title="Main", История
 https://cdntv.online/high/49yuvb73c6/334.m3u8
 
@@ -245,8 +250,8 @@ https://cdntv.online/high/49yuvb73c6/1108.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Арсенал
 https://cdntv.online/high/49yuvb73c6/1032.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Авто 24
-https://cdntv.online/high/49yuvb73c6/265.m3u8
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Техно 24
+http://cdntv.online/high/49yuvb73c6/354.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Авто плюс
 https://cdntv.online/high/49yuvb73c6/266.m3u8
@@ -314,9 +319,6 @@ http://dmi3y-tv6.ru/hls/CH_START_TRIUMFHD720.m3u8
 #EXTINF:-1 group-title="Sport", КХЛ Prime
 https://cdntv.online/hls/49yuvb73c6/46.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Sky Sport 2
-https://cdntv.online/high/49yuvb73c6/1073.m3u8
-
 
 #EXTINF:-1 group-title="Music", Europa Plus
 https://cdntv.online/high/49yuvb73c6/2289.m3u8
@@ -324,7 +326,7 @@ https://cdntv.online/high/49yuvb73c6/2289.m3u8
 #EXTINF:-1 group-title="Music", FON Music
 https://cdntv.online/high/49yuvb73c6/2290.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Music", Муз ТВ
+#EXTINF:-1 group-title="Music", Муз ТВ
 https://cdntv.online/high/49yuvb73c6/20.m3u8
 
 #EXTINF:-1 group-title="Music", Mezzo
@@ -346,7 +348,7 @@ https://cdntv.online/high/49yuvb73c6/111.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом кино Премиум HD
 https://cdntv.online/high/49yuvb73c6/112.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мосфильм HD
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мосфильм. Золотая коллекция
 https://cdntv.online/high/49yuvb73c6/1095.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ comedy HD
@@ -520,6 +522,9 @@ https://cdntv.online/high/49yuvb73c6/138.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Победа HD
 https://cdntv.online/high/49yuvb73c6/379.m3u8
 
+
+#EXTINF:0 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Советские мультфильмы
+http://cdntv.online/high/49yuvb73c6/165.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons 90
 https://cdntv.online/high/49yuvb73c6/1252.m3u8
