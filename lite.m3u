@@ -83,7 +83,7 @@ https://cdntv.online/high/49yuvb73c6/308.m3u8
 #EXTINF:-1 tvg-id="102" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", National Geographic
 https://cdntv.online/high/49yuvb73c6/310.m3u8
 
-#EXTINF:-1 tvg-id="311" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", RTG
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", RTG
 https://cdntv.online/high/49yuvb73c6/311.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel+Adventure
@@ -342,7 +342,7 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cinema", Еврокино
 https://cdntv.online/hls/49yuvb73c6/113.m3u8
 
-#EXTINF:-1 tvg-id="434" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Ultra HD Cinema
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Ultra HD Cinema
 https://cdntv.online/high/49yuvb73c6/434.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом Кино
