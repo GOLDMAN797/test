@@ -342,6 +342,9 @@ https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cinema", Еврокино
 https://cdntv.online/hls/49yuvb73c6/113.m3u8
 
+#EXTINF:-1 tvg-id="434" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Ultra HD Cinema
+https://cdntv.online/high/49yuvb73c6/434.m3u8
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом Кино
 https://cdntv.online/high/49yuvb73c6/111.m3u8
 
@@ -404,6 +407,9 @@ https://cdntv.online/high/49yuvb73c6/100.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Комедия
 https://cdntv.online/high/49yuvb73c6/510.m3u8
+
+#EXTINF:0 tvg-id="404" catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", FAN HD
+https://cdntv.online/high/49yuvb73c6/404.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", A1
 https://cdntv.online/high/49yuvb73c6/109.m3u8
@@ -532,6 +538,9 @@ https://cdntv.online/high/49yuvb73c6/1252.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons Short
 https://cdntv.online/high/49yuvb73c6/1253.m3u8
 
+#EXTINF:1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CineMan Premium
+http://cdntv.online/high/49yuvb73c6/1426.m3u8
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Cartoons Big
 https://cdntv.online/high/49yuvb73c6/1254.m3u8
 
@@ -564,6 +573,100 @@ https://cdntv.online/high/49yuvb73c6/1264.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Сериал "Симпсоны"
 https://cdntv.online/high/49yuvb73c6/1267.m3u8
+
+
+#EXTINF:-1 tvg-id="1512" tvg-logo="https://epg.cdntv.online/img/1512.png" group-title="Cinema", Sky High Scream HD
+https://cdntv.online/high/49yuvb73c6/1512.m3u8
+
+#EXTINF:-1 tvg-id="1513" tvg-logo="https://epg.cdntv.online/img/1513.png" group-title="Cinema", Sky High Fear VHS
+https://cdntv.online/high/49yuvb73c6/1513.m3u8
+
+#EXTINF:-1 tvg-id="1514" tvg-logo="https://epg.cdntv.online/img/1514.png" group-title="Cinema", Sky High Jetix HD
+https://cdntv.online/high/49yuvb73c6/1514.m3u8
+
+#EXTINF:-1 tvg-id="1515" tvg-logo="https://epg.cdntv.online/img/1515.png" group-title="Cinema", Sky High RedRoom FHD
+https://cdntv.online/high/49yuvb73c6/1515.m3u8
+
+#EXTINF:-1 tvg-id="1516" tvg-logo="https://epg.cdntv.online/img/1516.png" group-title="Cinema", Sky High Undead FHD
+https://cdntv.online/high/49yuvb73c6/1516.m3u8
+
+#EXTINF:-1 tvg-id="1517" tvg-logo="https://epg.cdntv.online/img/1517.png" group-title="Cinema", Sky High Brick S FHD
+https://cdntv.online/high/49yuvb73c6/1517.m3u8
+
+#EXTINF:-1 tvg-id="1518" tvg-logo="https://epg.cdntv.online/img/1518.png" group-title="Cinema", Sky High Dust S FHD
+https://cdntv.online/high/49yuvb73c6/1518.m3u8
+
+#EXTINF:-1 tvg-id="1519" tvg-logo="https://epg.cdntv.online/img/1519.png" group-title="Cinema", Sky High Concert HD
+https://cdntv.online/high/49yuvb73c6/1519.m3u8
+
+#EXTINF:-1 tvg-id="1520" tvg-logo="https://epg.cdntv.online/img/1520.png" group-title="Cinema", Sky High Strike VHS FHD
+https://cdntv.online/high/49yuvb73c6/1520.m3u8
+
+#EXTINF:-1 tvg-id="1521" tvg-logo="https://epg.cdntv.online/img/1521.png" group-title="Cinema", Sky High Firezone FHD
+https://cdntv.online/high/49yuvb73c6/1521.m3u8
+
+#EXTINF:-1 tvg-id="1522" tvg-logo="https://epg.cdntv.online/img/1522.png" group-title="Cinema", Sky High Bunny HD
+https://cdntv.online/high/49yuvb73c6/1522.m3u8
+
+#EXTINF:-1 tvg-id="1523" tvg-logo="https://epg.cdntv.online/img/1523.png" group-title="Cinema", Sky High Gunrush FHD
+https://cdntv.online/high/49yuvb73c6/1523.m3u8
+
+#EXTINF:-1 tvg-id="1524" tvg-logo="https://epg.cdntv.online/img/1524.png" group-title="Cinema", Sky High Quant S FHD
+https://cdntv.online/high/49yuvb73c6/1524.m3u8
+
+#EXTINF:-1 tvg-id="1525" tvg-logo="https://epg.cdntv.online/img/1525.png" group-title="Cinema", Sky High DRAMA 4K
+https://cdntv.online/high/49yuvb73c6/1525.m3u8
+
+#EXTINF:-1 tvg-id="1526" tvg-logo="https://epg.cdntv.online/img/1526.png" group-title="Cinema", Sky High Tanos S FHD
+https://cdntv.online/high/49yuvb73c6/1526.m3u8
+
+#EXTINF:-1 tvg-id="1527" tvg-logo="https://epg.cdntv.online/img/1527.png" group-title="Cinema", Sky High Bat S FHD
+https://cdntv.online/high/49yuvb73c6/1527.m3u8
+
+#EXTINF:-1 tvg-id="1528" tvg-logo="https://epg.cdntv.online/img/1528.png" group-title="Cinema", Sky High Nature HDR 4K
+https://cdntv.online/high/49yuvb73c6/1528.m3u8
+
+#EXTINF:-1 tvg-id="1530" tvg-logo="https://epg.cdntv.online/img/1530.png" group-title="Cinema", Sky High Neon VHS FHD
+https://cdntv.online/high/49yuvb73c6/1530.m3u8
+
+#EXTINF:-1 tvg-id="1531" tvg-logo="https://epg.cdntv.online/img/1531.png" group-title="Cinema", Sky High Future FHD
+https://cdntv.online/high/49yuvb73c6/1531.m3u8
+
+#EXTINF:-1 tvg-id="1532" tvg-logo="https://epg.cdntv.online/img/1532.png" group-title="Cinema", Sky High Nick S FHD
+https://cdntv.online/high/49yuvb73c6/1532.m3u8
+
+#EXTINF:-1 tvg-id="1533" tvg-logo="https://epg.cdntv.online/img/1533.png" group-title="Cinema", Sky High Toon S FHD
+https://cdntv.online/high/49yuvb73c6/1533.m3u8
+
+#EXTINF:-1 tvg-id="1534" tvg-logo="https://epg.cdntv.online/img/1534.png" group-title="Cinema", Sky High Junior FHD
+https://cdntv.online/high/49yuvb73c6/1534.m3u8
+
+#EXTINF:-1 tvg-id="1535" tvg-logo="https://epg.cdntv.online/img/1535.png" group-title="Cinema", Sky High Teen FHD
+https://cdntv.online/high/49yuvb73c6/1535.m3u8
+
+#EXTINF:-1 tvg-id="1536" tvg-logo="https://epg.cdntv.online/img/1536.png" group-title="Cinema", Sky High Boom FHD
+https://cdntv.online/high/49yuvb73c6/1536.m3u8
+
+#EXTINF:-1 tvg-id="1537" tvg-logo="https://epg.cdntv.online/img/1537.png" group-title="Cinema", Sky High Civil S FHD
+https://cdntv.online/high/49yuvb73c6/1537.m3u8
+
+#EXTINF:-1 tvg-id="1538" tvg-logo="https://epg.cdntv.online/img/1538.png" group-title="Cinema", Sky High Doc HD
+https://cdntv.online/high/49yuvb73c6/1538.m3u8
+
+#EXTINF:-1 tvg-id="1539" tvg-logo="https://epg.cdntv.online/img/1539.png" group-title="Cinema", Sky High Brain HD
+https://cdntv.online/high/49yuvb73c6/1539.m3u8
+
+#EXTINF:-1 tvg-id="1540" tvg-logo="https://epg.cdntv.online/img/1540.png" group-title="Cinema", Sky High Nature FHD
+https://cdntv.online/high/49yuvb73c6/1540.m3u8
+
+#EXTINF:-1 tvg-id="1541" tvg-logo="https://epg.cdntv.online/img/1541.png" group-title="Cinema", Sky High Archive FHD
+https://cdntv.online/high/49yuvb73c6/1541.m3u8
+
+#EXTINF:-1 tvg-id="1542" tvg-logo="https://epg.cdntv.online/img/1542.png" group-title="Cinema", Sky High Trace S FHD
+https://cdntv.online/high/49yuvb73c6/1542.m3u8
+
+#EXTINF:-1 tvg-id="1543" tvg-logo="https://epg.cdntv.online/img/1543.png" group-title="Cinema", Sky High LO FI HD
+https://cdntv.online/high/49yuvb73c6/1543.m3u8
 
 
 #EXTINF:-1 group-title="Cinema",Смотрим 100% Классика
@@ -1376,4 +1479,13 @@ https://cdntv.online/high/49yuvb73c6/1354.m3u8
 
 #EXTINF:-1 group-title="News", France 24 HD
 https://cdntv.online/high/49yuvb73c6/362.m3u8
+
+#EXTINF:-1 tvg-id="1282" tvg-logo="http://epg.cdntv.online/img/1282.png" group-title="News", Power Turk
+https://cdntv.online/high/49yuvb73c6/1282.m3u8
+
+#EXTINF:0 tvg-id="1449" tvg-logo="http://epg.cdntv.online/img/1449.png" group-title="News", TRT Haber
+http://cdntv.online/high/49yuvb73c6/1449.m3u8
+
+#EXTINF:-1 tvg-id="1794" group-title="News", TRT MUZiK
+http://cdntv.online/high/49yuvb73c6/1794.m3u8
 
