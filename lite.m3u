@@ -698,7 +698,7 @@ https://cdntv.online/high/49yuvb73c6/2014.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", LIBERTY Комедии
 https://cdntv.online/high/49yuvb73c6/2015.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Взрослые", LIBERTY Эротика
+#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", LIBERTY Эротика
 https://cdntv.online/high/49yuvb73c6/2016.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", LIBERTY Планета 360
