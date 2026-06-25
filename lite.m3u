@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="Central" tvg-id="146" catchup="shift" catchup-days="3" timeshift="3",Первый канал
 https://cdntv.online/high/49yuvb73c6/29.m3u8
