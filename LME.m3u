@@ -15,8 +15,8 @@ https://cdntv.online/high/49yuvb73c6/360.m3u8
 #EXTINF:-1 tvg-id="5" group-title="Central",Пятый канал
 http://cdntv.online/high/49yuvb73c6/5.m3u8
 
-#EXTINF:-1 group-title="Central" tvg-id="187",Россия Культура
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3",Россия Культура
+http://cdntv.online/high/49yuvb73c6/6.m3u8
 
 #EXTINF:-1 tvg-id="1683" catchup="shift" catchup-days="3" timeshift="3" group-title="News",Россия 24
 https://cdntv.online/high/49yuvb73c6/7.m3u8
@@ -57,8 +57,6 @@ https://cdntv.online/high/49yuvb73c6/1036.m3u8
 #EXTINF:-1 tvg-id="domashnij-hd" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", Домашний
 https://cdntv.online/high/49yuvb73c6/2077.m3u8
 
-
-
 #EXTINF:-1 tvg-id="325" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Discovery
 https://cdntv.online/high/49yuvb73c6/300.m3u8
 
@@ -72,10 +70,10 @@ https://cdntv.online/high/49yuvb73c6/367.m3u8
 https://cdntv.online/high/49yuvb73c6/296.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Da Vinci
-https://cdntv.online/high/49yuvb73c6/298.m3u8
+
 
 #EXTINF:-1 tvg-id="306" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", ID Investigation Discovery
-https://cdntv.online/high/49yuvb73c6/306.m3u8
+
 
 #EXTINF:-1 tvg-id="223" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Nat Geo Wild
 https://cdntv.online/high/49yuvb73c6/308.m3u8
