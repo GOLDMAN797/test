@@ -91,7 +91,7 @@ https://cdntv.online/high/49yuvb73c6/315.m3u8
 https://cdntv.online/high/49yuvb73c6/370.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel Channel
-https://cdntv.online/high/49yuvb73c6/371.m3u8
+
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju Explore
 https://cdntv.online/high/49yuvb73c6/373.m3u8
@@ -124,7 +124,7 @@ https://cdntv.online/high/49yuvb73c6/581.m3u8
 https://cdntv.online/high/49yuvb73c6/582.m3u8
 
 #EXTINF:-1 group-title="News" ,Россия 1 (Нальчик)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="2265" catchup="shift" catchup-days="3" timeshift="3" group-title="News", 360
 https://cdntv.online/high/49yuvb73c6/363.m3u8
@@ -187,10 +187,10 @@ https://cdntv.online/high/49yuvb73c6/1294.m3u8
 https://cdntv.online/high/49yuvb73c6/1033.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", TLC
-https://cdntv.online/high/49yuvb73c6/170.m3u8
+
 
 #EXTINF:-1 group-title="Main", CGTN
-https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+
 
 #EXTINF:-1 group-title="Main",Живи
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
