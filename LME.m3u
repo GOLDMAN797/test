@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Lorax121/epg_v2/main/data/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1 group-title="Central" tvg-id="146" catchup="shift" catchup-days="3" timeshift="3",Первый канал
 https://cdntv.online/high/49yuvb73c6/29.m3u8
@@ -15,7 +15,7 @@ https://cdntv.online/high/49yuvb73c6/360.m3u8
 #EXTINF:-1 tvg-id="5" group-title="Central",Пятый канал
 http://cdntv.online/high/49yuvb73c6/5.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3",Россия Культура
+#EXTINF:-1 group-title="Central" tvg-id="6" catchup="shift" catchup-days="3" timeshift="3",Россия Культура
 http://cdntv.online/high/49yuvb73c6/6.m3u8
 
 #EXTINF:-1 tvg-id="1683" catchup="shift" catchup-days="3" timeshift="3" group-title="News",Россия 24
