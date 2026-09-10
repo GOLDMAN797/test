@@ -12,7 +12,7 @@ https://cdntv.online/high/49yuvb73c6/48.m3u8
 #EXTINF:-1 tvg-id="162" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",НТВ
 https://cdntv.online/high/49yuvb73c6/360.m3u8
 
-#EXTINF:-1 tvg-id="5" group-title="Central",Пятый канал
+#EXTINF:-1 tvg-id="427" group-title="Central",Пятый канал
 http://cdntv.online/high/49yuvb73c6/5.m3u8
 
 #EXTINF:-1 tvg-id="187" group-title="Central" tvg-id="6" catchup="shift" catchup-days="3" timeshift="3",Россия Культура
@@ -45,7 +45,7 @@ https://cdntv.online/high/49yuvb73c6/1115.m3u8
 #EXTINF:-1 tvg-id="726" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Мир
 https://cdntv.online/high/49yuvb73c6/1352.m3u8
 
-#EXTINF:-1 tvg-id="vmeste-rf" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Вместе-РФ
+#EXTINF:-1 tvg-id="2398" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Вместе-РФ
 https://cdntv.online/high/49yuvb73c6/282.m3u8
 
 #EXTINF:-1 tvg-id="1000" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ОТР
@@ -54,10 +54,10 @@ https://cdntv.online/high/49yuvb73c6/9.m3u8
 #EXTINF:-1 tvg-id="698" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",ТВ3
 https://cdntv.online/high/49yuvb73c6/1036.m3u8
 
-#EXTINF:-1 tvg-id="domashnij-hd" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", Домашний
+#EXTINF:-1 tvg-id="304" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", Домашний
 https://cdntv.online/high/49yuvb73c6/2077.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Discovery
+#EXTINF:-1 tvg-id="325" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Discovery
 https://cdntv.online/high/49yuvb73c6/300.m3u8
 
 #EXTINF:-1 tvg-id="1394" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", History
@@ -81,7 +81,7 @@ https://cdntv.online/high/49yuvb73c6/308.m3u8
 #EXTINF:-1 tvg-id="102" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", National Geographic
 https://cdntv.online/high/49yuvb73c6/310.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", RTG
+#EXTINF:-1 tvg-id="2280" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", RTG
 https://cdntv.online/high/49yuvb73c6/311.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel+Adventure
@@ -141,7 +141,7 @@ https://cdntv.online/high/49yuvb73c6/291.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="News", 360 Новости
 https://cdntv.online/high/49yuvb73c6/436.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png", ТАСС
+#EXTINF:-1 group-title="News" tvg-id="2157", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Main", RedBull TV  
