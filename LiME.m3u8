@@ -139,7 +139,7 @@ https://cdntv.online/hls/49yuvb73c6/361.m3u8
 https://cdntv.online/hls/49yuvb73c6/291.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="News", 360 Новости
-https://cdntv.online/hls/49yuvb73c6/436.m3u8
+
 
 #EXTINF:-1 group-title="News" tvg-id="2157", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
@@ -163,7 +163,7 @@ http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 
 #EXTINF:-1 group-title="Fashion", Monte Carlo Digital Television
-https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
+
 
 #EXTINF:-1 group-title="Main", Санкт-Петербург
 https://cdntv.online/hls/49yuvb73c6/225.m3u8
@@ -171,11 +171,11 @@ https://cdntv.online/hls/49yuvb73c6/225.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Центральное телевидение
 https://cdntv.online/hls/49yuvb73c6/359.m3u8
 
-#EXTINF:-1 group-title="Main" tvg-id="2417",Большая Азия  
-http://dmi3y-tv6.ru/hls/CH_BAZIYAHD720.m3u8
+#EXTINF:0 tvg-id="323" tvg-logo="http://epg.cdntv.online/img/323.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Большая Азия
+http://cdntv.online/high/49yuvb73c6/323.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="9015",Неизвестная Россия
-http://dmi3y-tv6.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+
 
 #EXTINF:-1 group-title="Main",TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
@@ -263,7 +263,7 @@ https://cdntv.online/hls/49yuvb73c6/274.m3u8
 https://cdntv.online/hls/49yuvb73c6/996.m3u8
 
 #EXTINF:-1 group-title="Sport" 	tvg-id="inter-it" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Inter-Milan-PNG-HD-Quality.png", InterTV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3"  group-title="Sport", Матч! Футбол 1
 https://cdntv.online/hls/49yuvb73c6/55.m3u8
