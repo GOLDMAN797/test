@@ -523,21 +523,7 @@ https://cdntv.online/hls/49yuvb73c6/379.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Советские мультфильмы
 http://cdntv.online/high/49yuvb73c6/165.m3u8
 
-#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
-#EXTINF:0 tvg-id="846" tvg-logo="http://epg.cdntv.online/img/846.png"  group-title="Кинозал", Аквариум HD
- 
-http://cdntv.online/high/49yuvb73c6/846.m3u8
-#EXTINF:0 tvg-id="847" tvg-logo="http://epg.cdntv.online/img/847.png"  group-title="Кинозал", Камин HD
- 
-http://cdntv.online/high/49yuvb73c6/847.m3u8
-#EXTINF:0 tvg-id="883" tvg-logo="http://epg.cdntv.online/img/883.png"  group-title="Кинозал", Кино 1 INT
- 
-http://cdntv.online/high/49yuvb73c6/883.m3u8
-#EXTINF:0 tvg-id="886" tvg-logo="http://epg.cdntv.online/img/886.png"  group-title="Кинозал", KINO 24
- 
-http://cdntv.online/high/49yuvb73c6/886.m3u8
-#EXTINF:0 tvg-id="897" tvg-logo="http://epg.cdntv.online/img/897.png"  group-title="Кинозал", Маша и Медведь
- 
+
 http://cdntv.online/high/49yuvb73c6/897.m3u8
 #EXTINF:0 tvg-id="1168" tvg-logo="http://epg.cdntv.online/img/1168.png"  group-title="Кинозал", Твое ТВ
  
