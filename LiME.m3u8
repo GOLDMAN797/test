@@ -57,7 +57,7 @@ https://cdntv.online/hls/49yuvb73c6/1036.m3u8
 #EXTINF:-1 tvg-id="304" catchup="shift" catchup-days="3" timeshift="3" group-title="Central", Домашний
 https://cdntv.online/hls/49yuvb73c6/2077.m3u8
 
-#EXTINF:-1 tvg-id="325" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Discovery
+#EXTINF:-1 tvg-id="300" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Discovery
 https://cdntv.online/hls/49yuvb73c6/300.m3u8
 
 #EXTINF:-1 tvg-id="1394" catchup="shift" catchup-days="3" timeshift="3" group-title="Main", History
